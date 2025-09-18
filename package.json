@@ -6,17 +6,18 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-  "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
-  "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
-  "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
-  "start:prod": "node --max-old-space-size=4096 dist/main"
-},
+    "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
+    "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
+    "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
+    "start:prod": "node --max-old-space-size=4096 dist/main"
+  },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
     "@nestjs/core": "^11.0.1",
     "@nestjs/platform-express": "^11.0.1",
     "@nestjs/typeorm": "^11.0.0",
     "@prisma/client": "^6.15.0",
+    "axios": "^1.12.2",
     "firebase-admin": "^13.5.0",
     "pg": "^8.16.3",
     "reflect-metadata": "^0.2.2",
@@ -31,6 +32,7 @@
     "@nestjs/testing": "^11.0.1",
     "@swc/cli": "^0.6.0",
     "@swc/core": "^1.10.7",
+    "@types/axios": "^0.14.4",
     "@types/express": "^5.0.0",
     "@types/jest": "^29.5.14",
     "@types/node": "^22.10.7",
