@@ -8,26 +8,36 @@ generator client {
 }
 
 model User {
-  id          Int      @id @default(autoincrement())
-  firebaseUid String   @unique
-  email       String   @unique
+  id          Int                   @id @default(autoincrement())
+  firebaseUid String                @unique
+  email       String                @unique
   name        String?
   picture     String?
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  createdAt   DateTime              @default(now())
+  updatedAt   DateTime              @updatedAt
   questions   OnBoardingQuestions[]
 }
 
 model OnBoardingQuestions {
-  id          Int      @id @default(autoincrement())
-  user        User     @relation(fields: [userId], references: [id])
-  userId      Int
+  id                       Int      @id @default(autoincrement())
+  user                     User     @relation(fields: [userId], references: [id])
+  userId                   Int
   english_proficiency_goal String
   why_are_learning_english String
-  english_level String  
-  time_spent_english String
-  streak_alerts Boolean
-  quick_challenge String
-  createdAt   DateTime @default(now())
-  updatedAt   DateTime @updatedAt
+  english_level            String
+  time_spent_english       String
+  streak_alerts            Boolean
+  quick_challenge          String
+  createdAt                DateTime @default(now())
+  updatedAt                DateTime @updatedAt
+}
+
+model VocabuloryWords {
+  id               Int      @id @default(autoincrement())
+  level            String
+  word             String
+  part_of_speech   String
+  example_Sentence String
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
 }

@@ -1,0 +1,102 @@
+[
+  {
+    "word": "man",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/mæn/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/man-uk.mp3",
+    "definitions": "An adult male human.",
+    "synonyms": "guy, male",
+    "example_Sentence": "The man is reading a newspaper."
+  },
+  {
+    "word": "woman",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/ˈwʊmən/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/woman-uk.mp3",
+    "definitions": "An adult female human.",
+    "synonyms": "lady, female",
+    "example_Sentence": "The woman is cooking dinner."
+  },
+  {
+    "word": "child",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/t͡ʃaɪld/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/child-uk.mp3",
+    "definitions": "A person who has not yet reached adulthood, whether natural (puberty), cultural (initiation), or legal (majority)",
+    "synonyms": "kid, youngster",
+    "example_Sentence": "The child plays in the garden."
+  },
+  {
+    "word": "family",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/ˈfæm(ɪ)li/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/family-uk.mp3",
+    "definitions": "A group of people who are closely related to one another (by blood, marriage or adoption); kin; for example, a set of parents and their children; an immediate family.",
+    "synonyms": "relatives, household",
+    "example_Sentence": "My family lives in London."
+  },
+  {
+    "word": "friend",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/fɹɛnd/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/friend-uk.mp3",
+    "definitions": "A person other than a family member, spouse or lover whose company one enjoys and towards whom one feels affection.",
+    "synonyms": "buddy, companion",
+    "example_Sentence": "She is my best friend."
+  },
+  {
+    "word": "house",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/haʊs/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/house-1-uk.mp3",
+    "definitions": "A structure built or serving as an abode of human beings.",
+    "synonyms": "home, residence",
+    "example_Sentence": "They bought a new house."
+  },
+  {
+    "word": "car",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/kɑː/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/car-uk.mp3",
+    "definitions": "A wheeled vehicle that moves independently, with at least three wheels, powered mechanically, steered by a driver and mostly for personal transportation.",
+    "synonyms": "vehicle, automobile",
+    "example_Sentence": "I drive my car to work."
+  },
+  {
+    "word": "food",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/fuːd/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/food-uk.mp3",
+    "definitions": "Any solid substance that can be consumed by living organisms, especially by eating, in order to sustain life.",
+    "synonyms": "meal, nourishment",
+    "example_Sentence": "The food is delicious."
+  },
+  {
+    "word": "water",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/ˈwɔːtə/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/water-uk.mp3",
+    "definitions": "A substance (of molecular formula H₂O) found at room temperature and pressure as a clear liquid; it is present naturally as rain, and found in rivers, lakes and seas; its solid form is ice and its gaseous form is steam.",
+    "synonyms": "liquid, fluid",
+    "example_Sentence": "I drink water daily."
+  },
+  {
+    "word": "book",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "/buːk/",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/book-uk.mp3",
+    "definitions": "A collection of sheets of paper bound together to hinge at one edge, containing printed or written material, pictures, etc.",
+    "synonyms": "novel, text",
+    "example_Sentence": "I'm reading a good book."
+  }
+]

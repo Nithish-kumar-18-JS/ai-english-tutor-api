@@ -1,0 +1,6442 @@
+[
+  {
+    "level": "Beginner",
+    "word": "man",
+    "part_of_speech": "noun",
+    "definition": "adult male human being",
+    "example_Sentence": "The man is reading a newspaper.",
+    "synonyms": "guy, male"
+  },
+  {
+    "level": "Beginner",
+    "word": "woman",
+    "part_of_speech": "noun",
+    "definition": "adult female human being",
+    "example_Sentence": "The woman is cooking dinner.",
+    "synonyms": "lady, female"
+  },
+  {
+    "level": "Beginner",
+    "word": "child",
+    "part_of_speech": "noun",
+    "definition": "young human being",
+    "example_Sentence": "The child plays in the garden.",
+    "synonyms": "kid, youngster"
+  },
+  {
+    "level": "Beginner",
+    "word": "family",
+    "part_of_speech": "noun",
+    "definition": "group of related people",
+    "example_Sentence": "My family lives in London.",
+    "synonyms": "relatives, household"
+  },
+  {
+    "level": "Beginner",
+    "word": "friend",
+    "part_of_speech": "noun",
+    "definition": "person you know and like",
+    "example_Sentence": "She is my best friend.",
+    "synonyms": "buddy, companion"
+  },
+  {
+    "level": "Beginner",
+    "word": "house",
+    "part_of_speech": "noun",
+    "definition": "building where people live",
+    "example_Sentence": "They bought a new house.",
+    "synonyms": "home, residence"
+  },
+  {
+    "level": "Beginner",
+    "word": "car",
+    "part_of_speech": "noun",
+    "definition": "motor vehicle with four wheels",
+    "example_Sentence": "I drive my car to work.",
+    "synonyms": "vehicle, automobile"
+  },
+  {
+    "level": "Beginner",
+    "word": "food",
+    "part_of_speech": "noun",
+    "definition": "things people eat",
+    "example_Sentence": "The food is delicious.",
+    "synonyms": "meal, nourishment"
+  },
+  {
+    "level": "Beginner",
+    "word": "water",
+    "part_of_speech": "noun",
+    "definition": "clear liquid that people drink",
+    "example_Sentence": "I drink water daily.",
+    "synonyms": "liquid, fluid"
+  },
+  {
+    "level": "Beginner",
+    "word": "book",
+    "part_of_speech": "noun",
+    "definition": "written or printed pages",
+    "example_Sentence": "I'm reading a good book.",
+    "synonyms": "novel, text"
+  },
+  {
+    "level": "Beginner",
+    "word": "school",
+    "part_of_speech": "noun",
+    "definition": "place of education",
+    "example_Sentence": "Children go to school.",
+    "synonyms": "academy, institution"
+  },
+  {
+    "level": "Beginner",
+    "word": "teacher",
+    "part_of_speech": "noun",
+    "definition": "person who teaches",
+    "example_Sentence": "The teacher explains the lesson.",
+    "synonyms": "instructor, educator"
+  },
+  {
+    "level": "Beginner",
+    "word": "student",
+    "part_of_speech": "noun",
+    "definition": "person who studies",
+    "example_Sentence": "The student does homework.",
+    "synonyms": "pupil, learner"
+  },
+  {
+    "level": "Beginner",
+    "word": "job",
+    "part_of_speech": "noun",
+    "definition": "work that someone does",
+    "example_Sentence": "He has a good job.",
+    "synonyms": "work, employment"
+  },
+  {
+    "level": "Beginner",
+    "word": "money",
+    "part_of_speech": "noun",
+    "definition": "coins and notes used for payment",
+    "example_Sentence": "I need money to buy food.",
+    "synonyms": "cash, currency"
+  },
+  {
+    "level": "Beginner",
+    "word": "time",
+    "part_of_speech": "noun",
+    "definition": "hours, minutes, seconds",
+    "example_Sentence": "What time is it?",
+    "synonyms": "hour, moment"
+  },
+  {
+    "level": "Beginner",
+    "word": "day",
+    "part_of_speech": "noun",
+    "definition": "24-hour period",
+    "example_Sentence": "Today is a beautiful day.",
+    "synonyms": "date, period"
+  },
+  {
+    "level": "Beginner",
+    "word": "week",
+    "part_of_speech": "noun",
+    "definition": "seven days",
+    "example_Sentence": "I work five days a week.",
+    "synonyms": "period, duration"
+  },
+  {
+    "level": "Beginner",
+    "word": "month",
+    "part_of_speech": "noun",
+    "definition": "period of about 30 days",
+    "example_Sentence": "January is the first month.",
+    "synonyms": "period, duration"
+  },
+  {
+    "level": "Beginner",
+    "word": "year",
+    "part_of_speech": "noun",
+    "definition": "twelve months",
+    "example_Sentence": "This year is 2025.",
+    "synonyms": "period, duration"
+  },
+  {
+    "level": "Beginner",
+    "word": "morning",
+    "part_of_speech": "noun",
+    "definition": "early part of the day",
+    "example_Sentence": "I wake up in the morning.",
+    "synonyms": "dawn, daybreak"
+  },
+  {
+    "level": "Beginner",
+    "word": "afternoon",
+    "part_of_speech": "noun",
+    "definition": "middle part of the day",
+    "example_Sentence": "We meet in the afternoon.",
+    "synonyms": "midday, daytime"
+  },
+  {
+    "level": "Beginner",
+    "word": "evening",
+    "part_of_speech": "noun",
+    "definition": "end of the day",
+    "example_Sentence": "We have dinner in the evening.",
+    "synonyms": "night, dusk"
+  },
+  {
+    "level": "Beginner",
+    "word": "night",
+    "part_of_speech": "noun",
+    "definition": "dark hours",
+    "example_Sentence": "I sleep at night.",
+    "synonyms": "darkness, nighttime"
+  },
+  {
+    "level": "Beginner",
+    "word": "home",
+    "part_of_speech": "noun",
+    "definition": "place where you live",
+    "example_Sentence": "I go home after work.",
+    "synonyms": "house, residence"
+  },
+  {
+    "level": "Beginner",
+    "word": "city",
+    "part_of_speech": "noun",
+    "definition": "large town",
+    "example_Sentence": "London is a big city.",
+    "synonyms": "town, metropolis"
+  },
+  {
+    "level": "Beginner",
+    "word": "country",
+    "part_of_speech": "noun",
+    "definition": "nation or rural area",
+    "example_Sentence": "France is a beautiful country.",
+    "synonyms": "nation, state"
+  },
+  {
+    "level": "Beginner",
+    "word": "world",
+    "part_of_speech": "noun",
+    "definition": "the earth and all people",
+    "example_Sentence": "The world is round.",
+    "synonyms": "earth, globe"
+  },
+  {
+    "level": "Beginner",
+    "word": "hand",
+    "part_of_speech": "noun",
+    "definition": "part of body at end of arm",
+    "example_Sentence": "I write with my hand.",
+    "synonyms": "palm, fist"
+  },
+  {
+    "level": "Beginner",
+    "word": "head",
+    "part_of_speech": "noun",
+    "definition": "top part of body",
+    "example_Sentence": "He has a headache.",
+    "synonyms": "skull, brain"
+  },
+  {
+    "level": "Beginner",
+    "word": "eye",
+    "part_of_speech": "noun",
+    "definition": "organ of sight",
+    "example_Sentence": "She has blue eyes.",
+    "synonyms": "vision, sight"
+  },
+  {
+    "level": "Beginner",
+    "word": "face",
+    "part_of_speech": "noun",
+    "definition": "front of head",
+    "example_Sentence": "He has a kind face.",
+    "synonyms": "features, expression"
+  },
+  {
+    "level": "Beginner",
+    "word": "door",
+    "part_of_speech": "noun",
+    "definition": "entrance to room",
+    "example_Sentence": "Please close the door.",
+    "synonyms": "entrance, gate"
+  },
+  {
+    "level": "Beginner",
+    "word": "window",
+    "part_of_speech": "noun",
+    "definition": "glass opening in wall",
+    "example_Sentence": "Open the window please.",
+    "synonyms": "opening, glass"
+  },
+  {
+    "level": "Beginner",
+    "word": "table",
+    "part_of_speech": "noun",
+    "definition": "flat surface with legs",
+    "example_Sentence": "Put the book on the table.",
+    "synonyms": "desk, surface"
+  },
+  {
+    "level": "Beginner",
+    "word": "chair",
+    "part_of_speech": "noun",
+    "definition": "seat with back",
+    "example_Sentence": "Sit on the chair.",
+    "synonyms": "seat, stool"
+  },
+  {
+    "level": "Beginner",
+    "word": "bed",
+    "part_of_speech": "noun",
+    "definition": "furniture for sleeping",
+    "example_Sentence": "I sleep in my bed.",
+    "synonyms": "mattress, couch"
+  },
+  {
+    "level": "Beginner",
+    "word": "room",
+    "part_of_speech": "noun",
+    "definition": "space in building",
+    "example_Sentence": "This is my room.",
+    "synonyms": "chamber, space"
+  },
+  {
+    "level": "Beginner",
+    "word": "kitchen",
+    "part_of_speech": "noun",
+    "definition": "room for cooking",
+    "example_Sentence": "She cooks in the kitchen.",
+    "synonyms": "cookroom, galley"
+  },
+  {
+    "level": "Beginner",
+    "word": "bathroom",
+    "part_of_speech": "noun",
+    "definition": "room with bath/toilet",
+    "example_Sentence": "The bathroom is upstairs.",
+    "synonyms": "washroom, restroom"
+  },
+  {
+    "level": "Beginner",
+    "word": "phone",
+    "part_of_speech": "noun",
+    "definition": "device for calling",
+    "example_Sentence": "Answer the phone please.",
+    "synonyms": "telephone, mobile"
+  },
+  {
+    "level": "Beginner",
+    "word": "computer",
+    "part_of_speech": "noun",
+    "definition": "electronic device",
+    "example_Sentence": "I use my computer daily.",
+    "synonyms": "laptop, PC"
+  },
+  {
+    "level": "Beginner",
+    "word": "television",
+    "part_of_speech": "noun",
+    "definition": "device showing programs",
+    "example_Sentence": "We watch television.",
+    "synonyms": "TV, set"
+  },
+  {
+    "level": "Beginner",
+    "word": "radio",
+    "part_of_speech": "noun",
+    "definition": "device for music/news",
+    "example_Sentence": "Listen to the radio.",
+    "synonyms": "receiver, player"
+  },
+  {
+    "level": "Beginner",
+    "word": "music",
+    "part_of_speech": "noun",
+    "definition": "sounds that are pleasant",
+    "example_Sentence": "I love classical music.",
+    "synonyms": "songs, melodies"
+  },
+  {
+    "level": "Beginner",
+    "word": "movie",
+    "part_of_speech": "noun",
+    "definition": "film shown in cinema",
+    "example_Sentence": "We watched a good movie.",
+    "synonyms": "film, picture"
+  },
+  {
+    "level": "Beginner",
+    "word": "game",
+    "part_of_speech": "noun",
+    "definition": "activity for fun",
+    "example_Sentence": "Let's play a game.",
+    "synonyms": "sport, activity"
+  },
+  {
+    "level": "Beginner",
+    "word": "sport",
+    "part_of_speech": "noun",
+    "definition": "physical activity",
+    "example_Sentence": "Football is my favorite sport.",
+    "synonyms": "game, exercise"
+  },
+  {
+    "level": "Beginner",
+    "word": "holiday",
+    "part_of_speech": "noun",
+    "definition": "time off work",
+    "example_Sentence": "We're going on holiday.",
+    "synonyms": "vacation, break"
+  },
+  {
+    "level": "Beginner",
+    "word": "travel",
+    "part_of_speech": "noun",
+    "definition": "journey to places",
+    "example_Sentence": "I love to travel.",
+    "synonyms": "trip, journey"
+  },
+  {
+    "level": "Beginner",
+    "word": "hotel",
+    "part_of_speech": "noun",
+    "definition": "place to stay",
+    "example_Sentence": "We stayed at a hotel.",
+    "synonyms": "inn, lodge"
+  },
+  {
+    "level": "Beginner",
+    "word": "restaurant",
+    "part_of_speech": "noun",
+    "definition": "place to eat",
+    "example_Sentence": "This restaurant is good.",
+    "synonyms": "cafe, diner"
+  },
+  {
+    "level": "Beginner",
+    "word": "shop",
+    "part_of_speech": "noun",
+    "definition": "place to buy things",
+    "example_Sentence": "The shop is open.",
+    "synonyms": "store, market"
+  },
+  {
+    "level": "Beginner",
+    "word": "market",
+    "part_of_speech": "noun",
+    "definition": "place selling goods",
+    "example_Sentence": "Buy fruit at the market.",
+    "synonyms": "bazaar, store"
+  },
+  {
+    "level": "Beginner",
+    "word": "bank",
+    "part_of_speech": "noun",
+    "definition": "place for money",
+    "example_Sentence": "I go to the bank.",
+    "synonyms": "financial, institution"
+  },
+  {
+    "level": "Beginner",
+    "word": "hospital",
+    "part_of_speech": "noun",
+    "definition": "place for sick people",
+    "example_Sentence": "He's in the hospital.",
+    "synonyms": "clinic, medical"
+  },
+  {
+    "level": "Beginner",
+    "word": "doctor",
+    "part_of_speech": "noun",
+    "definition": "medical professional",
+    "example_Sentence": "See the doctor tomorrow.",
+    "synonyms": "physician, medic"
+  },
+  {
+    "level": "Beginner",
+    "word": "nurse",
+    "part_of_speech": "noun",
+    "definition": "medical helper",
+    "example_Sentence": "The nurse is kind.",
+    "synonyms": "carer, medic"
+  },
+  {
+    "level": "Beginner",
+    "word": "police",
+    "part_of_speech": "noun",
+    "definition": "law enforcement",
+    "example_Sentence": "Call the police!",
+    "synonyms": "officers, law"
+  },
+  {
+    "level": "Beginner",
+    "word": "fire",
+    "part_of_speech": "noun",
+    "definition": "burning flames",
+    "example_Sentence": "The fire is hot.",
+    "synonyms": "flames, blaze"
+  },
+  {
+    "level": "Beginner",
+    "word": "animal",
+    "part_of_speech": "noun",
+    "definition": "living creature",
+    "example_Sentence": "Dogs are friendly animals.",
+    "synonyms": "creature, beast"
+  },
+  {
+    "level": "Beginner",
+    "word": "dog",
+    "part_of_speech": "noun",
+    "definition": "pet animal",
+    "example_Sentence": "My dog is playful.",
+    "synonyms": "puppy, hound"
+  },
+  {
+    "level": "Beginner",
+    "word": "cat",
+    "part_of_speech": "noun",
+    "definition": "pet animal",
+    "example_Sentence": "The cat sleeps.",
+    "synonyms": "kitten, feline"
+  },
+  {
+    "level": "Beginner",
+    "word": "bird",
+    "part_of_speech": "noun",
+    "definition": "flying animal",
+    "example_Sentence": "Birds can fly.",
+    "synonyms": "fowl, creature"
+  },
+  {
+    "level": "Beginner",
+    "word": "fish",
+    "part_of_speech": "noun",
+    "definition": "water animal",
+    "example_Sentence": "Fish live in water.",
+    "synonyms": "seafood, marine"
+  },
+  {
+    "level": "Beginner",
+    "word": "tree",
+    "part_of_speech": "noun",
+    "definition": "tall plant",
+    "example_Sentence": "The tree is big.",
+    "synonyms": "plant, oak"
+  },
+  {
+    "level": "Beginner",
+    "word": "flower",
+    "part_of_speech": "noun",
+    "definition": "colorful plant part",
+    "example_Sentence": "Roses are beautiful flowers.",
+    "synonyms": "bloom, blossom"
+  },
+  {
+    "level": "Beginner",
+    "word": "sun",
+    "part_of_speech": "noun",
+    "definition": "star that gives light",
+    "example_Sentence": "The sun is bright.",
+    "synonyms": "daylight, sunshine"
+  },
+  {
+    "level": "Beginner",
+    "word": "moon",
+    "part_of_speech": "noun",
+    "definition": "earth's satellite",
+    "example_Sentence": "The moon is full.",
+    "synonyms": "satellite, orb"
+  },
+  {
+    "level": "Beginner",
+    "word": "rain",
+    "part_of_speech": "noun",
+    "definition": "water from clouds",
+    "example_Sentence": "It's going to rain.",
+    "synonyms": "shower, drizzle"
+  },
+  {
+    "level": "Beginner",
+    "word": "snow",
+    "part_of_speech": "noun",
+    "definition": "frozen water",
+    "example_Sentence": "Snow is white.",
+    "synonyms": "flakes, frost"
+  },
+  {
+    "level": "Beginner",
+    "word": "wind",
+    "part_of_speech": "noun",
+    "definition": "moving air",
+    "example_Sentence": "The wind is strong.",
+    "synonyms": "breeze, gust"
+  },
+  {
+    "level": "Beginner",
+    "word": "weather",
+    "part_of_speech": "noun",
+    "definition": "atmospheric conditions",
+    "example_Sentence": "The weather is nice.",
+    "synonyms": "climate, conditions"
+  },
+  {
+    "level": "Beginner",
+    "word": "color",
+    "part_of_speech": "noun",
+    "definition": "visual property",
+    "example_Sentence": "Red is my favorite color.",
+    "synonyms": "hue, shade"
+  },
+  {
+    "level": "Beginner",
+    "word": "number",
+    "part_of_speech": "noun",
+    "definition": "mathematical symbol",
+    "example_Sentence": "Seven is a lucky number.",
+    "synonyms": "digit, figure"
+  },
+  {
+    "level": "Beginner",
+    "word": "letter",
+    "part_of_speech": "noun",
+    "definition": "written message",
+    "example_Sentence": "I received a letter.",
+    "synonyms": "mail, note"
+  },
+  {
+    "level": "Beginner",
+    "word": "word",
+    "part_of_speech": "noun",
+    "definition": "unit of language",
+    "example_Sentence": "This is a difficult word.",
+    "synonyms": "term, expression"
+  },
+  {
+    "level": "Beginner",
+    "word": "language",
+    "part_of_speech": "noun",
+    "definition": "system of communication",
+    "example_Sentence": "English is a global language.",
+    "synonyms": "tongue, speech"
+  },
+  {
+    "level": "Beginner",
+    "word": "question",
+    "part_of_speech": "noun",
+    "definition": "asking for information",
+    "example_Sentence": "I have a question.",
+    "synonyms": "inquiry, query"
+  },
+  {
+    "level": "Beginner",
+    "word": "answer",
+    "part_of_speech": "noun",
+    "definition": "response to question",
+    "example_Sentence": "What's the answer?",
+    "synonyms": "reply, response"
+  },
+  {
+    "level": "Beginner",
+    "word": "story",
+    "part_of_speech": "noun",
+    "definition": "narrative account",
+    "example_Sentence": "Tell me a story.",
+    "synonyms": "tale, narrative"
+  },
+  {
+    "level": "Beginner",
+    "word": "news",
+    "part_of_speech": "noun",
+    "definition": "recent information",
+    "example_Sentence": "Did you hear the news?",
+    "synonyms": "information, report"
+  },
+  {
+    "level": "Beginner",
+    "word": "picture",
+    "part_of_speech": "noun",
+    "definition": "visual image",
+    "example_Sentence": "Look at this picture.",
+    "synonyms": "image, photo"
+  },
+  {
+    "level": "Beginner",
+    "word": "photo",
+    "part_of_speech": "noun",
+    "definition": "photograph",
+    "example_Sentence": "Take a photo.",
+    "synonyms": "picture, snapshot"
+  },
+  {
+    "level": "Beginner",
+    "word": "party",
+    "part_of_speech": "noun",
+    "definition": "social gathering",
+    "example_Sentence": "We had a birthday party.",
+    "synonyms": "celebration, gathering"
+  },
+  {
+    "level": "Beginner",
+    "word": "birthday",
+    "part_of_speech": "noun",
+    "definition": "anniversary of birth",
+    "example_Sentence": "Today is my birthday.",
+    "synonyms": "anniversary, celebration"
+  },
+  {
+    "level": "Beginner",
+    "word": "gift",
+    "part_of_speech": "noun",
+    "definition": "present given",
+    "example_Sentence": "I bought you a gift.",
+    "synonyms": "present, offering"
+  },
+  {
+    "level": "Beginner",
+    "word": "smile",
+    "part_of_speech": "noun",
+    "definition": "happy facial expression",
+    "example_Sentence": "She has a beautiful smile.",
+    "synonyms": "grin, beam"
+  },
+  {
+    "level": "Beginner",
+    "word": "laugh",
+    "part_of_speech": "noun",
+    "definition": "sound of amusement",
+    "example_Sentence": "His laugh is contagious.",
+    "synonyms": "giggle, chuckle"
+  },
+  {
+    "level": "Beginner",
+    "word": "love",
+    "part_of_speech": "noun",
+    "definition": "strong affection",
+    "example_Sentence": "Love is important.",
+    "synonyms": "affection, care"
+  },
+  {
+    "level": "Beginner",
+    "word": "happiness",
+    "part_of_speech": "noun",
+    "definition": "feeling of joy",
+    "example_Sentence": "Happiness is everything.",
+    "synonyms": "joy, delight"
+  },
+  {
+    "level": "Beginner",
+    "word": "problem",
+    "part_of_speech": "noun",
+    "definition": "difficult situation",
+    "example_Sentence": "We have a problem.",
+    "synonyms": "issue, difficulty"
+  },
+  {
+    "level": "Beginner",
+    "word": "help",
+    "part_of_speech": "noun",
+    "definition": "assistance given",
+    "example_Sentence": "I need your help.",
+    "synonyms": "aid, support"
+  },
+  {
+    "level": "Beginner",
+    "word": "work",
+    "part_of_speech": "noun",
+    "definition": "activity or job",
+    "example_Sentence": "I have a lot of work.",
+    "synonyms": "job, labor"
+  },
+  {
+    "level": "Beginner",
+    "word": "place",
+    "part_of_speech": "noun",
+    "definition": "location or area",
+    "example_Sentence": "This is a nice place.",
+    "synonyms": "location, spot"
+  },
+  {
+    "level": "Beginner",
+    "word": "thing",
+    "part_of_speech": "noun",
+    "definition": "object or matter",
+    "example_Sentence": "What's that thing?",
+    "synonyms": "object, item"
+  },
+  {
+    "level": "Beginner",
+    "word": "person",
+    "part_of_speech": "noun",
+    "definition": "human being",
+    "example_Sentence": "He's a nice person.",
+    "synonyms": "individual, human"
+  },
+  {
+    "level": "Beginner",
+    "word": "people",
+    "part_of_speech": "noun",
+    "definition": "group of persons",
+    "example_Sentence": "Many people came.",
+    "synonyms": "folk, crowd"
+  },
+  {
+    "level": "Beginner",
+    "word": "way",
+    "part_of_speech": "noun",
+    "definition": "method or path",
+    "example_Sentence": "Which way to go?",
+    "synonyms": "path, method"
+  },
+  {
+    "level": "Beginner",
+    "word": "life",
+    "part_of_speech": "noun",
+    "definition": "existence of living",
+    "example_Sentence": "Life is beautiful.",
+    "synonyms": "existence, being"
+  },
+  {
+    "level": "Beginner",
+    "word": "health",
+    "part_of_speech": "noun",
+    "definition": "physical condition",
+    "example_Sentence": "Health is wealth.",
+    "synonyms": "wellness, fitness"
+  },
+  {
+    "level": "Beginner",
+    "word": "age",
+    "part_of_speech": "noun",
+    "definition": "how old someone is",
+    "example_Sentence": "What's your age?",
+    "synonyms": "years, maturity"
+  },
+  {
+    "level": "Beginner",
+    "word": "size",
+    "part_of_speech": "noun",
+    "definition": "how big something is",
+    "example_Sentence": "What size do you need?",
+    "synonyms": "dimension, scale"
+  },
+  {
+    "level": "Beginner",
+    "word": "price",
+    "part_of_speech": "noun",
+    "definition": "cost of something",
+    "example_Sentence": "What's the price?",
+    "synonyms": "cost, amount"
+  },
+  {
+    "level": "Beginner",
+    "word": "name",
+    "part_of_speech": "noun",
+    "definition": "what someone is called",
+    "example_Sentence": "What's your name?",
+    "synonyms": "title, label"
+  },
+  {
+    "level": "Beginner",
+    "word": "address",
+    "part_of_speech": "noun",
+    "definition": "where someone lives",
+    "example_Sentence": "What's your address?",
+    "synonyms": "location, residence"
+  },
+  {
+    "level": "Beginner",
+    "word": "country",
+    "part_of_speech": "noun",
+    "definition": "nation",
+    "example_Sentence": "Which country are you from?",
+    "synonyms": "nation, homeland"
+  },
+  {
+    "level": "Beginner",
+    "word": "language",
+    "part_of_speech": "noun",
+    "definition": "way of speaking",
+    "example_Sentence": "English is my first language.",
+    "synonyms": "tongue, dialect"
+  },
+  {
+    "level": "Beginner",
+    "word": "be",
+    "part_of_speech": "verb",
+    "definition": "to exist or have identity",
+    "example_Sentence": "I am happy today.",
+    "synonyms": "exist, remain"
+  },
+  {
+    "level": "Beginner",
+    "word": "have",
+    "part_of_speech": "verb",
+    "definition": "to possess or own",
+    "example_Sentence": "I have a car.",
+    "synonyms": "own, possess"
+  },
+  {
+    "level": "Beginner",
+    "word": "do",
+    "part_of_speech": "verb",
+    "definition": "to perform an action",
+    "example_Sentence": "What do you do?",
+    "synonyms": "perform, execute"
+  },
+  {
+    "level": "Beginner",
+    "word": "say",
+    "part_of_speech": "verb",
+    "definition": "to speak words",
+    "example_Sentence": "What did you say?",
+    "synonyms": "speak, tell"
+  },
+  {
+    "level": "Beginner",
+    "word": "get",
+    "part_of_speech": "verb",
+    "definition": "to obtain or receive",
+    "example_Sentence": "I need to get milk.",
+    "synonyms": "obtain, receive"
+  },
+  {
+    "level": "Beginner",
+    "word": "make",
+    "part_of_speech": "verb",
+    "definition": "to create or produce",
+    "example_Sentence": "I make breakfast.",
+    "synonyms": "create, produce"
+  },
+  {
+    "level": "Beginner",
+    "word": "go",
+    "part_of_speech": "verb",
+    "definition": "to move from one place",
+    "example_Sentence": "Let's go home.",
+    "synonyms": "move, travel"
+  },
+  {
+    "level": "Beginner",
+    "word": "know",
+    "part_of_speech": "verb",
+    "definition": "to have information",
+    "example_Sentence": "I know the answer.",
+    "synonyms": "understand, realize"
+  },
+  {
+    "level": "Beginner",
+    "word": "take",
+    "part_of_speech": "verb",
+    "definition": "to grab or carry",
+    "example_Sentence": "Take this book.",
+    "synonyms": "grab, carry"
+  },
+  {
+    "level": "Beginner",
+    "word": "see",
+    "part_of_speech": "verb",
+    "definition": "to view with eyes",
+    "example_Sentence": "I can see you.",
+    "synonyms": "view, look"
+  },
+  {
+    "level": "Beginner",
+    "word": "come",
+    "part_of_speech": "verb",
+    "definition": "to move toward",
+    "example_Sentence": "Come here please.",
+    "synonyms": "approach, arrive"
+  },
+  {
+    "level": "Beginner",
+    "word": "think",
+    "part_of_speech": "verb",
+    "definition": "to use mind",
+    "example_Sentence": "I think you're right.",
+    "synonyms": "believe, consider"
+  },
+  {
+    "level": "Beginner",
+    "word": "look",
+    "part_of_speech": "verb",
+    "definition": "to direct eyes",
+    "example_Sentence": "Look at me.",
+    "synonyms": "watch, observe"
+  },
+  {
+    "level": "Beginner",
+    "word": "want",
+    "part_of_speech": "verb",
+    "definition": "to desire",
+    "example_Sentence": "I want some coffee.",
+    "synonyms": "desire, wish"
+  },
+  {
+    "level": "Beginner",
+    "word": "give",
+    "part_of_speech": "verb",
+    "definition": "to hand over",
+    "example_Sentence": "Give me the pen.",
+    "synonyms": "hand, offer"
+  },
+  {
+    "level": "Beginner",
+    "word": "use",
+    "part_of_speech": "verb",
+    "definition": "to employ",
+    "example_Sentence": "Use this computer.",
+    "synonyms": "employ, utilize"
+  },
+  {
+    "level": "Beginner",
+    "word": "find",
+    "part_of_speech": "verb",
+    "definition": "to discover",
+    "example_Sentence": "Find your keys.",
+    "synonyms": "discover, locate"
+  },
+  {
+    "level": "Beginner",
+    "word": "tell",
+    "part_of_speech": "verb",
+    "definition": "to inform",
+    "example_Sentence": "Tell me the truth.",
+    "synonyms": "inform, explain"
+  },
+  {
+    "level": "Beginner",
+    "word": "ask",
+    "part_of_speech": "verb",
+    "definition": "to request information",
+    "example_Sentence": "Ask a question.",
+    "synonyms": "request, inquire"
+  },
+  {
+    "level": "Beginner",
+    "word": "work",
+    "part_of_speech": "verb",
+    "definition": "to do a job",
+    "example_Sentence": "I work every day.",
+    "synonyms": "labor, function"
+  },
+  {
+    "level": "Beginner",
+    "word": "seem",
+    "part_of_speech": "verb",
+    "definition": "to appear to be",
+    "example_Sentence": "You seem tired.",
+    "synonyms": "appear, look"
+  },
+  {
+    "level": "Beginner",
+    "word": "feel",
+    "part_of_speech": "verb",
+    "definition": "to experience emotion",
+    "example_Sentence": "I feel happy.",
+    "synonyms": "experience, sense"
+  },
+  {
+    "level": "Beginner",
+    "word": "try",
+    "part_of_speech": "verb",
+    "definition": "to attempt",
+    "example_Sentence": "Try this food.",
+    "synonyms": "attempt, test"
+  },
+  {
+    "level": "Beginner",
+    "word": "leave",
+    "part_of_speech": "verb",
+    "definition": "to go away",
+    "example_Sentence": "I must leave now.",
+    "synonyms": "depart, exit"
+  },
+  {
+    "level": "Beginner",
+    "word": "call",
+    "part_of_speech": "verb",
+    "definition": "to telephone",
+    "example_Sentence": "Call me tonight.",
+    "synonyms": "phone, ring"
+  },
+  {
+    "level": "Beginner",
+    "word": "need",
+    "part_of_speech": "verb",
+    "definition": "to require",
+    "example_Sentence": "I need help.",
+    "synonyms": "require, want"
+  },
+  {
+    "level": "Beginner",
+    "word": "put",
+    "part_of_speech": "verb",
+    "definition": "to place",
+    "example_Sentence": "Put it here.",
+    "synonyms": "place, set"
+  },
+  {
+    "level": "Beginner",
+    "word": "mean",
+    "part_of_speech": "verb",
+    "definition": "to intend",
+    "example_Sentence": "What do you mean?",
+    "synonyms": "intend, signify"
+  },
+  {
+    "level": "Beginner",
+    "word": "keep",
+    "part_of_speech": "verb",
+    "definition": "to retain",
+    "example_Sentence": "Keep this safe.",
+    "synonyms": "retain, hold"
+  },
+  {
+    "level": "Beginner",
+    "word": "let",
+    "part_of_speech": "verb",
+    "definition": "to allow",
+    "example_Sentence": "Let me help.",
+    "synonyms": "allow, permit"
+  },
+  {
+    "level": "Beginner",
+    "word": "begin",
+    "part_of_speech": "verb",
+    "definition": "to start",
+    "example_Sentence": "Let's begin now.",
+    "synonyms": "start, commence"
+  },
+  {
+    "level": "Beginner",
+    "word": "help",
+    "part_of_speech": "verb",
+    "definition": "to assist",
+    "example_Sentence": "Help me please.",
+    "synonyms": "assist, aid"
+  },
+  {
+    "level": "Beginner",
+    "word": "talk",
+    "part_of_speech": "verb",
+    "definition": "to speak",
+    "example_Sentence": "Let's talk later.",
+    "synonyms": "speak, chat"
+  },
+  {
+    "level": "Beginner",
+    "word": "turn",
+    "part_of_speech": "verb",
+    "definition": "to rotate",
+    "example_Sentence": "Turn left here.",
+    "synonyms": "rotate, change"
+  },
+  {
+    "level": "Beginner",
+    "word": "start",
+    "part_of_speech": "verb",
+    "definition": "to begin",
+    "example_Sentence": "Start the car.",
+    "synonyms": "begin, commence"
+  },
+  {
+    "level": "Beginner",
+    "word": "show",
+    "part_of_speech": "verb",
+    "definition": "to display",
+    "example_Sentence": "Show me the way.",
+    "synonyms": "display, demonstrate"
+  },
+  {
+    "level": "Beginner",
+    "word": "hear",
+    "part_of_speech": "verb",
+    "definition": "to perceive sound",
+    "example_Sentence": "I can hear music.",
+    "synonyms": "listen, perceive"
+  },
+  {
+    "level": "Beginner",
+    "word": "play",
+    "part_of_speech": "verb",
+    "definition": "to have fun",
+    "example_Sentence": "Children love to play.",
+    "synonyms": "enjoy, perform"
+  },
+  {
+    "level": "Beginner",
+    "word": "run",
+    "part_of_speech": "verb",
+    "definition": "to move quickly",
+    "example_Sentence": "I run every morning.",
+    "synonyms": "jog, sprint"
+  },
+  {
+    "level": "Beginner",
+    "word": "move",
+    "part_of_speech": "verb",
+    "definition": "to change position",
+    "example_Sentence": "Move your chair.",
+    "synonyms": "shift, relocate"
+  },
+  {
+    "level": "Beginner",
+    "word": "live",
+    "part_of_speech": "verb",
+    "definition": "to exist",
+    "example_Sentence": "I live in London.",
+    "synonyms": "exist, reside"
+  },
+  {
+    "level": "Beginner",
+    "word": "believe",
+    "part_of_speech": "verb",
+    "definition": "to think true",
+    "example_Sentence": "I believe you.",
+    "synonyms": "trust, accept"
+  },
+  {
+    "level": "Beginner",
+    "word": "hold",
+    "part_of_speech": "verb",
+    "definition": "to grasp",
+    "example_Sentence": "Hold my hand.",
+    "synonyms": "grasp, grip"
+  },
+  {
+    "level": "Beginner",
+    "word": "bring",
+    "part_of_speech": "verb",
+    "definition": "to carry here",
+    "example_Sentence": "Bring your book.",
+    "synonyms": "carry, fetch"
+  },
+  {
+    "level": "Beginner",
+    "word": "happen",
+    "part_of_speech": "verb",
+    "definition": "to occur",
+    "example_Sentence": "What will happen?",
+    "synonyms": "occur, take"
+  },
+  {
+    "level": "Beginner",
+    "word": "write",
+    "part_of_speech": "verb",
+    "definition": "to form letters",
+    "example_Sentence": "Write your name.",
+    "synonyms": "record, note"
+  },
+  {
+    "level": "Beginner",
+    "word": "sit",
+    "part_of_speech": "verb",
+    "definition": "to be seated",
+    "example_Sentence": "Sit down please.",
+    "synonyms": "rest, settle"
+  },
+  {
+    "level": "Beginner",
+    "word": "stand",
+    "part_of_speech": "verb",
+    "definition": "to be upright",
+    "example_Sentence": "Please stand up.",
+    "synonyms": "rise, remain"
+  },
+  {
+    "level": "Beginner",
+    "word": "lose",
+    "part_of_speech": "verb",
+    "definition": "to misplace",
+    "example_Sentence": "Don't lose your keys.",
+    "synonyms": "misplace, drop"
+  },
+  {
+    "level": "Beginner",
+    "word": "pay",
+    "part_of_speech": "verb",
+    "definition": "to give money",
+    "example_Sentence": "Pay the bill.",
+    "synonyms": "spend, give"
+  },
+  {
+    "level": "Beginner",
+    "word": "meet",
+    "part_of_speech": "verb",
+    "definition": "to encounter",
+    "example_Sentence": "Nice to meet you.",
+    "synonyms": "encounter, greet"
+  },
+  {
+    "level": "Beginner",
+    "word": "include",
+    "part_of_speech": "verb",
+    "definition": "to contain",
+    "example_Sentence": "The price includes tax.",
+    "synonyms": "contain, involve"
+  },
+  {
+    "level": "Beginner",
+    "word": "continue",
+    "part_of_speech": "verb",
+    "definition": "to keep going",
+    "example_Sentence": "Continue reading.",
+    "synonyms": "proceed, maintain"
+  },
+  {
+    "level": "Beginner",
+    "word": "set",
+    "part_of_speech": "verb",
+    "definition": "to place",
+    "example_Sentence": "Set the table.",
+    "synonyms": "place, arrange"
+  },
+  {
+    "level": "Beginner",
+    "word": "learn",
+    "part_of_speech": "verb",
+    "definition": "to gain knowledge",
+    "example_Sentence": "Learn English.",
+    "synonyms": "study, master"
+  },
+  {
+    "level": "Beginner",
+    "word": "change",
+    "part_of_speech": "verb",
+    "definition": "to become different",
+    "example_Sentence": "Change your clothes.",
+    "synonyms": "alter, modify"
+  },
+  {
+    "level": "Beginner",
+    "word": "lead",
+    "part_of_speech": "verb",
+    "definition": "to guide",
+    "example_Sentence": "Lead the way.",
+    "synonyms": "guide, direct"
+  },
+  {
+    "level": "Beginner",
+    "word": "understand",
+    "part_of_speech": "verb",
+    "definition": "to comprehend",
+    "example_Sentence": "I understand you.",
+    "synonyms": "comprehend, grasp"
+  },
+  {
+    "level": "Beginner",
+    "word": "watch",
+    "part_of_speech": "verb",
+    "definition": "to observe",
+    "example_Sentence": "Watch television.",
+    "synonyms": "observe, view"
+  },
+  {
+    "level": "Beginner",
+    "word": "follow",
+    "part_of_speech": "verb",
+    "definition": "to go behind",
+    "example_Sentence": "Follow me.",
+    "synonyms": "pursue, chase"
+  },
+  {
+    "level": "Beginner",
+    "word": "stop",
+    "part_of_speech": "verb",
+    "definition": "to cease",
+    "example_Sentence": "Stop the car.",
+    "synonyms": "cease, halt"
+  },
+  {
+    "level": "Beginner",
+    "word": "create",
+    "part_of_speech": "verb",
+    "definition": "to make",
+    "example_Sentence": "Create something new.",
+    "synonyms": "make, produce"
+  },
+  {
+    "level": "Beginner",
+    "word": "speak",
+    "part_of_speech": "verb",
+    "definition": "to talk",
+    "example_Sentence": "Speak louder please.",
+    "synonyms": "talk, say"
+  },
+  {
+    "level": "Beginner",
+    "word": "read",
+    "part_of_speech": "verb",
+    "definition": "to look at words",
+    "example_Sentence": "Read this book.",
+    "synonyms": "study, scan"
+  },
+  {
+    "level": "Beginner",
+    "word": "spend",
+    "part_of_speech": "verb",
+    "definition": "to use money",
+    "example_Sentence": "Spend wisely.",
+    "synonyms": "use, pay"
+  },
+  {
+    "level": "Beginner",
+    "word": "grow",
+    "part_of_speech": "verb",
+    "definition": "to become bigger",
+    "example_Sentence": "Plants grow fast.",
+    "synonyms": "develop, increase"
+  },
+  {
+    "level": "Beginner",
+    "word": "open",
+    "part_of_speech": "verb",
+    "definition": "to unclose",
+    "example_Sentence": "Open the door.",
+    "synonyms": "unlock, reveal"
+  },
+  {
+    "level": "Beginner",
+    "word": "walk",
+    "part_of_speech": "verb",
+    "definition": "to move on foot",
+    "example_Sentence": "Let's walk together.",
+    "synonyms": "stroll, march"
+  },
+  {
+    "level": "Beginner",
+    "word": "win",
+    "part_of_speech": "verb",
+    "definition": "to be victorious",
+    "example_Sentence": "Our team will win.",
+    "synonyms": "succeed, triumph"
+  },
+  {
+    "level": "Beginner",
+    "word": "offer",
+    "part_of_speech": "verb",
+    "definition": "to provide",
+    "example_Sentence": "I offer my help.",
+    "synonyms": "provide, give"
+  },
+  {
+    "level": "Beginner",
+    "word": "remember",
+    "part_of_speech": "verb",
+    "definition": "to recall",
+    "example_Sentence": "Remember my name.",
+    "synonyms": "recall, recollect"
+  },
+  {
+    "level": "Beginner",
+    "word": "love",
+    "part_of_speech": "verb",
+    "definition": "to care deeply",
+    "example_Sentence": "I love my family.",
+    "synonyms": "adore, cherish"
+  },
+  {
+    "level": "Beginner",
+    "word": "consider",
+    "part_of_speech": "verb",
+    "definition": "to think about",
+    "example_Sentence": "Consider this option.",
+    "synonyms": "think, ponder"
+  },
+  {
+    "level": "Beginner",
+    "word": "appear",
+    "part_of_speech": "verb",
+    "definition": "to come into view",
+    "example_Sentence": "Stars appear at night.",
+    "synonyms": "show, emerge"
+  },
+  {
+    "level": "Beginner",
+    "word": "buy",
+    "part_of_speech": "verb",
+    "definition": "to purchase",
+    "example_Sentence": "Buy some milk.",
+    "synonyms": "purchase, get"
+  },
+  {
+    "level": "Beginner",
+    "word": "wait",
+    "part_of_speech": "verb",
+    "definition": "to stay",
+    "example_Sentence": "Wait for me.",
+    "synonyms": "stay, remain"
+  },
+  {
+    "level": "Beginner",
+    "word": "serve",
+    "part_of_speech": "verb",
+    "definition": "to help",
+    "example_Sentence": "I serve customers.",
+    "synonyms": "help, assist"
+  },
+  {
+    "level": "Beginner",
+    "word": "die",
+    "part_of_speech": "verb",
+    "definition": "to stop living",
+    "example_Sentence": "Plants die without water.",
+    "synonyms": "perish, expire"
+  },
+  {
+    "level": "Beginner",
+    "word": "send",
+    "part_of_speech": "verb",
+    "definition": "to dispatch",
+    "example_Sentence": "Send this letter.",
+    "synonyms": "mail, deliver"
+  },
+  {
+    "level": "Beginner",
+    "word": "expect",
+    "part_of_speech": "verb",
+    "definition": "to anticipate",
+    "example_Sentence": "I expect good results.",
+    "synonyms": "anticipate, await"
+  },
+  {
+    "level": "Beginner",
+    "word": "build",
+    "part_of_speech": "verb",
+    "definition": "to construct",
+    "example_Sentence": "Build a house.",
+    "synonyms": "construct, create"
+  },
+  {
+    "level": "Beginner",
+    "word": "stay",
+    "part_of_speech": "verb",
+    "definition": "to remain",
+    "example_Sentence": "Stay here.",
+    "synonyms": "remain, wait"
+  },
+  {
+    "level": "Beginner",
+    "word": "fall",
+    "part_of_speech": "verb",
+    "definition": "to drop down",
+    "example_Sentence": "Leaves fall in autumn.",
+    "synonyms": "drop, tumble"
+  },
+  {
+    "level": "Beginner",
+    "word": "cut",
+    "part_of_speech": "verb",
+    "definition": "to divide",
+    "example_Sentence": "Cut the paper.",
+    "synonyms": "slice, divide"
+  },
+  {
+    "level": "Beginner",
+    "word": "reach",
+    "part_of_speech": "verb",
+    "definition": "to arrive at",
+    "example_Sentence": "Reach for the stars.",
+    "synonyms": "arrive, attain"
+  },
+  {
+    "level": "Beginner",
+    "word": "kill",
+    "part_of_speech": "verb",
+    "definition": "to end life",
+    "example_Sentence": "Don't kill insects.",
+    "synonyms": "destroy, eliminate"
+  },
+  {
+    "level": "Beginner",
+    "word": "remain",
+    "part_of_speech": "verb",
+    "definition": "to stay",
+    "example_Sentence": "Please remain seated.",
+    "synonyms": "stay, continue"
+  },
+  {
+    "level": "Beginner",
+    "word": "suggest",
+    "part_of_speech": "verb",
+    "definition": "to propose",
+    "example_Sentence": "I suggest we go.",
+    "synonyms": "propose, recommend"
+  },
+  {
+    "level": "Beginner",
+    "word": "raise",
+    "part_of_speech": "verb",
+    "definition": "to lift up",
+    "example_Sentence": "Raise your hand.",
+    "synonyms": "lift, increase"
+  },
+  {
+    "level": "Beginner",
+    "word": "pass",
+    "part_of_speech": "verb",
+    "definition": "to go by",
+    "example_Sentence": "Pass the salt.",
+    "synonyms": "give, cross"
+  },
+  {
+    "level": "Beginner",
+    "word": "sell",
+    "part_of_speech": "verb",
+    "definition": "to exchange money",
+    "example_Sentence": "Sell your car.",
+    "synonyms": "trade, offer"
+  },
+  {
+    "level": "Beginner",
+    "word": "require",
+    "part_of_speech": "verb",
+    "definition": "to need",
+    "example_Sentence": "This requires attention.",
+    "synonyms": "need, demand"
+  },
+  {
+    "level": "Beginner",
+    "word": "report",
+    "part_of_speech": "verb",
+    "definition": "to tell about",
+    "example_Sentence": "Report the problem.",
+    "synonyms": "inform, announce"
+  },
+  {
+    "level": "Beginner",
+    "word": "decide",
+    "part_of_speech": "verb",
+    "definition": "to choose",
+    "example_Sentence": "Decide quickly.",
+    "synonyms": "choose, determine"
+  },
+  {
+    "level": "Beginner",
+    "word": "pull",
+    "part_of_speech": "verb",
+    "definition": "to drag toward",
+    "example_Sentence": "Pull the door.",
+    "synonyms": "drag, draw"
+  },
+  {
+    "level": "Beginner",
+    "word": "good",
+    "part_of_speech": "adjective",
+    "definition": "of high quality",
+    "example_Sentence": "This is a good book.",
+    "synonyms": "great, excellent"
+  },
+  {
+    "level": "Beginner",
+    "word": "bad",
+    "part_of_speech": "adjective",
+    "definition": "of poor quality",
+    "example_Sentence": "Bad weather today.",
+    "synonyms": "poor, terrible"
+  },
+  {
+    "level": "Beginner",
+    "word": "big",
+    "part_of_speech": "adjective",
+    "definition": "large in size",
+    "example_Sentence": "That's a big house.",
+    "synonyms": "large, huge"
+  },
+  {
+    "level": "Beginner",
+    "word": "small",
+    "part_of_speech": "adjective",
+    "definition": "little in size",
+    "example_Sentence": "A small car.",
+    "synonyms": "little, tiny"
+  },
+  {
+    "level": "Beginner",
+    "word": "new",
+    "part_of_speech": "adjective",
+    "definition": "recently made",
+    "example_Sentence": "I bought new shoes.",
+    "synonyms": "fresh, recent"
+  },
+  {
+    "level": "Beginner",
+    "word": "old",
+    "part_of_speech": "adjective",
+    "definition": "not new",
+    "example_Sentence": "This is an old building.",
+    "synonyms": "aged, ancient"
+  },
+  {
+    "level": "Beginner",
+    "word": "young",
+    "part_of_speech": "adjective",
+    "definition": "not old",
+    "example_Sentence": "She's a young teacher.",
+    "synonyms": "youthful, junior"
+  },
+  {
+    "level": "Beginner",
+    "word": "long",
+    "part_of_speech": "adjective",
+    "definition": "extended in length",
+    "example_Sentence": "A long road.",
+    "synonyms": "lengthy, extended"
+  },
+  {
+    "level": "Beginner",
+    "word": "short",
+    "part_of_speech": "adjective",
+    "definition": "not long",
+    "example_Sentence": "A short story.",
+    "synonyms": "brief, compact"
+  },
+  {
+    "level": "Beginner",
+    "word": "high",
+    "part_of_speech": "adjective",
+    "definition": "tall or elevated",
+    "example_Sentence": "A high mountain.",
+    "synonyms": "tall, elevated"
+  },
+  {
+    "level": "Beginner",
+    "word": "low",
+    "part_of_speech": "adjective",
+    "definition": "not high",
+    "example_Sentence": "A low table.",
+    "synonyms": "short, down"
+  },
+  {
+    "level": "Beginner",
+    "word": "hot",
+    "part_of_speech": "adjective",
+    "definition": "very warm",
+    "example_Sentence": "Hot coffee.",
+    "synonyms": "warm, burning"
+  },
+  {
+    "level": "Beginner",
+    "word": "cold",
+    "part_of_speech": "adjective",
+    "definition": "not warm",
+    "example_Sentence": "Cold water.",
+    "synonyms": "cool, freezing"
+  },
+  {
+    "level": "Beginner",
+    "word": "warm",
+    "part_of_speech": "adjective",
+    "definition": "moderately hot",
+    "example_Sentence": "Warm weather.",
+    "synonyms": "mild, cozy"
+  },
+  {
+    "level": "Beginner",
+    "word": "cool",
+    "part_of_speech": "adjective",
+    "definition": "slightly cold",
+    "example_Sentence": "Cool breeze.",
+    "synonyms": "chilly, fresh"
+  },
+  {
+    "level": "Beginner",
+    "word": "fast",
+    "part_of_speech": "adjective",
+    "definition": "moving quickly",
+    "example_Sentence": "A fast car.",
+    "synonyms": "quick, speedy"
+  },
+  {
+    "level": "Beginner",
+    "word": "slow",
+    "part_of_speech": "adjective",
+    "definition": "not fast",
+    "example_Sentence": "Slow traffic.",
+    "synonyms": "sluggish, gradual"
+  },
+  {
+    "level": "Beginner",
+    "word": "easy",
+    "part_of_speech": "adjective",
+    "definition": "not difficult",
+    "example_Sentence": "Easy homework.",
+    "synonyms": "simple, effortless"
+  },
+  {
+    "level": "Beginner",
+    "word": "hard",
+    "part_of_speech": "adjective",
+    "definition": "difficult",
+    "example_Sentence": "Hard work.",
+    "synonyms": "difficult, tough"
+  },
+  {
+    "level": "Beginner",
+    "word": "heavy",
+    "part_of_speech": "adjective",
+    "definition": "weighing much",
+    "example_Sentence": "Heavy box.",
+    "synonyms": "weighty, massive"
+  },
+  {
+    "level": "Beginner",
+    "word": "light",
+    "part_of_speech": "adjective",
+    "definition": "not heavy",
+    "example_Sentence": "Light bag.",
+    "synonyms": "weightless, airy"
+  },
+  {
+    "level": "Beginner",
+    "word": "clean",
+    "part_of_speech": "adjective",
+    "definition": "not dirty",
+    "example_Sentence": "Clean clothes.",
+    "synonyms": "spotless, pure"
+  },
+  {
+    "level": "Beginner",
+    "word": "dirty",
+    "part_of_speech": "adjective",
+    "definition": "not clean",
+    "example_Sentence": "Dirty shoes.",
+    "synonyms": "filthy, soiled"
+  },
+  {
+    "level": "Beginner",
+    "word": "happy",
+    "part_of_speech": "adjective",
+    "definition": "feeling joy",
+    "example_Sentence": "Happy children.",
+    "synonyms": "joyful, cheerful"
+  },
+  {
+    "level": "Beginner",
+    "word": "sad",
+    "part_of_speech": "adjective",
+    "definition": "feeling sorrow",
+    "example_Sentence": "Sad movie.",
+    "synonyms": "unhappy, sorrowful"
+  },
+  {
+    "level": "Beginner",
+    "word": "angry",
+    "part_of_speech": "adjective",
+    "definition": "feeling mad",
+    "example_Sentence": "Angry customer.",
+    "synonyms": "mad, furious"
+  },
+  {
+    "level": "Beginner",
+    "word": "tired",
+    "part_of_speech": "adjective",
+    "definition": "needing rest",
+    "example_Sentence": "Tired after work.",
+    "synonyms": "exhausted, weary"
+  },
+  {
+    "level": "Beginner",
+    "word": "hungry",
+    "part_of_speech": "adjective",
+    "definition": "wanting food",
+    "example_Sentence": "Hungry children.",
+    "synonyms": "starving, famished"
+  },
+  {
+    "level": "Beginner",
+    "word": "thirsty",
+    "part_of_speech": "adjective",
+    "definition": "wanting drink",
+    "example_Sentence": "Thirsty after exercise.",
+    "synonyms": "parched, dry"
+  },
+  {
+    "level": "Beginner",
+    "word": "sick",
+    "part_of_speech": "adjective",
+    "definition": "not well",
+    "example_Sentence": "Sick patient.",
+    "synonyms": "ill, unwell"
+  },
+  {
+    "level": "Beginner",
+    "word": "healthy",
+    "part_of_speech": "adjective",
+    "definition": "in good health",
+    "example_Sentence": "Healthy lifestyle.",
+    "synonyms": "fit, well"
+  },
+  {
+    "level": "Beginner",
+    "word": "rich",
+    "part_of_speech": "adjective",
+    "definition": "having money",
+    "example_Sentence": "Rich businessman.",
+    "synonyms": "wealthy, affluent"
+  },
+  {
+    "level": "Beginner",
+    "word": "poor",
+    "part_of_speech": "adjective",
+    "definition": "lacking money",
+    "example_Sentence": "Poor family.",
+    "synonyms": "needy, broke"
+  },
+  {
+    "level": "Beginner",
+    "word": "free",
+    "part_of_speech": "adjective",
+    "definition": "costing nothing",
+    "example_Sentence": "Free sample.",
+    "synonyms": "complimentary, gratis"
+  },
+  {
+    "level": "Beginner",
+    "word": "expensive",
+    "part_of_speech": "adjective",
+    "definition": "costing much",
+    "example_Sentence": "Expensive car.",
+    "synonyms": "costly, pricey"
+  },
+  {
+    "level": "Beginner",
+    "word": "cheap",
+    "part_of_speech": "adjective",
+    "definition": "low cost",
+    "example_Sentence": "Cheap clothes.",
+    "synonyms": "inexpensive, affordable"
+  },
+  {
+    "level": "Beginner",
+    "word": "beautiful",
+    "part_of_speech": "adjective",
+    "definition": "attractive",
+    "example_Sentence": "Beautiful flowers.",
+    "synonyms": "pretty, lovely"
+  },
+  {
+    "level": "Beginner",
+    "word": "ugly",
+    "part_of_speech": "adjective",
+    "definition": "not attractive",
+    "example_Sentence": "Ugly building.",
+    "synonyms": "hideous, unsightly"
+  },
+  {
+    "level": "Beginner",
+    "word": "nice",
+    "part_of_speech": "adjective",
+    "definition": "pleasant",
+    "example_Sentence": "Nice weather.",
+    "synonyms": "pleasant, agreeable"
+  },
+  {
+    "level": "Beginner",
+    "word": "terrible",
+    "part_of_speech": "adjective",
+    "definition": "very bad",
+    "example_Sentence": "Terrible food.",
+    "synonyms": "awful, horrible"
+  },
+  {
+    "level": "Beginner",
+    "word": "wonderful",
+    "part_of_speech": "adjective",
+    "definition": "very good",
+    "example_Sentence": "Wonderful vacation.",
+    "synonyms": "marvelous, fantastic"
+  },
+  {
+    "level": "Beginner",
+    "word": "important",
+    "part_of_speech": "adjective",
+    "definition": "significant",
+    "example_Sentence": "Important meeting.",
+    "synonyms": "significant, crucial"
+  },
+  {
+    "level": "Beginner",
+    "word": "interesting",
+    "part_of_speech": "adjective",
+    "definition": "engaging attention",
+    "example_Sentence": "Interesting book.",
+    "synonyms": "fascinating, engaging"
+  },
+  {
+    "level": "Beginner",
+    "word": "boring",
+    "part_of_speech": "adjective",
+    "definition": "not interesting",
+    "example_Sentence": "Boring movie.",
+    "synonyms": "dull, tedious"
+  },
+  {
+    "level": "Beginner",
+    "word": "busy",
+    "part_of_speech": "adjective",
+    "definition": "having much to do",
+    "example_Sentence": "Busy schedule.",
+    "synonyms": "occupied, active"
+  },
+  {
+    "level": "Beginner",
+    "word": "quiet",
+    "part_of_speech": "adjective",
+    "definition": "making little noise",
+    "example_Sentence": "Quiet room.",
+    "synonyms": "silent, peaceful"
+  },
+  {
+    "level": "Beginner",
+    "word": "loud",
+    "part_of_speech": "adjective",
+    "definition": "making much noise",
+    "example_Sentence": "Loud music.",
+    "synonyms": "noisy, booming"
+  },
+  {
+    "level": "Beginner",
+    "word": "safe",
+    "part_of_speech": "adjective",
+    "definition": "not dangerous",
+    "example_Sentence": "Safe neighborhood.",
+    "synonyms": "secure, protected"
+  },
+  {
+    "level": "Beginner",
+    "word": "dangerous",
+    "part_of_speech": "adjective",
+    "definition": "not safe",
+    "example_Sentence": "Dangerous road.",
+    "synonyms": "risky, hazardous"
+  },
+  {
+    "level": "Beginner",
+    "word": "right",
+    "part_of_speech": "adjective",
+    "definition": "correct",
+    "example_Sentence": "Right answer.",
+    "synonyms": "correct, accurate"
+  },
+  {
+    "level": "Beginner",
+    "word": "wrong",
+    "part_of_speech": "adjective",
+    "definition": "not correct",
+    "example_Sentence": "Wrong direction.",
+    "synonyms": "incorrect, mistaken"
+  },
+  {
+    "level": "Beginner",
+    "word": "TRUE",
+    "part_of_speech": "adjective",
+    "definition": "factual",
+    "example_Sentence": "True story.",
+    "synonyms": "accurate, factual"
+  },
+  {
+    "level": "Beginner",
+    "word": "FALSE",
+    "part_of_speech": "adjective",
+    "definition": "not true",
+    "example_Sentence": "False information.",
+    "synonyms": "incorrect, untrue"
+  },
+  {
+    "level": "Beginner",
+    "word": "open",
+    "part_of_speech": "adjective",
+    "definition": "not closed",
+    "example_Sentence": "Open door.",
+    "synonyms": "unlocked, accessible"
+  },
+  {
+    "level": "Beginner",
+    "word": "closed",
+    "part_of_speech": "adjective",
+    "definition": "not open",
+    "example_Sentence": "Closed shop.",
+    "synonyms": "shut, locked"
+  },
+  {
+    "level": "Beginner",
+    "word": "empty",
+    "part_of_speech": "adjective",
+    "definition": "containing nothing",
+    "example_Sentence": "Empty glass.",
+    "synonyms": "vacant, hollow"
+  },
+  {
+    "level": "Beginner",
+    "word": "full",
+    "part_of_speech": "adjective",
+    "definition": "completely filled",
+    "example_Sentence": "Full tank.",
+    "synonyms": "filled, complete"
+  },
+  {
+    "level": "Beginner",
+    "word": "ready",
+    "part_of_speech": "adjective",
+    "definition": "prepared",
+    "example_Sentence": "Ready to go.",
+    "synonyms": "prepared, set"
+  },
+  {
+    "level": "Beginner",
+    "word": "late",
+    "part_of_speech": "adjective",
+    "definition": "after expected time",
+    "example_Sentence": "Late for work.",
+    "synonyms": "delayed, overdue"
+  },
+  {
+    "level": "Beginner",
+    "word": "early",
+    "part_of_speech": "adjective",
+    "definition": "before expected time",
+    "example_Sentence": "Early morning.",
+    "synonyms": "premature, ahead"
+  },
+  {
+    "level": "Beginner",
+    "word": "careful",
+    "part_of_speech": "adjective",
+    "definition": "taking care",
+    "example_Sentence": "Careful driver.",
+    "synonyms": "cautious, attentive"
+  },
+  {
+    "level": "Beginner",
+    "word": "careless",
+    "part_of_speech": "adjective",
+    "definition": "not careful",
+    "example_Sentence": "Careless mistake.",
+    "synonyms": "reckless, negligent"
+  },
+  {
+    "level": "Beginner",
+    "word": "helpful",
+    "part_of_speech": "adjective",
+    "definition": "giving help",
+    "example_Sentence": "Helpful assistant.",
+    "synonyms": "supportive, useful"
+  },
+  {
+    "level": "Beginner",
+    "word": "kind",
+    "part_of_speech": "adjective",
+    "definition": "considerate",
+    "example_Sentence": "Kind person.",
+    "synonyms": "caring, gentle"
+  },
+  {
+    "level": "Beginner",
+    "word": "rude",
+    "part_of_speech": "adjective",
+    "definition": "not polite",
+    "example_Sentence": "Rude behavior.",
+    "synonyms": "impolite, disrespectful"
+  },
+  {
+    "level": "Beginner",
+    "word": "polite",
+    "part_of_speech": "adjective",
+    "definition": "well-mannered",
+    "example_Sentence": "Polite child.",
+    "synonyms": "courteous, respectful"
+  },
+  {
+    "level": "Beginner",
+    "word": "funny",
+    "part_of_speech": "adjective",
+    "definition": "causing laughter",
+    "example_Sentence": "Funny joke.",
+    "synonyms": "amusing, hilarious"
+  },
+  {
+    "level": "Beginner",
+    "word": "serious",
+    "part_of_speech": "adjective",
+    "definition": "not joking",
+    "example_Sentence": "Serious problem.",
+    "synonyms": "grave, solemn"
+  },
+  {
+    "level": "Beginner",
+    "word": "smart",
+    "part_of_speech": "adjective",
+    "definition": "intelligent",
+    "example_Sentence": "Smart student.",
+    "synonyms": "clever, bright"
+  },
+  {
+    "level": "Beginner",
+    "word": "stupid",
+    "part_of_speech": "adjective",
+    "definition": "not intelligent",
+    "example_Sentence": "Stupid mistake.",
+    "synonyms": "foolish, dumb"
+  },
+  {
+    "level": "Beginner",
+    "word": "strong",
+    "part_of_speech": "adjective",
+    "definition": "having power",
+    "example_Sentence": "Strong man.",
+    "synonyms": "powerful, muscular"
+  },
+  {
+    "level": "Beginner",
+    "word": "weak",
+    "part_of_speech": "adjective",
+    "definition": "lacking strength",
+    "example_Sentence": "Weak signal.",
+    "synonyms": "feeble, fragile"
+  },
+  {
+    "level": "Beginner",
+    "word": "fat",
+    "part_of_speech": "adjective",
+    "definition": "overweight",
+    "example_Sentence": "Fat cat.",
+    "synonyms": "obese, chubby"
+  },
+  {
+    "level": "Beginner",
+    "word": "thin",
+    "part_of_speech": "adjective",
+    "definition": "not fat",
+    "example_Sentence": "Thin person.",
+    "synonyms": "slim, skinny"
+  },
+  {
+    "level": "Beginner",
+    "word": "tall",
+    "part_of_speech": "adjective",
+    "definition": "of great height",
+    "example_Sentence": "Tall building.",
+    "synonyms": "high, towering"
+  },
+  {
+    "level": "Beginner",
+    "word": "short",
+    "part_of_speech": "adjective",
+    "definition": "not tall",
+    "example_Sentence": "Short person.",
+    "synonyms": "low, petite"
+  },
+  {
+    "level": "Beginner",
+    "word": "wide",
+    "part_of_speech": "adjective",
+    "definition": "broad",
+    "example_Sentence": "Wide river.",
+    "synonyms": "broad, extensive"
+  },
+  {
+    "level": "Beginner",
+    "word": "narrow",
+    "part_of_speech": "adjective",
+    "definition": "not wide",
+    "example_Sentence": "Narrow street.",
+    "synonyms": "tight, confined"
+  },
+  {
+    "level": "Beginner",
+    "word": "thick",
+    "part_of_speech": "adjective",
+    "definition": "not thin",
+    "example_Sentence": "Thick book.",
+    "synonyms": "dense, heavy"
+  },
+  {
+    "level": "Beginner",
+    "word": "thin",
+    "part_of_speech": "adjective",
+    "definition": "not thick",
+    "example_Sentence": "Thin paper.",
+    "synonyms": "fine, delicate"
+  },
+  {
+    "level": "Beginner",
+    "word": "sharp",
+    "part_of_speech": "adjective",
+    "definition": "having cutting edge",
+    "example_Sentence": "Sharp knife.",
+    "synonyms": "keen, pointed"
+  },
+  {
+    "level": "Beginner",
+    "word": "dull",
+    "part_of_speech": "adjective",
+    "definition": "not sharp",
+    "example_Sentence": "Dull blade.",
+    "synonyms": "blunt, boring"
+  },
+  {
+    "level": "Beginner",
+    "word": "smooth",
+    "part_of_speech": "adjective",
+    "definition": "even surface",
+    "example_Sentence": "Smooth skin.",
+    "synonyms": "even, sleek"
+  },
+  {
+    "level": "Beginner",
+    "word": "rough",
+    "part_of_speech": "adjective",
+    "definition": "uneven surface",
+    "example_Sentence": "Rough road.",
+    "synonyms": "bumpy, coarse"
+  },
+  {
+    "level": "Beginner",
+    "word": "soft",
+    "part_of_speech": "adjective",
+    "definition": "not hard",
+    "example_Sentence": "Soft pillow.",
+    "synonyms": "gentle, tender"
+  },
+  {
+    "level": "Beginner",
+    "word": "hard",
+    "part_of_speech": "adjective",
+    "definition": "not soft",
+    "example_Sentence": "Hard rock.",
+    "synonyms": "solid, firm"
+  },
+  {
+    "level": "Beginner",
+    "word": "wet",
+    "part_of_speech": "adjective",
+    "definition": "covered with water",
+    "example_Sentence": "Wet clothes.",
+    "synonyms": "damp, soaked"
+  },
+  {
+    "level": "Beginner",
+    "word": "dry",
+    "part_of_speech": "adjective",
+    "definition": "not wet",
+    "example_Sentence": "Dry towel.",
+    "synonyms": "arid, parched"
+  },
+  {
+    "level": "Beginner",
+    "word": "bright",
+    "part_of_speech": "adjective",
+    "definition": "giving much light",
+    "example_Sentence": "Bright sun.",
+    "synonyms": "brilliant, shining"
+  },
+  {
+    "level": "Beginner",
+    "word": "dark",
+    "part_of_speech": "adjective",
+    "definition": "without light",
+    "example_Sentence": "Dark room.",
+    "synonyms": "dim, shadowy"
+  },
+  {
+    "level": "Beginner",
+    "word": "sweet",
+    "part_of_speech": "adjective",
+    "definition": "having sugar taste",
+    "example_Sentence": "Sweet cake.",
+    "synonyms": "sugary, pleasant"
+  },
+  {
+    "level": "Beginner",
+    "word": "sour",
+    "part_of_speech": "adjective",
+    "definition": "sharp taste",
+    "example_Sentence": "Sour lemon.",
+    "synonyms": "tart, acidic"
+  },
+  {
+    "level": "Beginner",
+    "word": "bitter",
+    "part_of_speech": "adjective",
+    "definition": "sharp unpleasant taste",
+    "example_Sentence": "Bitter medicine.",
+    "synonyms": "harsh, acrid"
+  },
+  {
+    "level": "Beginner",
+    "word": "fresh",
+    "part_of_speech": "adjective",
+    "definition": "recently made",
+    "example_Sentence": "Fresh bread.",
+    "synonyms": "new, crisp"
+  },
+  {
+    "level": "Beginner",
+    "word": "old",
+    "part_of_speech": "adjective",
+    "definition": "not fresh",
+    "example_Sentence": "Old milk.",
+    "synonyms": "stale, aged"
+  },
+  {
+    "level": "Beginner",
+    "word": "public",
+    "part_of_speech": "adjective",
+    "definition": "for everyone",
+    "example_Sentence": "Public park.",
+    "synonyms": "common, open"
+  },
+  {
+    "level": "Beginner",
+    "word": "private",
+    "part_of_speech": "adjective",
+    "definition": "personal",
+    "example_Sentence": "Private room.",
+    "synonyms": "personal, exclusive"
+  },
+  {
+    "level": "Beginner",
+    "word": "local",
+    "part_of_speech": "adjective",
+    "definition": "nearby area",
+    "example_Sentence": "Local shop.",
+    "synonyms": "nearby, regional"
+  },
+  {
+    "level": "Beginner",
+    "word": "foreign",
+    "part_of_speech": "adjective",
+    "definition": "from another country",
+    "example_Sentence": "Foreign language.",
+    "synonyms": "overseas, alien"
+  },
+  {
+    "level": "Beginner",
+    "word": "real",
+    "part_of_speech": "adjective",
+    "definition": "actually existing",
+    "example_Sentence": "Real diamond.",
+    "synonyms": "genuine, authentic"
+  },
+  {
+    "level": "Beginner",
+    "word": "fake",
+    "part_of_speech": "adjective",
+    "definition": "not real",
+    "example_Sentence": "Fake jewelry.",
+    "synonyms": "false, artificial"
+  },
+  {
+    "level": "Beginner",
+    "word": "very",
+    "part_of_speech": "adverb",
+    "definition": "to a high degree",
+    "example_Sentence": "Very good!",
+    "synonyms": "extremely, quite"
+  },
+  {
+    "level": "Beginner",
+    "word": "well",
+    "part_of_speech": "adverb",
+    "definition": "in a good way",
+    "example_Sentence": "She speaks well.",
+    "synonyms": "properly, correctly"
+  },
+  {
+    "level": "Beginner",
+    "word": "badly",
+    "part_of_speech": "adverb",
+    "definition": "in a poor way",
+    "example_Sentence": "He played badly.",
+    "synonyms": "poorly, terribly"
+  },
+  {
+    "level": "Beginner",
+    "word": "quickly",
+    "part_of_speech": "adverb",
+    "definition": "in a fast way",
+    "example_Sentence": "Run quickly!",
+    "synonyms": "rapidly, speedily"
+  },
+  {
+    "level": "Beginner",
+    "word": "slowly",
+    "part_of_speech": "adverb",
+    "definition": "in a slow way",
+    "example_Sentence": "Walk slowly.",
+    "synonyms": "gradually, leisurely"
+  },
+  {
+    "level": "Beginner",
+    "word": "carefully",
+    "part_of_speech": "adverb",
+    "definition": "with care",
+    "example_Sentence": "Drive carefully.",
+    "synonyms": "cautiously, attentively"
+  },
+  {
+    "level": "Beginner",
+    "word": "easily",
+    "part_of_speech": "adverb",
+    "definition": "without difficulty",
+    "example_Sentence": "Done easily.",
+    "synonyms": "simply, effortlessly"
+  },
+  {
+    "level": "Beginner",
+    "word": "hard",
+    "part_of_speech": "adverb",
+    "definition": "with effort",
+    "example_Sentence": "Work hard.",
+    "synonyms": "diligently, intensely"
+  },
+  {
+    "level": "Beginner",
+    "word": "often",
+    "part_of_speech": "adverb",
+    "definition": "many times",
+    "example_Sentence": "I often read.",
+    "synonyms": "frequently, regularly"
+  },
+  {
+    "level": "Beginner",
+    "word": "sometimes",
+    "part_of_speech": "adverb",
+    "definition": "occasionally",
+    "example_Sentence": "Sometimes I cook.",
+    "synonyms": "occasionally, periodically"
+  },
+  {
+    "level": "Beginner",
+    "word": "always",
+    "part_of_speech": "adverb",
+    "definition": "at all times",
+    "example_Sentence": "Always be kind.",
+    "synonyms": "forever, constantly"
+  },
+  {
+    "level": "Beginner",
+    "word": "never",
+    "part_of_speech": "adverb",
+    "definition": "not at any time",
+    "example_Sentence": "Never give up.",
+    "synonyms": "not, ever"
+  },
+  {
+    "level": "Beginner",
+    "word": "usually",
+    "part_of_speech": "adverb",
+    "definition": "most of the time",
+    "example_Sentence": "Usually I walk.",
+    "synonyms": "generally, typically"
+  },
+  {
+    "level": "Beginner",
+    "word": "really",
+    "part_of_speech": "adverb",
+    "definition": "actually",
+    "example_Sentence": "Really good food.",
+    "synonyms": "truly, genuinely"
+  },
+  {
+    "level": "Beginner",
+    "word": "quite",
+    "part_of_speech": "adverb",
+    "definition": "fairly",
+    "example_Sentence": "Quite interesting.",
+    "synonyms": "rather, fairly"
+  },
+  {
+    "level": "Beginner",
+    "word": "too",
+    "part_of_speech": "adverb",
+    "definition": "more than needed",
+    "example_Sentence": "Too expensive.",
+    "synonyms": "excessively, overly"
+  },
+  {
+    "level": "Beginner",
+    "word": "also",
+    "part_of_speech": "adverb",
+    "definition": "in addition",
+    "example_Sentence": "I also agree.",
+    "synonyms": "additionally, furthermore"
+  },
+  {
+    "level": "Beginner",
+    "word": "only",
+    "part_of_speech": "adverb",
+    "definition": "and nothing more",
+    "example_Sentence": "Only five minutes.",
+    "synonyms": "just, merely"
+  },
+  {
+    "level": "Beginner",
+    "word": "just",
+    "part_of_speech": "adverb",
+    "definition": "recently or exactly",
+    "example_Sentence": "Just arrived.",
+    "synonyms": "recently, exactly"
+  },
+  {
+    "level": "Beginner",
+    "word": "here",
+    "part_of_speech": "adverb",
+    "definition": "in this place",
+    "example_Sentence": "Come here.",
+    "synonyms": "present, nearby"
+  },
+  {
+    "level": "Beginner",
+    "word": "there",
+    "part_of_speech": "adverb",
+    "definition": "in that place",
+    "example_Sentence": "Go there.",
+    "synonyms": "yonder, away"
+  },
+  {
+    "level": "Beginner",
+    "word": "where",
+    "part_of_speech": "adverb",
+    "definition": "in which place",
+    "example_Sentence": "Where are you?",
+    "synonyms": "location, place"
+  },
+  {
+    "level": "Beginner",
+    "word": "when",
+    "part_of_speech": "adverb",
+    "definition": "at what time",
+    "example_Sentence": "When do we start?",
+    "synonyms": "time, moment"
+  },
+  {
+    "level": "Beginner",
+    "word": "how",
+    "part_of_speech": "adverb",
+    "definition": "in what way",
+    "example_Sentence": "How do you do it?",
+    "synonyms": "method, way"
+  },
+  {
+    "level": "Beginner",
+    "word": "why",
+    "part_of_speech": "adverb",
+    "definition": "for what reason",
+    "example_Sentence": "Why are you late?",
+    "synonyms": "reason, cause"
+  },
+  {
+    "level": "Beginner",
+    "word": "now",
+    "part_of_speech": "adverb",
+    "definition": "at this time",
+    "example_Sentence": "Come now!",
+    "synonyms": "presently, currently"
+  },
+  {
+    "level": "Beginner",
+    "word": "then",
+    "part_of_speech": "adverb",
+    "definition": "at that time",
+    "example_Sentence": "See you then.",
+    "synonyms": "afterwards, next"
+  },
+  {
+    "level": "Beginner",
+    "word": "today",
+    "part_of_speech": "adverb",
+    "definition": "on this day",
+    "example_Sentence": "Today is sunny.",
+    "synonyms": "currently, presently"
+  },
+  {
+    "level": "Beginner",
+    "word": "tomorrow",
+    "part_of_speech": "adverb",
+    "definition": "the next day",
+    "example_Sentence": "See you tomorrow.",
+    "synonyms": "next, following"
+  },
+  {
+    "level": "Beginner",
+    "word": "yesterday",
+    "part_of_speech": "adverb",
+    "definition": "the previous day",
+    "example_Sentence": "Yesterday was fun.",
+    "synonyms": "previous, past"
+  },
+  {
+    "level": "Beginner",
+    "word": "early",
+    "part_of_speech": "adverb",
+    "definition": "before usual time",
+    "example_Sentence": "Arrive early.",
+    "synonyms": "ahead, prematurely"
+  },
+  {
+    "level": "Beginner",
+    "word": "late",
+    "part_of_speech": "adverb",
+    "definition": "after usual time",
+    "example_Sentence": "Come home late.",
+    "synonyms": "delayed, behind"
+  },
+  {
+    "level": "Beginner",
+    "word": "soon",
+    "part_of_speech": "adverb",
+    "definition": "in near future",
+    "example_Sentence": "Coming soon.",
+    "synonyms": "shortly, presently"
+  },
+  {
+    "level": "Beginner",
+    "word": "again",
+    "part_of_speech": "adverb",
+    "definition": "once more",
+    "example_Sentence": "Try again.",
+    "synonyms": "repeatedly, anew"
+  },
+  {
+    "level": "Beginner",
+    "word": "still",
+    "part_of_speech": "adverb",
+    "definition": "continuing",
+    "example_Sentence": "Still working.",
+    "synonyms": "yet, continuing"
+  },
+  {
+    "level": "Beginner",
+    "word": "already",
+    "part_of_speech": "adverb",
+    "definition": "by this time",
+    "example_Sentence": "Already finished.",
+    "synonyms": "previously, before"
+  },
+  {
+    "level": "Beginner",
+    "word": "together",
+    "part_of_speech": "adverb",
+    "definition": "with each other",
+    "example_Sentence": "Work together.",
+    "synonyms": "jointly, collectively"
+  },
+  {
+    "level": "Beginner",
+    "word": "alone",
+    "part_of_speech": "adverb",
+    "definition": "by oneself",
+    "example_Sentence": "Live alone.",
+    "synonyms": "solo, independently"
+  },
+  {
+    "level": "Beginner",
+    "word": "enough",
+    "part_of_speech": "adverb",
+    "definition": "as much as needed",
+    "example_Sentence": "Good enough.",
+    "synonyms": "sufficiently, adequately"
+  },
+  {
+    "level": "Beginner",
+    "word": "almost",
+    "part_of_speech": "adverb",
+    "definition": "nearly",
+    "example_Sentence": "Almost ready.",
+    "synonyms": "nearly, practically"
+  },
+  {
+    "level": "Beginner",
+    "word": "probably",
+    "part_of_speech": "adverb",
+    "definition": "likely",
+    "example_Sentence": "Probably rain.",
+    "synonyms": "likely, possibly"
+  },
+  {
+    "level": "Beginner",
+    "word": "maybe",
+    "part_of_speech": "adverb",
+    "definition": "perhaps",
+    "example_Sentence": "Maybe tomorrow.",
+    "synonyms": "perhaps, possibly"
+  },
+  {
+    "level": "Beginner",
+    "word": "certainly",
+    "part_of_speech": "adverb",
+    "definition": "definitely",
+    "example_Sentence": "Certainly possible.",
+    "synonyms": "definitely, surely"
+  },
+  {
+    "level": "Beginner",
+    "word": "exactly",
+    "part_of_speech": "adverb",
+    "definition": "precisely",
+    "example_Sentence": "Exactly right.",
+    "synonyms": "precisely, accurately"
+  },
+  {
+    "level": "Beginner",
+    "word": "especially",
+    "part_of_speech": "adverb",
+    "definition": "particularly",
+    "example_Sentence": "Especially good.",
+    "synonyms": "particularly, notably"
+  },
+  {
+    "level": "Beginner",
+    "word": "mostly",
+    "part_of_speech": "adverb",
+    "definition": "mainly",
+    "example_Sentence": "Mostly sunny.",
+    "synonyms": "mainly, primarily"
+  },
+  {
+    "level": "Beginner",
+    "word": "actually",
+    "part_of_speech": "adverb",
+    "definition": "in fact",
+    "example_Sentence": "Actually correct.",
+    "synonyms": "really, truly"
+  },
+  {
+    "level": "Beginner",
+    "word": "finally",
+    "part_of_speech": "adverb",
+    "definition": "at last",
+    "example_Sentence": "Finally done.",
+    "synonyms": "eventually, lastly"
+  },
+  {
+    "level": "Beginner",
+    "word": "suddenly",
+    "part_of_speech": "adverb",
+    "definition": "unexpectedly",
+    "example_Sentence": "Suddenly appeared.",
+    "synonyms": "abruptly, instantly"
+  },
+  {
+    "level": "Beginner",
+    "word": "immediately",
+    "part_of_speech": "adverb",
+    "definition": "right away",
+    "example_Sentence": "Come immediately.",
+    "synonyms": "instantly, promptly"
+  },
+  {
+    "level": "Beginner",
+    "word": "in",
+    "part_of_speech": "preposition",
+    "definition": "inside",
+    "example_Sentence": "In the house.",
+    "synonyms": "inside, within"
+  },
+  {
+    "level": "Beginner",
+    "word": "on",
+    "part_of_speech": "preposition",
+    "definition": "touching surface",
+    "example_Sentence": "On the table.",
+    "synonyms": "upon, atop"
+  },
+  {
+    "level": "Beginner",
+    "word": "at",
+    "part_of_speech": "preposition",
+    "definition": "specific location",
+    "example_Sentence": "At school.",
+    "synonyms": "located, positioned"
+  },
+  {
+    "level": "Beginner",
+    "word": "by",
+    "part_of_speech": "preposition",
+    "definition": "near or beside",
+    "example_Sentence": "By the river.",
+    "synonyms": "beside, near"
+  },
+  {
+    "level": "Beginner",
+    "word": "for",
+    "part_of_speech": "preposition",
+    "definition": "intended for",
+    "example_Sentence": "Gift for you.",
+    "synonyms": "intended, meant"
+  },
+  {
+    "level": "Beginner",
+    "word": "with",
+    "part_of_speech": "preposition",
+    "definition": "accompanied by",
+    "example_Sentence": "Come with me.",
+    "synonyms": "alongside, together"
+  },
+  {
+    "level": "Beginner",
+    "word": "from",
+    "part_of_speech": "preposition",
+    "definition": "starting point",
+    "example_Sentence": "From London.",
+    "synonyms": "starting, originating"
+  },
+  {
+    "level": "Beginner",
+    "word": "to",
+    "part_of_speech": "preposition",
+    "definition": "direction toward",
+    "example_Sentence": "Go to work.",
+    "synonyms": "toward, until"
+  },
+  {
+    "level": "Beginner",
+    "word": "of",
+    "part_of_speech": "preposition",
+    "definition": "belonging to",
+    "example_Sentence": "Book of poems.",
+    "synonyms": "belonging, concerning"
+  },
+  {
+    "level": "Beginner",
+    "word": "about",
+    "part_of_speech": "preposition",
+    "definition": "concerning",
+    "example_Sentence": "Talk about movies.",
+    "synonyms": "concerning, regarding"
+  },
+  {
+    "level": "Beginner",
+    "word": "up",
+    "part_of_speech": "preposition",
+    "definition": "higher position",
+    "example_Sentence": "Go up stairs.",
+    "synonyms": "above, higher"
+  },
+  {
+    "level": "Beginner",
+    "word": "down",
+    "part_of_speech": "preposition",
+    "definition": "lower position",
+    "example_Sentence": "Come down here.",
+    "synonyms": "below, lower"
+  },
+  {
+    "level": "Beginner",
+    "word": "over",
+    "part_of_speech": "preposition",
+    "definition": "above",
+    "example_Sentence": "Fly over city.",
+    "synonyms": "above, across"
+  },
+  {
+    "level": "Beginner",
+    "word": "under",
+    "part_of_speech": "preposition",
+    "definition": "below",
+    "example_Sentence": "Under the bridge.",
+    "synonyms": "beneath, below"
+  },
+  {
+    "level": "Beginner",
+    "word": "through",
+    "part_of_speech": "preposition",
+    "definition": "passing within",
+    "example_Sentence": "Walk through park.",
+    "synonyms": "via, across"
+  },
+  {
+    "level": "Beginner",
+    "word": "between",
+    "part_of_speech": "preposition",
+    "definition": "in the middle",
+    "example_Sentence": "Between two cars.",
+    "synonyms": "among, amid"
+  },
+  {
+    "level": "Beginner",
+    "word": "behind",
+    "part_of_speech": "preposition",
+    "definition": "at the back",
+    "example_Sentence": "Behind the house.",
+    "synonyms": "back, rear"
+  },
+  {
+    "level": "Beginner",
+    "word": "before",
+    "part_of_speech": "preposition",
+    "definition": "earlier than",
+    "example_Sentence": "Before dinner.",
+    "synonyms": "prior, ahead"
+  },
+  {
+    "level": "Beginner",
+    "word": "after",
+    "part_of_speech": "preposition",
+    "definition": "later than",
+    "example_Sentence": "After work.",
+    "synonyms": "following, later"
+  },
+  {
+    "level": "Beginner",
+    "word": "during",
+    "part_of_speech": "preposition",
+    "definition": "throughout",
+    "example_Sentence": "During the movie.",
+    "synonyms": "throughout, while"
+  },
+  {
+    "level": "Beginner",
+    "word": "without",
+    "part_of_speech": "preposition",
+    "definition": "lacking",
+    "example_Sentence": "Coffee without sugar.",
+    "synonyms": "lacking, minus"
+  },
+  {
+    "level": "Beginner",
+    "word": "within",
+    "part_of_speech": "preposition",
+    "definition": "inside limits",
+    "example_Sentence": "Within the city.",
+    "synonyms": "inside, among"
+  },
+  {
+    "level": "Beginner",
+    "word": "above",
+    "part_of_speech": "preposition",
+    "definition": "higher than",
+    "example_Sentence": "Above the clouds.",
+    "synonyms": "over, beyond"
+  },
+  {
+    "level": "Beginner",
+    "word": "below",
+    "part_of_speech": "preposition",
+    "definition": "lower than",
+    "example_Sentence": "Below sea level.",
+    "synonyms": "under, beneath"
+  },
+  {
+    "level": "Beginner",
+    "word": "near",
+    "part_of_speech": "preposition",
+    "definition": "close to",
+    "example_Sentence": "Near the school.",
+    "synonyms": "close, beside"
+  },
+  {
+    "level": "Beginner",
+    "word": "far",
+    "part_of_speech": "preposition",
+    "definition": "distant from",
+    "example_Sentence": "Far from home.",
+    "synonyms": "distant, remote"
+  },
+  {
+    "level": "Beginner",
+    "word": "inside",
+    "part_of_speech": "preposition",
+    "definition": "within",
+    "example_Sentence": "Inside the box.",
+    "synonyms": "within, interior"
+  },
+  {
+    "level": "Beginner",
+    "word": "outside",
+    "part_of_speech": "preposition",
+    "definition": "beyond",
+    "example_Sentence": "Outside the building.",
+    "synonyms": "beyond, exterior"
+  },
+  {
+    "level": "Beginner",
+    "word": "across",
+    "part_of_speech": "preposition",
+    "definition": "from side to side",
+    "example_Sentence": "Across the street.",
+    "synonyms": "over, through"
+  },
+  {
+    "level": "Beginner",
+    "word": "around",
+    "part_of_speech": "preposition",
+    "definition": "encircling",
+    "example_Sentence": "Around the corner.",
+    "synonyms": "surrounding, about"
+  },
+  {
+    "level": "Beginner",
+    "word": "and",
+    "part_of_speech": "conjunction",
+    "definition": "joins words",
+    "example_Sentence": "Coffee and tea.",
+    "synonyms": "plus, also"
+  },
+  {
+    "level": "Beginner",
+    "word": "or",
+    "part_of_speech": "conjunction",
+    "definition": "shows choice",
+    "example_Sentence": "Tea or coffee?",
+    "synonyms": "alternatively, either"
+  },
+  {
+    "level": "Beginner",
+    "word": "but",
+    "part_of_speech": "conjunction",
+    "definition": "shows contrast",
+    "example_Sentence": "Nice but expensive.",
+    "synonyms": "however, yet"
+  },
+  {
+    "level": "Beginner",
+    "word": "so",
+    "part_of_speech": "conjunction",
+    "definition": "shows result",
+    "example_Sentence": "Tired, so resting.",
+    "synonyms": "therefore, thus"
+  },
+  {
+    "level": "Beginner",
+    "word": "because",
+    "part_of_speech": "conjunction",
+    "definition": "shows reason",
+    "example_Sentence": "Happy because sunny.",
+    "synonyms": "since, as"
+  },
+  {
+    "level": "Beginner",
+    "word": "if",
+    "part_of_speech": "conjunction",
+    "definition": "shows condition",
+    "example_Sentence": "Come if possible.",
+    "synonyms": "provided, when"
+  },
+  {
+    "level": "Beginner",
+    "word": "when",
+    "part_of_speech": "conjunction",
+    "definition": "shows time",
+    "example_Sentence": "Call when ready.",
+    "synonyms": "while, as"
+  },
+  {
+    "level": "Beginner",
+    "word": "while",
+    "part_of_speech": "conjunction",
+    "definition": "during time",
+    "example_Sentence": "Read while waiting.",
+    "synonyms": "during, when"
+  },
+  {
+    "level": "Beginner",
+    "word": "although",
+    "part_of_speech": "conjunction",
+    "definition": "despite fact",
+    "example_Sentence": "Fun although difficult.",
+    "synonyms": "though, despite"
+  },
+  {
+    "level": "Beginner",
+    "word": "since",
+    "part_of_speech": "conjunction",
+    "definition": "from time",
+    "example_Sentence": "Friends since school.",
+    "synonyms": "from, because"
+  },
+  {
+    "level": "Intermediate",
+    "word": "opportunity",
+    "part_of_speech": "noun",
+    "definition": "chance to do something",
+    "example_Sentence": "This is a great opportunity.",
+    "synonyms": "chance, possibility"
+  },
+  {
+    "level": "Intermediate",
+    "word": "experience",
+    "part_of_speech": "noun",
+    "definition": "knowledge from doing",
+    "example_Sentence": "I have teaching experience.",
+    "synonyms": "background, knowledge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "relationship",
+    "part_of_speech": "noun",
+    "definition": "connection between people",
+    "example_Sentence": "They have a good relationship.",
+    "synonyms": "connection, bond"
+  },
+  {
+    "level": "Intermediate",
+    "word": "responsibility",
+    "part_of_speech": "noun",
+    "definition": "duty or obligation",
+    "example_Sentence": "It's my responsibility.",
+    "synonyms": "duty, obligation"
+  },
+  {
+    "level": "Intermediate",
+    "word": "information",
+    "part_of_speech": "noun",
+    "definition": "facts or knowledge",
+    "example_Sentence": "I need more information.",
+    "synonyms": "data, details"
+  },
+  {
+    "level": "Intermediate",
+    "word": "communication",
+    "part_of_speech": "noun",
+    "definition": "exchange of information",
+    "example_Sentence": "Good communication is key.",
+    "synonyms": "interaction, contact"
+  },
+  {
+    "level": "Intermediate",
+    "word": "education",
+    "part_of_speech": "noun",
+    "definition": "process of learning",
+    "example_Sentence": "Education is important.",
+    "synonyms": "schooling, learning"
+  },
+  {
+    "level": "Intermediate",
+    "word": "government",
+    "part_of_speech": "noun",
+    "definition": "ruling authority",
+    "example_Sentence": "The government made a decision.",
+    "synonyms": "authority, administration"
+  },
+  {
+    "level": "Intermediate",
+    "word": "organization",
+    "part_of_speech": "noun",
+    "definition": "structured group",
+    "example_Sentence": "She works for an organization.",
+    "synonyms": "institution, company"
+  },
+  {
+    "level": "Intermediate",
+    "word": "competition",
+    "part_of_speech": "noun",
+    "definition": "contest or rivalry",
+    "example_Sentence": "There's strong competition.",
+    "synonyms": "contest, rivalry"
+  },
+  {
+    "level": "Intermediate",
+    "word": "development",
+    "part_of_speech": "noun",
+    "definition": "process of growing",
+    "example_Sentence": "Child development is crucial.",
+    "synonyms": "growth, progress"
+  },
+  {
+    "level": "Intermediate",
+    "word": "management",
+    "part_of_speech": "noun",
+    "definition": "controlling or directing",
+    "example_Sentence": "Good management is essential.",
+    "synonyms": "administration, control"
+  },
+  {
+    "level": "Intermediate",
+    "word": "environment",
+    "part_of_speech": "noun",
+    "definition": "surroundings",
+    "example_Sentence": "Protect the environment.",
+    "synonyms": "surroundings, nature"
+  },
+  {
+    "level": "Intermediate",
+    "word": "technology",
+    "part_of_speech": "noun",
+    "definition": "application of science",
+    "example_Sentence": "Modern technology helps us.",
+    "synonyms": "innovation, science"
+  },
+  {
+    "level": "Intermediate",
+    "word": "society",
+    "part_of_speech": "noun",
+    "definition": "community of people",
+    "example_Sentence": "Society is changing.",
+    "synonyms": "community, civilization"
+  },
+  {
+    "level": "Intermediate",
+    "word": "economy",
+    "part_of_speech": "noun",
+    "definition": "financial system",
+    "example_Sentence": "The economy is growing.",
+    "synonyms": "financial, commerce"
+  },
+  {
+    "level": "Intermediate",
+    "word": "culture",
+    "part_of_speech": "noun",
+    "definition": "way of life",
+    "example_Sentence": "Different cultures exist.",
+    "synonyms": "tradition, heritage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "politics",
+    "part_of_speech": "noun",
+    "definition": "government activities",
+    "example_Sentence": "He's interested in politics.",
+    "synonyms": "government, policy"
+  },
+  {
+    "level": "Intermediate",
+    "word": "history",
+    "part_of_speech": "noun",
+    "definition": "past events",
+    "example_Sentence": "Ancient history fascinates me.",
+    "synonyms": "past, heritage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "science",
+    "part_of_speech": "noun",
+    "definition": "systematic knowledge",
+    "example_Sentence": "Science advances rapidly.",
+    "synonyms": "research, study"
+  },
+  {
+    "level": "Intermediate",
+    "word": "research",
+    "part_of_speech": "noun",
+    "definition": "detailed study",
+    "example_Sentence": "Medical research saves lives.",
+    "synonyms": "investigation, study"
+  },
+  {
+    "level": "Intermediate",
+    "word": "project",
+    "part_of_speech": "noun",
+    "definition": "planned undertaking",
+    "example_Sentence": "We're working on a project.",
+    "synonyms": "task, assignment"
+  },
+  {
+    "level": "Intermediate",
+    "word": "system",
+    "part_of_speech": "noun",
+    "definition": "organized whole",
+    "example_Sentence": "The system works well.",
+    "synonyms": "method, structure"
+  },
+  {
+    "level": "Intermediate",
+    "word": "process",
+    "part_of_speech": "noun",
+    "definition": "series of actions",
+    "example_Sentence": "The hiring process takes time.",
+    "synonyms": "procedure, method"
+  },
+  {
+    "level": "Intermediate",
+    "word": "quality",
+    "part_of_speech": "noun",
+    "definition": "standard of excellence",
+    "example_Sentence": "High quality products.",
+    "synonyms": "standard, excellence"
+  },
+  {
+    "level": "Intermediate",
+    "word": "quantity",
+    "part_of_speech": "noun",
+    "definition": "amount or number",
+    "example_Sentence": "Large quantity needed.",
+    "synonyms": "amount, volume"
+  },
+  {
+    "level": "Intermediate",
+    "word": "variety",
+    "part_of_speech": "noun",
+    "definition": "different types",
+    "example_Sentence": "Great variety of foods.",
+    "synonyms": "diversity, range"
+  },
+  {
+    "level": "Intermediate",
+    "word": "category",
+    "part_of_speech": "noun",
+    "definition": "class or group",
+    "example_Sentence": "Different categories available.",
+    "synonyms": "class, type"
+  },
+  {
+    "level": "Intermediate",
+    "word": "structure",
+    "part_of_speech": "noun",
+    "definition": "arrangement of parts",
+    "example_Sentence": "The building's structure.",
+    "synonyms": "framework, organization"
+  },
+  {
+    "level": "Intermediate",
+    "word": "function",
+    "part_of_speech": "noun",
+    "definition": "purpose or role",
+    "example_Sentence": "Each part has a function.",
+    "synonyms": "purpose, role"
+  },
+  {
+    "level": "Intermediate",
+    "word": "material",
+    "part_of_speech": "noun",
+    "definition": "substance or matter",
+    "example_Sentence": "Quality materials used.",
+    "synonyms": "substance, fabric"
+  },
+  {
+    "level": "Intermediate",
+    "word": "equipment",
+    "part_of_speech": "noun",
+    "definition": "tools or machinery",
+    "example_Sentence": "Modern equipment needed.",
+    "synonyms": "tools, apparatus"
+  },
+  {
+    "level": "Intermediate",
+    "word": "facility",
+    "part_of_speech": "noun",
+    "definition": "building or service",
+    "example_Sentence": "Sports facility opened.",
+    "synonyms": "building, service"
+  },
+  {
+    "level": "Intermediate",
+    "word": "resource",
+    "part_of_speech": "noun",
+    "definition": "available supply",
+    "example_Sentence": "Natural resources are limited.",
+    "synonyms": "supply, asset"
+  },
+  {
+    "level": "Intermediate",
+    "word": "method",
+    "part_of_speech": "noun",
+    "definition": "way of doing",
+    "example_Sentence": "Effective teaching method.",
+    "synonyms": "approach, technique"
+  },
+  {
+    "level": "Intermediate",
+    "word": "technique",
+    "part_of_speech": "noun",
+    "definition": "specific way",
+    "example_Sentence": "New surgical technique.",
+    "synonyms": "method, skill"
+  },
+  {
+    "level": "Intermediate",
+    "word": "strategy",
+    "part_of_speech": "noun",
+    "definition": "plan of action",
+    "example_Sentence": "Marketing strategy works.",
+    "synonyms": "plan, approach"
+  },
+  {
+    "level": "Intermediate",
+    "word": "policy",
+    "part_of_speech": "noun",
+    "definition": "course of action",
+    "example_Sentence": "New company policy.",
+    "synonyms": "rule, guideline"
+  },
+  {
+    "level": "Intermediate",
+    "word": "procedure",
+    "part_of_speech": "noun",
+    "definition": "established way",
+    "example_Sentence": "Follow safety procedures.",
+    "synonyms": "process, protocol"
+  },
+  {
+    "level": "Intermediate",
+    "word": "standard",
+    "part_of_speech": "noun",
+    "definition": "level of quality",
+    "example_Sentence": "High standards maintained.",
+    "synonyms": "quality, benchmark"
+  },
+  {
+    "level": "Intermediate",
+    "word": "requirement",
+    "part_of_speech": "noun",
+    "definition": "necessary condition",
+    "example_Sentence": "Meet all requirements.",
+    "synonyms": "condition, necessity"
+  },
+  {
+    "level": "Intermediate",
+    "word": "advantage",
+    "part_of_speech": "noun",
+    "definition": "beneficial factor",
+    "example_Sentence": "Major advantage for us.",
+    "synonyms": "benefit, plus"
+  },
+  {
+    "level": "Intermediate",
+    "word": "disadvantage",
+    "part_of_speech": "noun",
+    "definition": "unfavorable factor",
+    "example_Sentence": "One clear disadvantage.",
+    "synonyms": "drawback, minus"
+  },
+  {
+    "level": "Intermediate",
+    "word": "benefit",
+    "part_of_speech": "noun",
+    "definition": "positive result",
+    "example_Sentence": "Health benefits proven.",
+    "synonyms": "advantage, gain"
+  },
+  {
+    "level": "Intermediate",
+    "word": "consequence",
+    "part_of_speech": "noun",
+    "definition": "result or outcome",
+    "example_Sentence": "Actions have consequences.",
+    "synonyms": "result, effect"
+  },
+  {
+    "level": "Intermediate",
+    "word": "influence",
+    "part_of_speech": "noun",
+    "definition": "power to affect",
+    "example_Sentence": "Strong parental influence.",
+    "synonyms": "impact, effect"
+  },
+  {
+    "level": "Intermediate",
+    "word": "impact",
+    "part_of_speech": "noun",
+    "definition": "strong effect",
+    "example_Sentence": "Positive impact on society.",
+    "synonyms": "effect, influence"
+  },
+  {
+    "level": "Intermediate",
+    "word": "achievement",
+    "part_of_speech": "noun",
+    "definition": "successful completion",
+    "example_Sentence": "Great achievement for team.",
+    "synonyms": "accomplishment, success"
+  },
+  {
+    "level": "Intermediate",
+    "word": "performance",
+    "part_of_speech": "noun",
+    "definition": "execution of action",
+    "example_Sentence": "Excellent performance today.",
+    "synonyms": "execution, showing"
+  },
+  {
+    "level": "Intermediate",
+    "word": "progress",
+    "part_of_speech": "noun",
+    "definition": "forward movement",
+    "example_Sentence": "Steady progress made.",
+    "synonyms": "advancement, development"
+  },
+  {
+    "level": "Intermediate",
+    "word": "improvement",
+    "part_of_speech": "noun",
+    "definition": "making better",
+    "example_Sentence": "Room for improvement exists.",
+    "synonyms": "enhancement, betterment"
+  },
+  {
+    "level": "Intermediate",
+    "word": "solution",
+    "part_of_speech": "noun",
+    "definition": "answer to problem",
+    "example_Sentence": "Found the perfect solution.",
+    "synonyms": "answer, resolution"
+  },
+  {
+    "level": "Intermediate",
+    "word": "challenge",
+    "part_of_speech": "noun",
+    "definition": "difficult task",
+    "example_Sentence": "Face the challenge ahead.",
+    "synonyms": "difficulty, obstacle"
+  },
+  {
+    "level": "Intermediate",
+    "word": "difficulty",
+    "part_of_speech": "noun",
+    "definition": "hard situation",
+    "example_Sentence": "Overcome every difficulty.",
+    "synonyms": "problem, challenge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "success",
+    "part_of_speech": "noun",
+    "definition": "favorable outcome",
+    "example_Sentence": "Success requires hard work.",
+    "synonyms": "achievement, victory"
+  },
+  {
+    "level": "Intermediate",
+    "word": "failure",
+    "part_of_speech": "noun",
+    "definition": "lack of success",
+    "example_Sentence": "Learn from failure.",
+    "synonyms": "defeat, setback"
+  },
+  {
+    "level": "Intermediate",
+    "word": "mistake",
+    "part_of_speech": "noun",
+    "definition": "error or wrong action",
+    "example_Sentence": "Everyone makes mistakes.",
+    "synonyms": "error, blunder"
+  },
+  {
+    "level": "Intermediate",
+    "word": "accident",
+    "part_of_speech": "noun",
+    "definition": "unexpected event",
+    "example_Sentence": "Car accident yesterday.",
+    "synonyms": "mishap, incident"
+  },
+  {
+    "level": "Intermediate",
+    "word": "incident",
+    "part_of_speech": "noun",
+    "definition": "notable occurrence",
+    "example_Sentence": "Strange incident happened.",
+    "synonyms": "event, occurrence"
+  },
+  {
+    "level": "Intermediate",
+    "word": "event",
+    "part_of_speech": "noun",
+    "definition": "planned happening",
+    "example_Sentence": "Social event tonight.",
+    "synonyms": "occasion, function"
+  },
+  {
+    "level": "Intermediate",
+    "word": "occasion",
+    "part_of_speech": "noun",
+    "definition": "special time",
+    "example_Sentence": "Special occasion celebrated.",
+    "synonyms": "event, time"
+  },
+  {
+    "level": "Intermediate",
+    "word": "ceremony",
+    "part_of_speech": "noun",
+    "definition": "formal religious event",
+    "example_Sentence": "Wedding ceremony beautiful.",
+    "synonyms": "ritual, service"
+  },
+  {
+    "level": "Intermediate",
+    "word": "celebration",
+    "part_of_speech": "noun",
+    "definition": "joyful event",
+    "example_Sentence": "Birthday celebration planned.",
+    "synonyms": "party, festivity"
+  },
+  {
+    "level": "Intermediate",
+    "word": "tradition",
+    "part_of_speech": "noun",
+    "definition": "established custom",
+    "example_Sentence": "Family tradition continues.",
+    "synonyms": "custom, heritage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "custom",
+    "part_of_speech": "noun",
+    "definition": "usual practice",
+    "example_Sentence": "Local custom observed.",
+    "synonyms": "tradition, practice"
+  },
+  {
+    "level": "Intermediate",
+    "word": "habit",
+    "part_of_speech": "noun",
+    "definition": "regular behavior",
+    "example_Sentence": "Good eating habits.",
+    "synonyms": "routine, pattern"
+  },
+  {
+    "level": "Intermediate",
+    "word": "behavior",
+    "part_of_speech": "noun",
+    "definition": "way of acting",
+    "example_Sentence": "Polite behavior expected.",
+    "synonyms": "conduct, manner"
+  },
+  {
+    "level": "Intermediate",
+    "word": "attitude",
+    "part_of_speech": "noun",
+    "definition": "way of thinking",
+    "example_Sentence": "Positive attitude helps.",
+    "synonyms": "mindset, outlook"
+  },
+  {
+    "level": "Intermediate",
+    "word": "opinion",
+    "part_of_speech": "noun",
+    "definition": "personal view",
+    "example_Sentence": "In my opinion...",
+    "synonyms": "view, belief"
+  },
+  {
+    "level": "Intermediate",
+    "word": "belief",
+    "part_of_speech": "noun",
+    "definition": "acceptance as true",
+    "example_Sentence": "Religious beliefs vary.",
+    "synonyms": "faith, conviction"
+  },
+  {
+    "level": "Intermediate",
+    "word": "knowledge",
+    "part_of_speech": "noun",
+    "definition": "facts and understanding",
+    "example_Sentence": "Extensive knowledge required.",
+    "synonyms": "understanding, learning"
+  },
+  {
+    "level": "Intermediate",
+    "word": "skill",
+    "part_of_speech": "noun",
+    "definition": "ability to do",
+    "example_Sentence": "Technical skills needed.",
+    "synonyms": "ability, talent"
+  },
+  {
+    "level": "Intermediate",
+    "word": "ability",
+    "part_of_speech": "noun",
+    "definition": "capacity to perform",
+    "example_Sentence": "Natural ability shown.",
+    "synonyms": "skill, capability"
+  },
+  {
+    "level": "Intermediate",
+    "word": "talent",
+    "part_of_speech": "noun",
+    "definition": "natural aptitude",
+    "example_Sentence": "Artistic talent evident.",
+    "synonyms": "gift, ability"
+  },
+  {
+    "level": "Intermediate",
+    "word": "interest",
+    "part_of_speech": "noun",
+    "definition": "curiosity about",
+    "example_Sentence": "Growing interest in art.",
+    "synonyms": "curiosity, concern"
+  },
+  {
+    "level": "Intermediate",
+    "word": "attention",
+    "part_of_speech": "noun",
+    "definition": "mental focus",
+    "example_Sentence": "Pay attention please.",
+    "synonyms": "focus, concentration"
+  },
+  {
+    "level": "Intermediate",
+    "word": "concentration",
+    "part_of_speech": "noun",
+    "definition": "focused attention",
+    "example_Sentence": "Requires full concentration.",
+    "synonyms": "focus, attention"
+  },
+  {
+    "level": "Intermediate",
+    "word": "memory",
+    "part_of_speech": "noun",
+    "definition": "ability to remember",
+    "example_Sentence": "Good memory helpful.",
+    "synonyms": "recollection, recall"
+  },
+  {
+    "level": "Intermediate",
+    "word": "imagination",
+    "part_of_speech": "noun",
+    "definition": "creative thinking",
+    "example_Sentence": "Wild imagination displayed.",
+    "synonyms": "creativity, fantasy"
+  },
+  {
+    "level": "Intermediate",
+    "word": "creativity",
+    "part_of_speech": "noun",
+    "definition": "ability to create",
+    "example_Sentence": "Artistic creativity flourishes.",
+    "synonyms": "imagination, innovation"
+  },
+  {
+    "level": "Intermediate",
+    "word": "intelligence",
+    "part_of_speech": "noun",
+    "definition": "mental ability",
+    "example_Sentence": "High intelligence evident.",
+    "synonyms": "smartness, brilliance"
+  },
+  {
+    "level": "Intermediate",
+    "word": "understanding",
+    "part_of_speech": "noun",
+    "definition": "comprehension",
+    "example_Sentence": "Clear understanding needed.",
+    "synonyms": "comprehension, grasp"
+  },
+  {
+    "level": "Intermediate",
+    "word": "confusion",
+    "part_of_speech": "noun",
+    "definition": "lack of clarity",
+    "example_Sentence": "Confusion about rules.",
+    "synonyms": "bewilderment, uncertainty"
+  },
+  {
+    "level": "Intermediate",
+    "word": "curiosity",
+    "part_of_speech": "noun",
+    "definition": "desire to know",
+    "example_Sentence": "Natural curiosity encouraged.",
+    "synonyms": "interest, wonder"
+  },
+  {
+    "level": "Intermediate",
+    "word": "surprise",
+    "part_of_speech": "noun",
+    "definition": "unexpected feeling",
+    "example_Sentence": "Complete surprise party.",
+    "synonyms": "shock, amazement"
+  },
+  {
+    "level": "Intermediate",
+    "word": "emotion",
+    "part_of_speech": "noun",
+    "definition": "strong feeling",
+    "example_Sentence": "Mixed emotions felt.",
+    "synonyms": "feeling, sentiment"
+  },
+  {
+    "level": "Intermediate",
+    "word": "feeling",
+    "part_of_speech": "noun",
+    "definition": "emotional state",
+    "example_Sentence": "Strong feeling of joy.",
+    "synonyms": "emotion, sensation"
+  },
+  {
+    "level": "Intermediate",
+    "word": "mood",
+    "part_of_speech": "noun",
+    "definition": "temporary state",
+    "example_Sentence": "Good mood today.",
+    "synonyms": "spirit, disposition"
+  },
+  {
+    "level": "Intermediate",
+    "word": "personality",
+    "part_of_speech": "noun",
+    "definition": "individual character",
+    "example_Sentence": "Outgoing personality shown.",
+    "synonyms": "character, nature"
+  },
+  {
+    "level": "Intermediate",
+    "word": "character",
+    "part_of_speech": "noun",
+    "definition": "moral qualities",
+    "example_Sentence": "Strong moral character.",
+    "synonyms": "personality, nature"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reputation",
+    "part_of_speech": "noun",
+    "definition": "public opinion",
+    "example_Sentence": "Excellent reputation maintained.",
+    "synonyms": "standing, image"
+  },
+  {
+    "level": "Intermediate",
+    "word": "respect",
+    "part_of_speech": "noun",
+    "definition": "admiration for",
+    "example_Sentence": "Mutual respect important.",
+    "synonyms": "regard, esteem"
+  },
+  {
+    "level": "Intermediate",
+    "word": "trust",
+    "part_of_speech": "noun",
+    "definition": "confidence in",
+    "example_Sentence": "Complete trust established.",
+    "synonyms": "confidence, faith"
+  },
+  {
+    "level": "Intermediate",
+    "word": "confidence",
+    "part_of_speech": "noun",
+    "definition": "self-assurance",
+    "example_Sentence": "Growing confidence shown.",
+    "synonyms": "assurance, trust"
+  },
+  {
+    "level": "Intermediate",
+    "word": "courage",
+    "part_of_speech": "noun",
+    "definition": "bravery",
+    "example_Sentence": "Moral courage displayed.",
+    "synonyms": "bravery, valor"
+  },
+  {
+    "level": "Intermediate",
+    "word": "fear",
+    "part_of_speech": "noun",
+    "definition": "feeling of danger",
+    "example_Sentence": "Natural fear reaction.",
+    "synonyms": "anxiety, dread"
+  },
+  {
+    "level": "Intermediate",
+    "word": "worry",
+    "part_of_speech": "noun",
+    "definition": "anxious thought",
+    "example_Sentence": "Constant worry unnecessary.",
+    "synonyms": "concern, anxiety"
+  },
+  {
+    "level": "Intermediate",
+    "word": "stress",
+    "part_of_speech": "noun",
+    "definition": "mental pressure",
+    "example_Sentence": "Work stress manageable.",
+    "synonyms": "pressure, tension"
+  },
+  {
+    "level": "Intermediate",
+    "word": "pressure",
+    "part_of_speech": "noun",
+    "definition": "demanding influence",
+    "example_Sentence": "Social pressure felt.",
+    "synonyms": "stress, force"
+  },
+  {
+    "level": "Intermediate",
+    "word": "comfort",
+    "part_of_speech": "noun",
+    "definition": "state of ease",
+    "example_Sentence": "Physical comfort important.",
+    "synonyms": "ease, relief"
+  },
+  {
+    "level": "Intermediate",
+    "word": "relief",
+    "part_of_speech": "noun",
+    "definition": "feeling better",
+    "example_Sentence": "Great relief felt.",
+    "synonyms": "comfort, ease"
+  },
+  {
+    "level": "Intermediate",
+    "word": "pleasure",
+    "part_of_speech": "noun",
+    "definition": "feeling of happiness",
+    "example_Sentence": "Simple pleasures enjoyed.",
+    "synonyms": "enjoyment, delight"
+  },
+  {
+    "level": "Intermediate",
+    "word": "satisfaction",
+    "part_of_speech": "noun",
+    "definition": "feeling fulfilled",
+    "example_Sentence": "Job satisfaction high.",
+    "synonyms": "contentment, fulfillment"
+  },
+  {
+    "level": "Intermediate",
+    "word": "disappointment",
+    "part_of_speech": "noun",
+    "definition": "feeling let down",
+    "example_Sentence": "Deep disappointment felt.",
+    "synonyms": "letdown, dismay"
+  },
+  {
+    "level": "Intermediate",
+    "word": "excitement",
+    "part_of_speech": "noun",
+    "definition": "thrilled feeling",
+    "example_Sentence": "Great excitement building.",
+    "synonyms": "thrill, enthusiasm"
+  },
+  {
+    "level": "Intermediate",
+    "word": "enthusiasm",
+    "part_of_speech": "noun",
+    "definition": "eager interest",
+    "example_Sentence": "Show enthusiasm for project.",
+    "synonyms": "excitement, passion"
+  },
+  {
+    "level": "Intermediate",
+    "word": "passion",
+    "part_of_speech": "noun",
+    "definition": "strong emotion",
+    "example_Sentence": "Passion for music.",
+    "synonyms": "enthusiasm, love"
+  },
+  {
+    "level": "Intermediate",
+    "word": "desire",
+    "part_of_speech": "noun",
+    "definition": "strong wish",
+    "example_Sentence": "Desire for success.",
+    "synonyms": "wish, craving"
+  },
+  {
+    "level": "Intermediate",
+    "word": "dream",
+    "part_of_speech": "noun",
+    "definition": "cherished aspiration",
+    "example_Sentence": "Follow your dreams.",
+    "synonyms": "aspiration, goal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "goal",
+    "part_of_speech": "noun",
+    "definition": "aimed objective",
+    "example_Sentence": "Clear goals set.",
+    "synonyms": "objective, target"
+  },
+  {
+    "level": "Intermediate",
+    "word": "purpose",
+    "part_of_speech": "noun",
+    "definition": "intended aim",
+    "example_Sentence": "Clear purpose defined.",
+    "synonyms": "aim, objective"
+  },
+  {
+    "level": "Intermediate",
+    "word": "intention",
+    "part_of_speech": "noun",
+    "definition": "planned purpose",
+    "example_Sentence": "Good intentions shown.",
+    "synonyms": "purpose, aim"
+  },
+  {
+    "level": "Intermediate",
+    "word": "decision",
+    "part_of_speech": "noun",
+    "definition": "choice made",
+    "example_Sentence": "Important decision needed.",
+    "synonyms": "choice, determination"
+  },
+  {
+    "level": "Intermediate",
+    "word": "choice",
+    "part_of_speech": "noun",
+    "definition": "option selected",
+    "example_Sentence": "Difficult choice ahead.",
+    "synonyms": "option, selection"
+  },
+  {
+    "level": "Intermediate",
+    "word": "achieve",
+    "part_of_speech": "verb",
+    "definition": "to successfully complete",
+    "example_Sentence": "We can achieve our goals.",
+    "synonyms": "accomplish, attain"
+  },
+  {
+    "level": "Intermediate",
+    "word": "accomplish",
+    "part_of_speech": "verb",
+    "definition": "to finish successfully",
+    "example_Sentence": "She accomplished the task.",
+    "synonyms": "achieve, complete"
+  },
+  {
+    "level": "Intermediate",
+    "word": "acquire",
+    "part_of_speech": "verb",
+    "definition": "to obtain or get",
+    "example_Sentence": "Acquire new skills.",
+    "synonyms": "obtain, gain"
+  },
+  {
+    "level": "Intermediate",
+    "word": "adapt",
+    "part_of_speech": "verb",
+    "definition": "to adjust to conditions",
+    "example_Sentence": "Adapt to new environment.",
+    "synonyms": "adjust, modify"
+  },
+  {
+    "level": "Intermediate",
+    "word": "analyze",
+    "part_of_speech": "verb",
+    "definition": "to examine in detail",
+    "example_Sentence": "Analyze the data carefully.",
+    "synonyms": "examine, study"
+  },
+  {
+    "level": "Intermediate",
+    "word": "approach",
+    "part_of_speech": "verb",
+    "definition": "to come near",
+    "example_Sentence": "Approach the problem systematically.",
+    "synonyms": "near, tackle"
+  },
+  {
+    "level": "Intermediate",
+    "word": "arrange",
+    "part_of_speech": "verb",
+    "definition": "to organize",
+    "example_Sentence": "Arrange the meeting for Monday.",
+    "synonyms": "organize, plan"
+  },
+  {
+    "level": "Intermediate",
+    "word": "assess",
+    "part_of_speech": "verb",
+    "definition": "to evaluate",
+    "example_Sentence": "Assess the situation first.",
+    "synonyms": "evaluate, judge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "assume",
+    "part_of_speech": "verb",
+    "definition": "to suppose",
+    "example_Sentence": "I assume you're coming.",
+    "synonyms": "suppose, presume"
+  },
+  {
+    "level": "Intermediate",
+    "word": "attempt",
+    "part_of_speech": "verb",
+    "definition": "to try",
+    "example_Sentence": "Attempt the difficult question.",
+    "synonyms": "try, endeavor"
+  },
+  {
+    "level": "Intermediate",
+    "word": "attract",
+    "part_of_speech": "verb",
+    "definition": "to draw toward",
+    "example_Sentence": "Attract more customers.",
+    "synonyms": "draw, appeal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "avoid",
+    "part_of_speech": "verb",
+    "definition": "to stay away from",
+    "example_Sentence": "Avoid making mistakes.",
+    "synonyms": "prevent, dodge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "benefit",
+    "part_of_speech": "verb",
+    "definition": "to gain advantage",
+    "example_Sentence": "This will benefit everyone.",
+    "synonyms": "help, advantage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "combine",
+    "part_of_speech": "verb",
+    "definition": "to join together",
+    "example_Sentence": "Combine the ingredients.",
+    "synonyms": "mix, merge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "communicate",
+    "part_of_speech": "verb",
+    "definition": "to share information",
+    "example_Sentence": "Communicate clearly with team.",
+    "synonyms": "convey, express"
+  },
+  {
+    "level": "Intermediate",
+    "word": "compare",
+    "part_of_speech": "verb",
+    "definition": "to examine differences",
+    "example_Sentence": "Compare the two options.",
+    "synonyms": "contrast, evaluate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "compete",
+    "part_of_speech": "verb",
+    "definition": "to strive against",
+    "example_Sentence": "Companies compete for market.",
+    "synonyms": "contest, rival"
+  },
+  {
+    "level": "Intermediate",
+    "word": "complete",
+    "part_of_speech": "verb",
+    "definition": "to finish",
+    "example_Sentence": "Complete the assignment today.",
+    "synonyms": "finish, conclude"
+  },
+  {
+    "level": "Intermediate",
+    "word": "concentrate",
+    "part_of_speech": "verb",
+    "definition": "to focus attention",
+    "example_Sentence": "Concentrate on your studies.",
+    "synonyms": "focus, center"
+  },
+  {
+    "level": "Intermediate",
+    "word": "conclude",
+    "part_of_speech": "verb",
+    "definition": "to end or decide",
+    "example_Sentence": "Conclude the presentation.",
+    "synonyms": "end, determine"
+  },
+  {
+    "level": "Intermediate",
+    "word": "conduct",
+    "part_of_speech": "verb",
+    "definition": "to carry out",
+    "example_Sentence": "Conduct the experiment.",
+    "synonyms": "perform, execute"
+  },
+  {
+    "level": "Intermediate",
+    "word": "confirm",
+    "part_of_speech": "verb",
+    "definition": "to verify",
+    "example_Sentence": "Confirm your attendance.",
+    "synonyms": "verify, validate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "connect",
+    "part_of_speech": "verb",
+    "definition": "to link together",
+    "example_Sentence": "Connect the cables properly.",
+    "synonyms": "link, join"
+  },
+  {
+    "level": "Intermediate",
+    "word": "consider",
+    "part_of_speech": "verb",
+    "definition": "to think about",
+    "example_Sentence": "Consider all options.",
+    "synonyms": "think, ponder"
+  },
+  {
+    "level": "Intermediate",
+    "word": "construct",
+    "part_of_speech": "verb",
+    "definition": "to build",
+    "example_Sentence": "Construct a new building.",
+    "synonyms": "build, create"
+  },
+  {
+    "level": "Intermediate",
+    "word": "contribute",
+    "part_of_speech": "verb",
+    "definition": "to give or help",
+    "example_Sentence": "Contribute to the discussion.",
+    "synonyms": "give, add"
+  },
+  {
+    "level": "Intermediate",
+    "word": "control",
+    "part_of_speech": "verb",
+    "definition": "to manage",
+    "example_Sentence": "Control your emotions.",
+    "synonyms": "manage, regulate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "convert",
+    "part_of_speech": "verb",
+    "definition": "to change form",
+    "example_Sentence": "Convert the file format.",
+    "synonyms": "change, transform"
+  },
+  {
+    "level": "Intermediate",
+    "word": "convince",
+    "part_of_speech": "verb",
+    "definition": "to persuade",
+    "example_Sentence": "Convince them to join.",
+    "synonyms": "persuade, influence"
+  },
+  {
+    "level": "Intermediate",
+    "word": "cooperate",
+    "part_of_speech": "verb",
+    "definition": "to work together",
+    "example_Sentence": "Cooperate with your team.",
+    "synonyms": "collaborate, work"
+  },
+  {
+    "level": "Intermediate",
+    "word": "create",
+    "part_of_speech": "verb",
+    "definition": "to make something new",
+    "example_Sentence": "Create innovative solutions.",
+    "synonyms": "make, produce"
+  },
+  {
+    "level": "Intermediate",
+    "word": "criticize",
+    "part_of_speech": "verb",
+    "definition": "to judge negatively",
+    "example_Sentence": "Don't criticize without understanding.",
+    "synonyms": "judge, condemn"
+  },
+  {
+    "level": "Intermediate",
+    "word": "debate",
+    "part_of_speech": "verb",
+    "definition": "to argue formally",
+    "example_Sentence": "Debate the important issues.",
+    "synonyms": "argue, discuss"
+  },
+  {
+    "level": "Intermediate",
+    "word": "define",
+    "part_of_speech": "verb",
+    "definition": "to explain meaning",
+    "example_Sentence": "Define the key terms.",
+    "synonyms": "explain, describe"
+  },
+  {
+    "level": "Intermediate",
+    "word": "demonstrate",
+    "part_of_speech": "verb",
+    "definition": "to show clearly",
+    "example_Sentence": "Demonstrate the technique.",
+    "synonyms": "show, display"
+  },
+  {
+    "level": "Intermediate",
+    "word": "depend",
+    "part_of_speech": "verb",
+    "definition": "to rely on",
+    "example_Sentence": "Success depends on effort.",
+    "synonyms": "rely, count"
+  },
+  {
+    "level": "Intermediate",
+    "word": "describe",
+    "part_of_speech": "verb",
+    "definition": "to give details",
+    "example_Sentence": "Describe your experience.",
+    "synonyms": "explain, detail"
+  },
+  {
+    "level": "Intermediate",
+    "word": "design",
+    "part_of_speech": "verb",
+    "definition": "to plan creation",
+    "example_Sentence": "Design a better system.",
+    "synonyms": "plan, create"
+  },
+  {
+    "level": "Intermediate",
+    "word": "determine",
+    "part_of_speech": "verb",
+    "definition": "to decide",
+    "example_Sentence": "Determine the best approach.",
+    "synonyms": "decide, establish"
+  },
+  {
+    "level": "Intermediate",
+    "word": "develop",
+    "part_of_speech": "verb",
+    "definition": "to grow or improve",
+    "example_Sentence": "Develop new skills.",
+    "synonyms": "grow, advance"
+  },
+  {
+    "level": "Intermediate",
+    "word": "discover",
+    "part_of_speech": "verb",
+    "definition": "to find out",
+    "example_Sentence": "Discover new opportunities.",
+    "synonyms": "find, uncover"
+  },
+  {
+    "level": "Intermediate",
+    "word": "discuss",
+    "part_of_speech": "verb",
+    "definition": "to talk about",
+    "example_Sentence": "Discuss the proposal.",
+    "synonyms": "talk, debate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "distinguish",
+    "part_of_speech": "verb",
+    "definition": "to recognize difference",
+    "example_Sentence": "Distinguish fact from opinion.",
+    "synonyms": "differentiate, separate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "distribute",
+    "part_of_speech": "verb",
+    "definition": "to give out",
+    "example_Sentence": "Distribute the materials.",
+    "synonyms": "give, spread"
+  },
+  {
+    "level": "Intermediate",
+    "word": "encourage",
+    "part_of_speech": "verb",
+    "definition": "to give support",
+    "example_Sentence": "Encourage students to participate.",
+    "synonyms": "support, motivate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "establish",
+    "part_of_speech": "verb",
+    "definition": "to set up",
+    "example_Sentence": "Establish clear guidelines.",
+    "synonyms": "create, found"
+  },
+  {
+    "level": "Intermediate",
+    "word": "estimate",
+    "part_of_speech": "verb",
+    "definition": "to calculate roughly",
+    "example_Sentence": "Estimate the total cost.",
+    "synonyms": "calculate, assess"
+  },
+  {
+    "level": "Intermediate",
+    "word": "evaluate",
+    "part_of_speech": "verb",
+    "definition": "to assess value",
+    "example_Sentence": "Evaluate the results.",
+    "synonyms": "assess, judge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "examine",
+    "part_of_speech": "verb",
+    "definition": "to look at closely",
+    "example_Sentence": "Examine all evidence.",
+    "synonyms": "inspect, study"
+  },
+  {
+    "level": "Intermediate",
+    "word": "exchange",
+    "part_of_speech": "verb",
+    "definition": "to trade",
+    "example_Sentence": "Exchange ideas freely.",
+    "synonyms": "trade, swap"
+  },
+  {
+    "level": "Intermediate",
+    "word": "expand",
+    "part_of_speech": "verb",
+    "definition": "to make larger",
+    "example_Sentence": "Expand the business.",
+    "synonyms": "grow, increase"
+  },
+  {
+    "level": "Intermediate",
+    "word": "explain",
+    "part_of_speech": "verb",
+    "definition": "to make clear",
+    "example_Sentence": "Explain the process.",
+    "synonyms": "clarify, describe"
+  },
+  {
+    "level": "Intermediate",
+    "word": "explore",
+    "part_of_speech": "verb",
+    "definition": "to investigate",
+    "example_Sentence": "Explore new possibilities.",
+    "synonyms": "investigate, discover"
+  },
+  {
+    "level": "Intermediate",
+    "word": "express",
+    "part_of_speech": "verb",
+    "definition": "to communicate",
+    "example_Sentence": "Express your opinions.",
+    "synonyms": "communicate, convey"
+  },
+  {
+    "level": "Intermediate",
+    "word": "generate",
+    "part_of_speech": "verb",
+    "definition": "to produce",
+    "example_Sentence": "Generate new ideas.",
+    "synonyms": "create, produce"
+  },
+  {
+    "level": "Intermediate",
+    "word": "identify",
+    "part_of_speech": "verb",
+    "definition": "to recognize",
+    "example_Sentence": "Identify the main problem.",
+    "synonyms": "recognize, determine"
+  },
+  {
+    "level": "Intermediate",
+    "word": "implement",
+    "part_of_speech": "verb",
+    "definition": "to put into action",
+    "example_Sentence": "Implement the new policy.",
+    "synonyms": "execute, apply"
+  },
+  {
+    "level": "Intermediate",
+    "word": "improve",
+    "part_of_speech": "verb",
+    "definition": "to make better",
+    "example_Sentence": "Improve your performance.",
+    "synonyms": "enhance, better"
+  },
+  {
+    "level": "Intermediate",
+    "word": "increase",
+    "part_of_speech": "verb",
+    "definition": "to make larger",
+    "example_Sentence": "Increase productivity.",
+    "synonyms": "raise, boost"
+  },
+  {
+    "level": "Intermediate",
+    "word": "indicate",
+    "part_of_speech": "verb",
+    "definition": "to point out",
+    "example_Sentence": "Results indicate success.",
+    "synonyms": "show, suggest"
+  },
+  {
+    "level": "Intermediate",
+    "word": "influence",
+    "part_of_speech": "verb",
+    "definition": "to affect",
+    "example_Sentence": "Influence positive change.",
+    "synonyms": "affect, impact"
+  },
+  {
+    "level": "Intermediate",
+    "word": "inform",
+    "part_of_speech": "verb",
+    "definition": "to tell",
+    "example_Sentence": "Inform everyone about changes.",
+    "synonyms": "tell, notify"
+  },
+  {
+    "level": "Intermediate",
+    "word": "inspire",
+    "part_of_speech": "verb",
+    "definition": "to motivate",
+    "example_Sentence": "Inspire others to excel.",
+    "synonyms": "motivate, encourage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "integrate",
+    "part_of_speech": "verb",
+    "definition": "to combine",
+    "example_Sentence": "Integrate new technology.",
+    "synonyms": "combine, merge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "interpret",
+    "part_of_speech": "verb",
+    "definition": "to explain meaning",
+    "example_Sentence": "Interpret the data.",
+    "synonyms": "explain, understand"
+  },
+  {
+    "level": "Intermediate",
+    "word": "investigate",
+    "part_of_speech": "verb",
+    "definition": "to examine carefully",
+    "example_Sentence": "Investigate the problem.",
+    "synonyms": "examine, research"
+  },
+  {
+    "level": "Intermediate",
+    "word": "involve",
+    "part_of_speech": "verb",
+    "definition": "to include",
+    "example_Sentence": "Involve everyone in planning.",
+    "synonyms": "include, engage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "maintain",
+    "part_of_speech": "verb",
+    "definition": "to keep up",
+    "example_Sentence": "Maintain high standards.",
+    "synonyms": "keep, preserve"
+  },
+  {
+    "level": "Intermediate",
+    "word": "manage",
+    "part_of_speech": "verb",
+    "definition": "to control",
+    "example_Sentence": "Manage time effectively.",
+    "synonyms": "control, handle"
+  },
+  {
+    "level": "Intermediate",
+    "word": "measure",
+    "part_of_speech": "verb",
+    "definition": "to find size",
+    "example_Sentence": "Measure the results.",
+    "synonyms": "assess, gauge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "modify",
+    "part_of_speech": "verb",
+    "definition": "to change",
+    "example_Sentence": "Modify the original plan.",
+    "synonyms": "change, alter"
+  },
+  {
+    "level": "Intermediate",
+    "word": "monitor",
+    "part_of_speech": "verb",
+    "definition": "to watch carefully",
+    "example_Sentence": "Monitor progress closely.",
+    "synonyms": "watch, observe"
+  },
+  {
+    "level": "Intermediate",
+    "word": "motivate",
+    "part_of_speech": "verb",
+    "definition": "to encourage action",
+    "example_Sentence": "Motivate team members.",
+    "synonyms": "inspire, encourage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "negotiate",
+    "part_of_speech": "verb",
+    "definition": "to discuss terms",
+    "example_Sentence": "Negotiate the contract.",
+    "synonyms": "bargain, discuss"
+  },
+  {
+    "level": "Intermediate",
+    "word": "observe",
+    "part_of_speech": "verb",
+    "definition": "to watch carefully",
+    "example_Sentence": "Observe the changes.",
+    "synonyms": "watch, notice"
+  },
+  {
+    "level": "Intermediate",
+    "word": "obtain",
+    "part_of_speech": "verb",
+    "definition": "to get",
+    "example_Sentence": "Obtain necessary permits.",
+    "synonyms": "get, acquire"
+  },
+  {
+    "level": "Intermediate",
+    "word": "occur",
+    "part_of_speech": "verb",
+    "definition": "to happen",
+    "example_Sentence": "Problems may occur.",
+    "synonyms": "happen, arise"
+  },
+  {
+    "level": "Intermediate",
+    "word": "operate",
+    "part_of_speech": "verb",
+    "definition": "to function",
+    "example_Sentence": "Operate the machinery.",
+    "synonyms": "run, function"
+  },
+  {
+    "level": "Intermediate",
+    "word": "organize",
+    "part_of_speech": "verb",
+    "definition": "to arrange",
+    "example_Sentence": "Organize the event.",
+    "synonyms": "arrange, plan"
+  },
+  {
+    "level": "Intermediate",
+    "word": "participate",
+    "part_of_speech": "verb",
+    "definition": "to take part",
+    "example_Sentence": "Participate actively.",
+    "synonyms": "join, engage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "perform",
+    "part_of_speech": "verb",
+    "definition": "to carry out",
+    "example_Sentence": "Perform the task well.",
+    "synonyms": "execute, do"
+  },
+  {
+    "level": "Intermediate",
+    "word": "plan",
+    "part_of_speech": "verb",
+    "definition": "to prepare",
+    "example_Sentence": "Plan the project carefully.",
+    "synonyms": "prepare, organize"
+  },
+  {
+    "level": "Intermediate",
+    "word": "predict",
+    "part_of_speech": "verb",
+    "definition": "to forecast",
+    "example_Sentence": "Predict future trends.",
+    "synonyms": "forecast, anticipate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "prepare",
+    "part_of_speech": "verb",
+    "definition": "to get ready",
+    "example_Sentence": "Prepare for the meeting.",
+    "synonyms": "ready, arrange"
+  },
+  {
+    "level": "Intermediate",
+    "word": "present",
+    "part_of_speech": "verb",
+    "definition": "to show",
+    "example_Sentence": "Present the findings.",
+    "synonyms": "show, display"
+  },
+  {
+    "level": "Intermediate",
+    "word": "prevent",
+    "part_of_speech": "verb",
+    "definition": "to stop",
+    "example_Sentence": "Prevent future problems.",
+    "synonyms": "stop, avoid"
+  },
+  {
+    "level": "Intermediate",
+    "word": "produce",
+    "part_of_speech": "verb",
+    "definition": "to make",
+    "example_Sentence": "Produce quality results.",
+    "synonyms": "make, create"
+  },
+  {
+    "level": "Intermediate",
+    "word": "promote",
+    "part_of_speech": "verb",
+    "definition": "to advance",
+    "example_Sentence": "Promote teamwork.",
+    "synonyms": "advance, encourage"
+  },
+  {
+    "level": "Intermediate",
+    "word": "propose",
+    "part_of_speech": "verb",
+    "definition": "to suggest",
+    "example_Sentence": "Propose a solution.",
+    "synonyms": "suggest, recommend"
+  },
+  {
+    "level": "Intermediate",
+    "word": "protect",
+    "part_of_speech": "verb",
+    "definition": "to keep safe",
+    "example_Sentence": "Protect the environment.",
+    "synonyms": "guard, shield"
+  },
+  {
+    "level": "Intermediate",
+    "word": "provide",
+    "part_of_speech": "verb",
+    "definition": "to supply",
+    "example_Sentence": "Provide necessary resources.",
+    "synonyms": "supply, give"
+  },
+  {
+    "level": "Intermediate",
+    "word": "publish",
+    "part_of_speech": "verb",
+    "definition": "to make public",
+    "example_Sentence": "Publish the report.",
+    "synonyms": "release, issue"
+  },
+  {
+    "level": "Intermediate",
+    "word": "purchase",
+    "part_of_speech": "verb",
+    "definition": "to buy",
+    "example_Sentence": "Purchase new equipment.",
+    "synonyms": "buy, acquire"
+  },
+  {
+    "level": "Intermediate",
+    "word": "pursue",
+    "part_of_speech": "verb",
+    "definition": "to follow",
+    "example_Sentence": "Pursue your goals.",
+    "synonyms": "follow, chase"
+  },
+  {
+    "level": "Intermediate",
+    "word": "react",
+    "part_of_speech": "verb",
+    "definition": "to respond",
+    "example_Sentence": "React quickly to changes.",
+    "synonyms": "respond, reply"
+  },
+  {
+    "level": "Intermediate",
+    "word": "recognize",
+    "part_of_speech": "verb",
+    "definition": "to identify",
+    "example_Sentence": "Recognize good work.",
+    "synonyms": "identify, acknowledge"
+  },
+  {
+    "level": "Intermediate",
+    "word": "recommend",
+    "part_of_speech": "verb",
+    "definition": "to suggest",
+    "example_Sentence": "Recommend the best option.",
+    "synonyms": "suggest, advise"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reduce",
+    "part_of_speech": "verb",
+    "definition": "to make less",
+    "example_Sentence": "Reduce unnecessary costs.",
+    "synonyms": "decrease, lower"
+  },
+  {
+    "level": "Intermediate",
+    "word": "refer",
+    "part_of_speech": "verb",
+    "definition": "to mention",
+    "example_Sentence": "Refer to page ten.",
+    "synonyms": "mention, direct"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reflect",
+    "part_of_speech": "verb",
+    "definition": "to think about",
+    "example_Sentence": "Reflect on your experience.",
+    "synonyms": "consider, ponder"
+  },
+  {
+    "level": "Intermediate",
+    "word": "relate",
+    "part_of_speech": "verb",
+    "definition": "to connect",
+    "example_Sentence": "Relate theory to practice.",
+    "synonyms": "connect, associate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "replace",
+    "part_of_speech": "verb",
+    "definition": "to substitute",
+    "example_Sentence": "Replace old equipment.",
+    "synonyms": "substitute, change"
+  },
+  {
+    "level": "Intermediate",
+    "word": "represent",
+    "part_of_speech": "verb",
+    "definition": "to stand for",
+    "example_Sentence": "Represent the company.",
+    "synonyms": "symbolize, stand"
+  },
+  {
+    "level": "Intermediate",
+    "word": "require",
+    "part_of_speech": "verb",
+    "definition": "to need",
+    "example_Sentence": "This job requires skill.",
+    "synonyms": "need, demand"
+  },
+  {
+    "level": "Intermediate",
+    "word": "research",
+    "part_of_speech": "verb",
+    "definition": "to investigate",
+    "example_Sentence": "Research the topic thoroughly.",
+    "synonyms": "investigate, study"
+  },
+  {
+    "level": "Intermediate",
+    "word": "resolve",
+    "part_of_speech": "verb",
+    "definition": "to solve",
+    "example_Sentence": "Resolve the conflict.",
+    "synonyms": "solve, settle"
+  },
+  {
+    "level": "Intermediate",
+    "word": "respond",
+    "part_of_speech": "verb",
+    "definition": "to reply",
+    "example_Sentence": "Respond to the question.",
+    "synonyms": "reply, answer"
+  },
+  {
+    "level": "Intermediate",
+    "word": "result",
+    "part_of_speech": "verb",
+    "definition": "to happen because",
+    "example_Sentence": "Hard work results in success.",
+    "synonyms": "cause, lead"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reveal",
+    "part_of_speech": "verb",
+    "definition": "to show",
+    "example_Sentence": "Reveal the truth.",
+    "synonyms": "show, expose"
+  },
+  {
+    "level": "Intermediate",
+    "word": "review",
+    "part_of_speech": "verb",
+    "definition": "to examine again",
+    "example_Sentence": "Review your work.",
+    "synonyms": "examine, check"
+  },
+  {
+    "level": "Intermediate",
+    "word": "select",
+    "part_of_speech": "verb",
+    "definition": "to choose",
+    "example_Sentence": "Select the best candidate.",
+    "synonyms": "choose, pick"
+  },
+  {
+    "level": "Intermediate",
+    "word": "solve",
+    "part_of_speech": "verb",
+    "definition": "to find answer",
+    "example_Sentence": "Solve the problem.",
+    "synonyms": "resolve, fix"
+  },
+  {
+    "level": "Intermediate",
+    "word": "specify",
+    "part_of_speech": "verb",
+    "definition": "to state clearly",
+    "example_Sentence": "Specify your requirements.",
+    "synonyms": "state, define"
+  },
+  {
+    "level": "Intermediate",
+    "word": "structure",
+    "part_of_speech": "verb",
+    "definition": "to organize",
+    "example_Sentence": "Structure the presentation.",
+    "synonyms": "organize, arrange"
+  },
+  {
+    "level": "Intermediate",
+    "word": "suggest",
+    "part_of_speech": "verb",
+    "definition": "to propose",
+    "example_Sentence": "Suggest improvements.",
+    "synonyms": "propose, recommend"
+  },
+  {
+    "level": "Intermediate",
+    "word": "support",
+    "part_of_speech": "verb",
+    "definition": "to help",
+    "example_Sentence": "Support the initiative.",
+    "synonyms": "help, back"
+  },
+  {
+    "level": "Intermediate",
+    "word": "transfer",
+    "part_of_speech": "verb",
+    "definition": "to move",
+    "example_Sentence": "Transfer to new department.",
+    "synonyms": "move, shift"
+  },
+  {
+    "level": "Intermediate",
+    "word": "transform",
+    "part_of_speech": "verb",
+    "definition": "to change completely",
+    "example_Sentence": "Transform the organization.",
+    "synonyms": "change, convert"
+  },
+  {
+    "level": "Intermediate",
+    "word": "update",
+    "part_of_speech": "verb",
+    "definition": "to make current",
+    "example_Sentence": "Update the information.",
+    "synonyms": "refresh, revise"
+  },
+  {
+    "level": "Intermediate",
+    "word": "utilize",
+    "part_of_speech": "verb",
+    "definition": "to use",
+    "example_Sentence": "Utilize available resources.",
+    "synonyms": "use, employ"
+  },
+  {
+    "level": "Intermediate",
+    "word": "vary",
+    "part_of_speech": "verb",
+    "definition": "to change",
+    "example_Sentence": "Prices vary by location.",
+    "synonyms": "change, differ"
+  },
+  {
+    "level": "Intermediate",
+    "word": "verify",
+    "part_of_speech": "verb",
+    "definition": "to confirm",
+    "example_Sentence": "Verify the accuracy.",
+    "synonyms": "confirm, check"
+  },
+  {
+    "level": "Intermediate",
+    "word": "abstract",
+    "part_of_speech": "adjective",
+    "definition": "theoretical, not concrete",
+    "example_Sentence": "Abstract concepts are difficult.",
+    "synonyms": "theoretical, conceptual"
+  },
+  {
+    "level": "Intermediate",
+    "word": "accurate",
+    "part_of_speech": "adjective",
+    "definition": "correct and precise",
+    "example_Sentence": "Accurate measurements needed.",
+    "synonyms": "precise, correct"
+  },
+  {
+    "level": "Intermediate",
+    "word": "adequate",
+    "part_of_speech": "adjective",
+    "definition": "sufficient for purpose",
+    "example_Sentence": "Adequate funding provided.",
+    "synonyms": "sufficient, enough"
+  },
+  {
+    "level": "Intermediate",
+    "word": "alternative",
+    "part_of_speech": "adjective",
+    "definition": "different option",
+    "example_Sentence": "Consider alternative solutions.",
+    "synonyms": "different, other"
+  },
+  {
+    "level": "Intermediate",
+    "word": "appropriate",
+    "part_of_speech": "adjective",
+    "definition": "suitable for situation",
+    "example_Sentence": "Appropriate behavior expected.",
+    "synonyms": "suitable, proper"
+  },
+  {
+    "level": "Intermediate",
+    "word": "available",
+    "part_of_speech": "adjective",
+    "definition": "ready for use",
+    "example_Sentence": "Resources are available.",
+    "synonyms": "accessible, ready"
+  },
+  {
+    "level": "Intermediate",
+    "word": "complex",
+    "part_of_speech": "adjective",
+    "definition": "having many parts",
+    "example_Sentence": "Complex problem to solve.",
+    "synonyms": "complicated, intricate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "comprehensive",
+    "part_of_speech": "adjective",
+    "definition": "complete and thorough",
+    "example_Sentence": "Comprehensive study conducted.",
+    "synonyms": "complete, thorough"
+  },
+  {
+    "level": "Intermediate",
+    "word": "consistent",
+    "part_of_speech": "adjective",
+    "definition": "unchanging pattern",
+    "example_Sentence": "Consistent quality maintained.",
+    "synonyms": "steady, uniform"
+  },
+  {
+    "level": "Intermediate",
+    "word": "creative",
+    "part_of_speech": "adjective",
+    "definition": "showing originality",
+    "example_Sentence": "Creative solutions needed.",
+    "synonyms": "original, innovative"
+  },
+  {
+    "level": "Intermediate",
+    "word": "critical",
+    "part_of_speech": "adjective",
+    "definition": "extremely important",
+    "example_Sentence": "Critical decision ahead.",
+    "synonyms": "crucial, vital"
+  },
+  {
+    "level": "Intermediate",
+    "word": "current",
+    "part_of_speech": "adjective",
+    "definition": "happening now",
+    "example_Sentence": "Current situation analyzed.",
+    "synonyms": "present, existing"
+  },
+  {
+    "level": "Intermediate",
+    "word": "diverse",
+    "part_of_speech": "adjective",
+    "definition": "showing variety",
+    "example_Sentence": "Diverse backgrounds represented.",
+    "synonyms": "varied, different"
+  },
+  {
+    "level": "Intermediate",
+    "word": "domestic",
+    "part_of_speech": "adjective",
+    "definition": "relating to home",
+    "example_Sentence": "Domestic products preferred.",
+    "synonyms": "home, internal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "economic",
+    "part_of_speech": "adjective",
+    "definition": "relating to economy",
+    "example_Sentence": "Economic growth expected.",
+    "synonyms": "financial, monetary"
+  },
+  {
+    "level": "Intermediate",
+    "word": "effective",
+    "part_of_speech": "adjective",
+    "definition": "producing results",
+    "example_Sentence": "Effective teaching methods.",
+    "synonyms": "successful, efficient"
+  },
+  {
+    "level": "Intermediate",
+    "word": "efficient",
+    "part_of_speech": "adjective",
+    "definition": "working well",
+    "example_Sentence": "Efficient use of time.",
+    "synonyms": "productive, effective"
+  },
+  {
+    "level": "Intermediate",
+    "word": "environmental",
+    "part_of_speech": "adjective",
+    "definition": "relating to nature",
+    "example_Sentence": "Environmental concerns addressed.",
+    "synonyms": "ecological, natural"
+  },
+  {
+    "level": "Intermediate",
+    "word": "essential",
+    "part_of_speech": "adjective",
+    "definition": "absolutely necessary",
+    "example_Sentence": "Essential skills required.",
+    "synonyms": "vital, crucial"
+  },
+  {
+    "level": "Intermediate",
+    "word": "ethical",
+    "part_of_speech": "adjective",
+    "definition": "morally right",
+    "example_Sentence": "Ethical business practices.",
+    "synonyms": "moral, principled"
+  },
+  {
+    "level": "Intermediate",
+    "word": "external",
+    "part_of_speech": "adjective",
+    "definition": "outside source",
+    "example_Sentence": "External factors considered.",
+    "synonyms": "outside, foreign"
+  },
+  {
+    "level": "Intermediate",
+    "word": "flexible",
+    "part_of_speech": "adjective",
+    "definition": "able to adapt",
+    "example_Sentence": "Flexible working hours.",
+    "synonyms": "adaptable, adjustable"
+  },
+  {
+    "level": "Intermediate",
+    "word": "formal",
+    "part_of_speech": "adjective",
+    "definition": "official style",
+    "example_Sentence": "Formal dress required.",
+    "synonyms": "official, proper"
+  },
+  {
+    "level": "Intermediate",
+    "word": "frequent",
+    "part_of_speech": "adjective",
+    "definition": "happening often",
+    "example_Sentence": "Frequent communication needed.",
+    "synonyms": "regular, common"
+  },
+  {
+    "level": "Intermediate",
+    "word": "fundamental",
+    "part_of_speech": "adjective",
+    "definition": "basic and essential",
+    "example_Sentence": "Fundamental principles taught.",
+    "synonyms": "basic, essential"
+  },
+  {
+    "level": "Intermediate",
+    "word": "global",
+    "part_of_speech": "adjective",
+    "definition": "worldwide",
+    "example_Sentence": "Global market expansion.",
+    "synonyms": "worldwide, international"
+  },
+  {
+    "level": "Intermediate",
+    "word": "individual",
+    "part_of_speech": "adjective",
+    "definition": "single person",
+    "example_Sentence": "Individual attention given.",
+    "synonyms": "personal, separate"
+  },
+  {
+    "level": "Intermediate",
+    "word": "innovative",
+    "part_of_speech": "adjective",
+    "definition": "introducing new ideas",
+    "example_Sentence": "Innovative approach adopted.",
+    "synonyms": "creative, original"
+  },
+  {
+    "level": "Intermediate",
+    "word": "internal",
+    "part_of_speech": "adjective",
+    "definition": "inside organization",
+    "example_Sentence": "Internal communication improved.",
+    "synonyms": "inside, domestic"
+  },
+  {
+    "level": "Intermediate",
+    "word": "liberal",
+    "part_of_speech": "adjective",
+    "definition": "open to change",
+    "example_Sentence": "Liberal education philosophy.",
+    "synonyms": "progressive, broad"
+  },
+  {
+    "level": "Intermediate",
+    "word": "logical",
+    "part_of_speech": "adjective",
+    "definition": "reasonable thinking",
+    "example_Sentence": "Logical argument presented.",
+    "synonyms": "reasonable, rational"
+  },
+  {
+    "level": "Intermediate",
+    "word": "major",
+    "part_of_speech": "adjective",
+    "definition": "very important",
+    "example_Sentence": "Major breakthrough achieved.",
+    "synonyms": "important, significant"
+  },
+  {
+    "level": "Intermediate",
+    "word": "maximum",
+    "part_of_speech": "adjective",
+    "definition": "greatest possible",
+    "example_Sentence": "Maximum effort required.",
+    "synonyms": "highest, greatest"
+  },
+  {
+    "level": "Intermediate",
+    "word": "minimum",
+    "part_of_speech": "adjective",
+    "definition": "least possible",
+    "example_Sentence": "Minimum standards met.",
+    "synonyms": "lowest, least"
+  },
+  {
+    "level": "Intermediate",
+    "word": "modern",
+    "part_of_speech": "adjective",
+    "definition": "current style",
+    "example_Sentence": "Modern technology used.",
+    "synonyms": "contemporary, current"
+  },
+  {
+    "level": "Intermediate",
+    "word": "natural",
+    "part_of_speech": "adjective",
+    "definition": "existing in nature",
+    "example_Sentence": "Natural resources protected.",
+    "synonyms": "organic, normal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "negative",
+    "part_of_speech": "adjective",
+    "definition": "bad or harmful",
+    "example_Sentence": "Negative impact avoided.",
+    "synonyms": "bad, harmful"
+  },
+  {
+    "level": "Intermediate",
+    "word": "normal",
+    "part_of_speech": "adjective",
+    "definition": "usual or typical",
+    "example_Sentence": "Normal procedures followed.",
+    "synonyms": "usual, standard"
+  },
+  {
+    "level": "Intermediate",
+    "word": "obvious",
+    "part_of_speech": "adjective",
+    "definition": "easily seen",
+    "example_Sentence": "Obvious solution found.",
+    "synonyms": "clear, evident"
+  },
+  {
+    "level": "Intermediate",
+    "word": "original",
+    "part_of_speech": "adjective",
+    "definition": "first or new",
+    "example_Sentence": "Original idea developed.",
+    "synonyms": "new, creative"
+  },
+  {
+    "level": "Intermediate",
+    "word": "particular",
+    "part_of_speech": "adjective",
+    "definition": "specific one",
+    "example_Sentence": "Particular attention needed.",
+    "synonyms": "specific, special"
+  },
+  {
+    "level": "Intermediate",
+    "word": "personal",
+    "part_of_speech": "adjective",
+    "definition": "belonging to person",
+    "example_Sentence": "Personal development important.",
+    "synonyms": "individual, private"
+  },
+  {
+    "level": "Intermediate",
+    "word": "physical",
+    "part_of_speech": "adjective",
+    "definition": "relating to body",
+    "example_Sentence": "Physical exercise needed.",
+    "synonyms": "bodily, material"
+  },
+  {
+    "level": "Intermediate",
+    "word": "positive",
+    "part_of_speech": "adjective",
+    "definition": "good or beneficial",
+    "example_Sentence": "Positive results achieved.",
+    "synonyms": "good, beneficial"
+  },
+  {
+    "level": "Intermediate",
+    "word": "potential",
+    "part_of_speech": "adjective",
+    "definition": "possible future",
+    "example_Sentence": "Potential problems identified.",
+    "synonyms": "possible, likely"
+  },
+  {
+    "level": "Intermediate",
+    "word": "practical",
+    "part_of_speech": "adjective",
+    "definition": "useful in practice",
+    "example_Sentence": "Practical solutions preferred.",
+    "synonyms": "useful, realistic"
+  },
+  {
+    "level": "Intermediate",
+    "word": "previous",
+    "part_of_speech": "adjective",
+    "definition": "happening before",
+    "example_Sentence": "Previous experience helpful.",
+    "synonyms": "former, earlier"
+  },
+  {
+    "level": "Intermediate",
+    "word": "primary",
+    "part_of_speech": "adjective",
+    "definition": "most important",
+    "example_Sentence": "Primary objective achieved.",
+    "synonyms": "main, principal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "professional",
+    "part_of_speech": "adjective",
+    "definition": "relating to work",
+    "example_Sentence": "Professional development needed.",
+    "synonyms": "expert, skilled"
+  },
+  {
+    "level": "Intermediate",
+    "word": "progressive",
+    "part_of_speech": "adjective",
+    "definition": "favoring change",
+    "example_Sentence": "Progressive policies adopted.",
+    "synonyms": "forward, advanced"
+  },
+  {
+    "level": "Intermediate",
+    "word": "psychological",
+    "part_of_speech": "adjective",
+    "definition": "relating to mind",
+    "example_Sentence": "Psychological support provided.",
+    "synonyms": "mental, emotional"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reasonable",
+    "part_of_speech": "adjective",
+    "definition": "fair and sensible",
+    "example_Sentence": "Reasonable price offered.",
+    "synonyms": "fair, sensible"
+  },
+  {
+    "level": "Intermediate",
+    "word": "recent",
+    "part_of_speech": "adjective",
+    "definition": "happening lately",
+    "example_Sentence": "Recent developments noted.",
+    "synonyms": "latest, new"
+  },
+  {
+    "level": "Intermediate",
+    "word": "regular",
+    "part_of_speech": "adjective",
+    "definition": "happening repeatedly",
+    "example_Sentence": "Regular meetings scheduled.",
+    "synonyms": "frequent, normal"
+  },
+  {
+    "level": "Intermediate",
+    "word": "relevant",
+    "part_of_speech": "adjective",
+    "definition": "closely connected",
+    "example_Sentence": "Relevant information provided.",
+    "synonyms": "applicable, pertinent"
+  },
+  {
+    "level": "Intermediate",
+    "word": "reliable",
+    "part_of_speech": "adjective",
+    "definition": "can be trusted",
+    "example_Sentence": "Reliable service guaranteed.",
+    "synonyms": "dependable, trustworthy"
+  },
+  {
+    "level": "Intermediate",
+    "word": "responsible",
+    "part_of_speech": "adjective",
+    "definition": "accountable for",
+    "example_Sentence": "Responsible behavior expected.",
+    "synonyms": "accountable, reliable"
+  },
+  {
+    "level": "Intermediate",
+    "word": "scientific",
+    "part_of_speech": "adjective",
+    "definition": "using science",
+    "example_Sentence": "Scientific method applied.",
+    "synonyms": "systematic, empirical"
+  },
+  {
+    "level": "Intermediate",
+    "word": "significant",
+    "part_of_speech": "adjective",
+    "definition": "important meaning",
+    "example_Sentence": "Significant progress made.",
+    "synonyms": "important, meaningful"
+  },
+  {
+    "level": "Intermediate",
+    "word": "similar",
+    "part_of_speech": "adjective",
+    "definition": "nearly the same",
+    "example_Sentence": "Similar results obtained.",
+    "synonyms": "alike, comparable"
+  },
+  {
+    "level": "Intermediate",
+    "word": "social",
+    "part_of_speech": "adjective",
+    "definition": "relating to society",
+    "example_Sentence": "Social responsibility important.",
+    "synonyms": "community, public"
+  },
+  {
+    "level": "Intermediate",
+    "word": "specific",
+    "part_of_speech": "adjective",
+    "definition": "clearly defined",
+    "example_Sentence": "Specific requirements listed.",
+    "synonyms": "particular, exact"
+  },
+  {
+    "level": "Intermediate",
+    "word": "standard",
+    "part_of_speech": "adjective",
+    "definition": "usual level",
+    "example_Sentence": "Standard procedures followed.",
+    "synonyms": "normal, regular"
+  },
+  {
+    "level": "Intermediate",
+    "word": "successful",
+    "part_of_speech": "adjective",
+    "definition": "achieving goals",
+    "example_Sentence": "Successful project completed.",
+    "synonyms": "effective, triumphant"
+  },
+  {
+    "level": "Intermediate",
+    "word": "sufficient",
+    "part_of_speech": "adjective",
+    "definition": "enough quantity",
+    "example_Sentence": "Sufficient resources available.",
+    "synonyms": "adequate, enough"
+  },
+  {
+    "level": "Intermediate",
+    "word": "suitable",
+    "part_of_speech": "adjective",
+    "definition": "right for purpose",
+    "example_Sentence": "Suitable candidate found.",
+    "synonyms": "appropriate, fitting"
+  },
+  {
+    "level": "Intermediate",
+    "word": "technical",
+    "part_of_speech": "adjective",
+    "definition": "relating to technology",
+    "example_Sentence": "Technical skills required.",
+    "synonyms": "specialized, expert"
+  },
+  {
+    "level": "Intermediate",
+    "word": "temporary",
+    "part_of_speech": "adjective",
+    "definition": "lasting short time",
+    "example_Sentence": "Temporary solution implemented.",
+    "synonyms": "short-term, brief"
+  },
+  {
+    "level": "Intermediate",
+    "word": "theoretical",
+    "part_of_speech": "adjective",
+    "definition": "based on theory",
+    "example_Sentence": "Theoretical knowledge important.",
+    "synonyms": "abstract, conceptual"
+  },
+  {
+    "level": "Intermediate",
+    "word": "traditional",
+    "part_of_speech": "adjective",
+    "definition": "established custom",
+    "example_Sentence": "Traditional methods used.",
+    "synonyms": "conventional, established"
+  },
+  {
+    "level": "Intermediate",
+    "word": "typical",
+    "part_of_speech": "adjective",
+    "definition": "showing usual features",
+    "example_Sentence": "Typical example given.",
+    "synonyms": "normal, characteristic"
+  },
+  {
+    "level": "Intermediate",
+    "word": "unique",
+    "part_of_speech": "adjective",
+    "definition": "one of a kind",
+    "example_Sentence": "Unique opportunity presented.",
+    "synonyms": "special, distinctive"
+  },
+  {
+    "level": "Intermediate",
+    "word": "useful",
+    "part_of_speech": "adjective",
+    "definition": "having practical value",
+    "example_Sentence": "Useful information shared.",
+    "synonyms": "helpful, beneficial"
+  },
+  {
+    "level": "Intermediate",
+    "word": "valuable",
+    "part_of_speech": "adjective",
+    "definition": "having worth",
+    "example_Sentence": "Valuable experience gained.",
+    "synonyms": "precious, worthwhile"
+  },
+  {
+    "level": "Intermediate",
+    "word": "various",
+    "part_of_speech": "adjective",
+    "definition": "several different",
+    "example_Sentence": "Various options considered.",
+    "synonyms": "different, diverse"
+  },
+  {
+    "level": "Advanced",
+    "word": "aberration",
+    "part_of_speech": "noun",
+    "definition": "departure from normal or expected",
+    "example_Sentence": "The sudden policy change was an aberration.",
+    "synonyms": "deviation, anomaly"
+  },
+  {
+    "level": "Advanced",
+    "word": "abhorrent",
+    "part_of_speech": "adjective",
+    "definition": "inspiring disgust and loathing",
+    "example_Sentence": "His behavior was absolutely abhorrent.",
+    "synonyms": "detestable, repugnant"
+  },
+  {
+    "level": "Advanced",
+    "word": "abscond",
+    "part_of_speech": "verb",
+    "definition": "leave hurriedly and secretly",
+    "example_Sentence": "The treasurer absconded with company funds.",
+    "synonyms": "flee, escape"
+  },
+  {
+    "level": "Advanced",
+    "word": "abstemious",
+    "part_of_speech": "adjective",
+    "definition": "indulging only very moderately",
+    "example_Sentence": "His abstemious lifestyle impressed everyone.",
+    "synonyms": "temperate, restrained"
+  },
+  {
+    "level": "Advanced",
+    "word": "accolade",
+    "part_of_speech": "noun",
+    "definition": "award or privilege granted",
+    "example_Sentence": "She received accolades for her research.",
+    "synonyms": "honor, recognition"
+  },
+  {
+    "level": "Advanced",
+    "word": "acrimonious",
+    "part_of_speech": "adjective",
+    "definition": "angry and bitter",
+    "example_Sentence": "The acrimonious debate lasted hours.",
+    "synonyms": "bitter, hostile"
+  },
+  {
+    "level": "Advanced",
+    "word": "admonish",
+    "part_of_speech": "verb",
+    "definition": "warn or reprimand firmly",
+    "example_Sentence": "The teacher admonished the students.",
+    "synonyms": "warn, rebuke"
+  },
+  {
+    "level": "Advanced",
+    "word": "aesthetic",
+    "part_of_speech": "adjective",
+    "definition": "concerned with beauty",
+    "example_Sentence": "The aesthetic appeal was undeniable.",
+    "synonyms": "artistic, beautiful"
+  },
+  {
+    "level": "Advanced",
+    "word": "affable",
+    "part_of_speech": "adjective",
+    "definition": "friendly and easy to talk to",
+    "example_Sentence": "His affable manner won hearts.",
+    "synonyms": "friendly, genial"
+  },
+  {
+    "level": "Advanced",
+    "word": "alacrity",
+    "part_of_speech": "noun",
+    "definition": "brisk and cheerful readiness",
+    "example_Sentence": "She accepted the offer with alacrity.",
+    "synonyms": "eagerness, enthusiasm"
+  },
+  {
+    "level": "Advanced",
+    "word": "ameliorate",
+    "part_of_speech": "verb",
+    "definition": "make something bad better",
+    "example_Sentence": "Policies to ameliorate poverty.",
+    "synonyms": "improve, enhance"
+  },
+  {
+    "level": "Advanced",
+    "word": "analogous",
+    "part_of_speech": "adjective",
+    "definition": "comparable in certain respects",
+    "example_Sentence": "The situation is analogous to previous cases.",
+    "synonyms": "similar, comparable"
+  },
+  {
+    "level": "Advanced",
+    "word": "anathema",
+    "part_of_speech": "noun",
+    "definition": "something detested",
+    "example_Sentence": "Violence is anathema to his beliefs.",
+    "synonyms": "curse, abomination"
+  },
+  {
+    "level": "Advanced",
+    "word": "antipathy",
+    "part_of_speech": "noun",
+    "definition": "strong dislike",
+    "example_Sentence": "He felt antipathy toward the proposal.",
+    "synonyms": "aversion, hostility"
+  },
+  {
+    "level": "Advanced",
+    "word": "apathy",
+    "part_of_speech": "noun",
+    "definition": "lack of interest",
+    "example_Sentence": "Political apathy concerns leaders.",
+    "synonyms": "indifference, lethargy"
+  },
+  {
+    "level": "Advanced",
+    "word": "arbitrary",
+    "part_of_speech": "adjective",
+    "definition": "based on random choice",
+    "example_Sentence": "The decision seemed arbitrary.",
+    "synonyms": "random, capricious"
+  },
+  {
+    "level": "Advanced",
+    "word": "archaic",
+    "part_of_speech": "adjective",
+    "definition": "very old or outdated",
+    "example_Sentence": "Archaic laws need updating.",
+    "synonyms": "ancient, obsolete"
+  },
+  {
+    "level": "Advanced",
+    "word": "arduous",
+    "part_of_speech": "adjective",
+    "definition": "involving much effort",
+    "example_Sentence": "The arduous journey tested them.",
+    "synonyms": "difficult, strenuous"
+  },
+  {
+    "level": "Advanced",
+    "word": "articulate",
+    "part_of_speech": "adjective",
+    "definition": "having good verbal expression",
+    "example_Sentence": "She's remarkably articulate.",
+    "synonyms": "eloquent, fluent"
+  },
+  {
+    "level": "Advanced",
+    "word": "ascetic",
+    "part_of_speech": "adjective",
+    "definition": "characterized by abstinence",
+    "example_Sentence": "His ascetic lifestyle was admired.",
+    "synonyms": "austere, frugal"
+  },
+  {
+    "level": "Advanced",
+    "word": "assiduous",
+    "part_of_speech": "adjective",
+    "definition": "showing care and effort",
+    "example_Sentence": "Her assiduous research paid off.",
+    "synonyms": "diligent, meticulous"
+  },
+  {
+    "level": "Advanced",
+    "word": "astute",
+    "part_of_speech": "adjective",
+    "definition": "having shrewd judgment",
+    "example_Sentence": "An astute business decision.",
+    "synonyms": "shrewd, perceptive"
+  },
+  {
+    "level": "Advanced",
+    "word": "audacious",
+    "part_of_speech": "adjective",
+    "definition": "showing willingness to take risks",
+    "example_Sentence": "An audacious plan was proposed.",
+    "synonyms": "bold, daring"
+  },
+  {
+    "level": "Advanced",
+    "word": "austere",
+    "part_of_speech": "adjective",
+    "definition": "severe in manner or appearance",
+    "example_Sentence": "The austere building impressed visitors.",
+    "synonyms": "stern, strict"
+  },
+  {
+    "level": "Advanced",
+    "word": "autonomous",
+    "part_of_speech": "adjective",
+    "definition": "having self-government",
+    "example_Sentence": "The autonomous region prospered.",
+    "synonyms": "independent, self-governing"
+  },
+  {
+    "level": "Advanced",
+    "word": "avarice",
+    "part_of_speech": "noun",
+    "definition": "extreme greed for wealth",
+    "example_Sentence": "His avarice destroyed relationships.",
+    "synonyms": "greed, cupidity"
+  },
+  {
+    "level": "Advanced",
+    "word": "banal",
+    "part_of_speech": "adjective",
+    "definition": "lacking originality",
+    "example_Sentence": "The banal speech bored everyone.",
+    "synonyms": "trite, commonplace"
+  },
+  {
+    "level": "Advanced",
+    "word": "benevolent",
+    "part_of_speech": "adjective",
+    "definition": "well-meaning and kindly",
+    "example_Sentence": "A benevolent ruler loved by all.",
+    "synonyms": "kind, charitable"
+  },
+  {
+    "level": "Advanced",
+    "word": "bombastic",
+    "part_of_speech": "adjective",
+    "definition": "high-sounding but meaningless",
+    "example_Sentence": "His bombastic rhetoric was empty.",
+    "synonyms": "pompous, pretentious"
+  },
+  {
+    "level": "Advanced",
+    "word": "bucolic",
+    "part_of_speech": "adjective",
+    "definition": "relating to rural life",
+    "example_Sentence": "The bucolic setting was peaceful.",
+    "synonyms": "pastoral, rustic"
+  },
+  {
+    "level": "Advanced",
+    "word": "byzantine",
+    "part_of_speech": "adjective",
+    "definition": "excessively complicated",
+    "example_Sentence": "The byzantine regulations confused everyone.",
+    "synonyms": "complex, convoluted"
+  },
+  {
+    "level": "Advanced",
+    "word": "camaraderie",
+    "part_of_speech": "noun",
+    "definition": "mutual trust and friendship",
+    "example_Sentence": "Team camaraderie improved performance.",
+    "synonyms": "fellowship, solidarity"
+  },
+  {
+    "level": "Advanced",
+    "word": "candid",
+    "part_of_speech": "adjective",
+    "definition": "truthful and straightforward",
+    "example_Sentence": "Her candid assessment was helpful.",
+    "synonyms": "honest, frank"
+  },
+  {
+    "level": "Advanced",
+    "word": "capitulate",
+    "part_of_speech": "verb",
+    "definition": "cease to resist",
+    "example_Sentence": "They refused to capitulate.",
+    "synonyms": "surrender, yield"
+  },
+  {
+    "level": "Advanced",
+    "word": "capricious",
+    "part_of_speech": "adjective",
+    "definition": "given to sudden changes",
+    "example_Sentence": "Her capricious nature was unpredictable.",
+    "synonyms": "whimsical, fickle"
+  },
+  {
+    "level": "Advanced",
+    "word": "catalyst",
+    "part_of_speech": "noun",
+    "definition": "agent of change",
+    "example_Sentence": "Education is a catalyst for progress.",
+    "synonyms": "stimulus, trigger"
+  },
+  {
+    "level": "Advanced",
+    "word": "caustic",
+    "part_of_speech": "adjective",
+    "definition": "sarcastic in harsh way",
+    "example_Sentence": "His caustic comments hurt feelings.",
+    "synonyms": "sarcastic, cutting"
+  },
+  {
+    "level": "Advanced",
+    "word": "circumspect",
+    "part_of_speech": "adjective",
+    "definition": "careful to consider circumstances",
+    "example_Sentence": "A circumspect approach was needed.",
+    "synonyms": "cautious, prudent"
+  },
+  {
+    "level": "Advanced",
+    "word": "cogent",
+    "part_of_speech": "adjective",
+    "definition": "clear and logical",
+    "example_Sentence": "She made a cogent argument.",
+    "synonyms": "convincing, compelling"
+  },
+  {
+    "level": "Advanced",
+    "word": "complacent",
+    "part_of_speech": "adjective",
+    "definition": "showing smug satisfaction",
+    "example_Sentence": "Don't become complacent about success.",
+    "synonyms": "self-satisfied, smug"
+  },
+  {
+    "level": "Advanced",
+    "word": "connoisseur",
+    "part_of_speech": "noun",
+    "definition": "expert judge in matters",
+    "example_Sentence": "A wine connoisseur appreciated quality.",
+    "synonyms": "expert, authority"
+  },
+  {
+    "level": "Advanced",
+    "word": "conundrum",
+    "part_of_speech": "noun",
+    "definition": "confusing difficult problem",
+    "example_Sentence": "The ethical conundrum puzzled scholars.",
+    "synonyms": "puzzle, dilemma"
+  },
+  {
+    "level": "Advanced",
+    "word": "copious",
+    "part_of_speech": "adjective",
+    "definition": "abundant in supply",
+    "example_Sentence": "Copious notes were taken.",
+    "synonyms": "abundant, plentiful"
+  },
+  {
+    "level": "Advanced",
+    "word": "corroborate",
+    "part_of_speech": "verb",
+    "definition": "confirm or give support",
+    "example_Sentence": "Evidence corroborated his story.",
+    "synonyms": "confirm, substantiate"
+  },
+  {
+    "level": "Advanced",
+    "word": "credulous",
+    "part_of_speech": "adjective",
+    "definition": "too ready to believe",
+    "example_Sentence": "Don't be credulous about claims.",
+    "synonyms": "gullible, naive"
+  },
+  {
+    "level": "Advanced",
+    "word": "cryptic",
+    "part_of_speech": "adjective",
+    "definition": "having hidden meaning",
+    "example_Sentence": "The cryptic message puzzled everyone.",
+    "synonyms": "mysterious, enigmatic"
+  },
+  {
+    "level": "Advanced",
+    "word": "cursory",
+    "part_of_speech": "adjective",
+    "definition": "hasty and superficial",
+    "example_Sentence": "A cursory glance revealed nothing.",
+    "synonyms": "superficial, brief"
+  },
+  {
+    "level": "Advanced",
+    "word": "dearth",
+    "part_of_speech": "noun",
+    "definition": "scarcity or lack",
+    "example_Sentence": "A dearth of qualified candidates.",
+    "synonyms": "shortage, scarcity"
+  },
+  {
+    "level": "Advanced",
+    "word": "debacle",
+    "part_of_speech": "noun",
+    "definition": "sudden disastrous collapse",
+    "example_Sentence": "The project became a debacle.",
+    "synonyms": "disaster, fiasco"
+  },
+  {
+    "level": "Advanced",
+    "word": "decorous",
+    "part_of_speech": "adjective",
+    "definition": "dignified and proper",
+    "example_Sentence": "Decorous behavior was expected.",
+    "synonyms": "proper, dignified"
+  },
+  {
+    "level": "Advanced",
+    "word": "deferential",
+    "part_of_speech": "adjective",
+    "definition": "showing respect",
+    "example_Sentence": "His deferential manner impressed superiors.",
+    "synonyms": "respectful, submissive"
+  },
+  {
+    "level": "Advanced",
+    "word": "deleterious",
+    "part_of_speech": "adjective",
+    "definition": "causing harm or damage",
+    "example_Sentence": "Deleterious effects on health.",
+    "synonyms": "harmful, damaging"
+  },
+  {
+    "level": "Advanced",
+    "word": "delineate",
+    "part_of_speech": "verb",
+    "definition": "describe precisely",
+    "example_Sentence": "Delineate the project boundaries.",
+    "synonyms": "outline, define"
+  },
+  {
+    "level": "Advanced",
+    "word": "denigrate",
+    "part_of_speech": "verb",
+    "definition": "criticize unfairly",
+    "example_Sentence": "Don't denigrate their efforts.",
+    "synonyms": "disparage, belittle"
+  },
+  {
+    "level": "Advanced",
+    "word": "desultory",
+    "part_of_speech": "adjective",
+    "definition": "lacking purpose",
+    "example_Sentence": "Desultory conversation filled time.",
+    "synonyms": "aimless, random"
+  },
+  {
+    "level": "Advanced",
+    "word": "diaphanous",
+    "part_of_speech": "adjective",
+    "definition": "light and translucent",
+    "example_Sentence": "Diaphanous curtains filtered sunlight.",
+    "synonyms": "transparent, sheer"
+  },
+  {
+    "level": "Advanced",
+    "word": "dichotomy",
+    "part_of_speech": "noun",
+    "definition": "division into two parts",
+    "example_Sentence": "The dichotomy between theory and practice.",
+    "synonyms": "division, contrast"
+  },
+  {
+    "level": "Advanced",
+    "word": "diffident",
+    "part_of_speech": "adjective",
+    "definition": "modest or shy",
+    "example_Sentence": "His diffident manner was endearing.",
+    "synonyms": "shy, timid"
+  },
+  {
+    "level": "Advanced",
+    "word": "discordant",
+    "part_of_speech": "adjective",
+    "definition": "disagreeably harsh",
+    "example_Sentence": "Discordant voices disrupted harmony.",
+    "synonyms": "conflicting, jarring"
+  },
+  {
+    "level": "Advanced",
+    "word": "discursive",
+    "part_of_speech": "adjective",
+    "definition": "digressing from subject",
+    "example_Sentence": "His discursive lecture wandered.",
+    "synonyms": "rambling, meandering"
+  },
+  {
+    "level": "Advanced",
+    "word": "disdain",
+    "part_of_speech": "noun",
+    "definition": "feeling of contempt",
+    "example_Sentence": "She showed disdain for mediocrity.",
+    "synonyms": "contempt, scorn"
+  },
+  {
+    "level": "Advanced",
+    "word": "disparate",
+    "part_of_speech": "adjective",
+    "definition": "essentially different",
+    "example_Sentence": "Disparate elements combined creatively.",
+    "synonyms": "different, distinct"
+  },
+  {
+    "level": "Advanced",
+    "word": "dissemble",
+    "part_of_speech": "verb",
+    "definition": "conceal true motives",
+    "example_Sentence": "Politicians often dissemble their intentions.",
+    "synonyms": "deceive, disguise"
+  },
+  {
+    "level": "Advanced",
+    "word": "ebullient",
+    "part_of_speech": "adjective",
+    "definition": "cheerful and energetic",
+    "example_Sentence": "Her ebullient personality lifted spirits.",
+    "synonyms": "exuberant, enthusiastic"
+  },
+  {
+    "level": "Advanced",
+    "word": "eclectic",
+    "part_of_speech": "adjective",
+    "definition": "deriving from various sources",
+    "example_Sentence": "An eclectic collection impressed visitors.",
+    "synonyms": "diverse, varied"
+  },
+  {
+    "level": "Advanced",
+    "word": "efficacious",
+    "part_of_speech": "adjective",
+    "definition": "successful in producing result",
+    "example_Sentence": "The efficacious treatment worked quickly.",
+    "synonyms": "effective, successful"
+  },
+  {
+    "level": "Advanced",
+    "word": "effrontery",
+    "part_of_speech": "noun",
+    "definition": "insolent behavior",
+    "example_Sentence": "His effrontery shocked everyone.",
+    "synonyms": "audacity, nerve"
+  },
+  {
+    "level": "Advanced",
+    "word": "egregious",
+    "part_of_speech": "adjective",
+    "definition": "outstandingly bad",
+    "example_Sentence": "An egregious error cost money.",
+    "synonyms": "flagrant, blatant"
+  },
+  {
+    "level": "Advanced",
+    "word": "elicit",
+    "part_of_speech": "verb",
+    "definition": "evoke or draw out",
+    "example_Sentence": "Questions elicited honest responses.",
+    "synonyms": "draw, extract"
+  },
+  {
+    "level": "Advanced",
+    "word": "eloquent",
+    "part_of_speech": "adjective",
+    "definition": "fluent and persuasive",
+    "example_Sentence": "An eloquent speech moved hearts.",
+    "synonyms": "articulate, expressive"
+  },
+  {
+    "level": "Advanced",
+    "word": "elucidate",
+    "part_of_speech": "verb",
+    "definition": "make clear by explaining",
+    "example_Sentence": "Please elucidate your position.",
+    "synonyms": "clarify, explain"
+  },
+  {
+    "level": "Advanced",
+    "word": "empirical",
+    "part_of_speech": "adjective",
+    "definition": "based on observation",
+    "example_Sentence": "Empirical evidence supported theory.",
+    "synonyms": "observational, practical"
+  },
+  {
+    "level": "Advanced",
+    "word": "endemic",
+    "part_of_speech": "adjective",
+    "definition": "native to particular area",
+    "example_Sentence": "Corruption was endemic in system.",
+    "synonyms": "native, inherent"
+  },
+  {
+    "level": "Advanced",
+    "word": "enigmatic",
+    "part_of_speech": "adjective",
+    "definition": "difficult to interpret",
+    "example_Sentence": "Her enigmatic smile puzzled observers.",
+    "synonyms": "mysterious, puzzling"
+  },
+  {
+    "level": "Advanced",
+    "word": "ephemeral",
+    "part_of_speech": "adjective",
+    "definition": "lasting very short time",
+    "example_Sentence": "Fame can be ephemeral.",
+    "synonyms": "temporary, fleeting"
+  },
+  {
+    "level": "Advanced",
+    "word": "epitome",
+    "part_of_speech": "noun",
+    "definition": "perfect example",
+    "example_Sentence": "She's the epitome of grace.",
+    "synonyms": "embodiment, quintessence"
+  },
+  {
+    "level": "Advanced",
+    "word": "equanimity",
+    "part_of_speech": "noun",
+    "definition": "mental calmness",
+    "example_Sentence": "He faced crisis with equanimity.",
+    "synonyms": "composure, serenity"
+  },
+  {
+    "level": "Advanced",
+    "word": "equivocal",
+    "part_of_speech": "adjective",
+    "definition": "open to interpretation",
+    "example_Sentence": "His equivocal answer confused everyone.",
+    "synonyms": "ambiguous, unclear"
+  },
+  {
+    "level": "Advanced",
+    "word": "erudite",
+    "part_of_speech": "adjective",
+    "definition": "having great knowledge",
+    "example_Sentence": "The erudite professor impressed students.",
+    "synonyms": "learned, scholarly"
+  },
+  {
+    "level": "Advanced",
+    "word": "esoteric",
+    "part_of_speech": "adjective",
+    "definition": "intended for specialized group",
+    "example_Sentence": "Esoteric knowledge wasn't widely shared.",
+    "synonyms": "obscure, specialized"
+  },
+  {
+    "level": "Advanced",
+    "word": "euphemism",
+    "part_of_speech": "noun",
+    "definition": "mild term for harsh reality",
+    "example_Sentence": "Euphemisms soften difficult truths.",
+    "synonyms": "substitute, circumlocution"
+  },
+  {
+    "level": "Advanced",
+    "word": "evanescent",
+    "part_of_speech": "adjective",
+    "definition": "soon passing out of sight",
+    "example_Sentence": "Evanescent morning mist disappeared.",
+    "synonyms": "fleeting, transient"
+  },
+  {
+    "level": "Advanced",
+    "word": "exacerbate",
+    "part_of_speech": "verb",
+    "definition": "make problem worse",
+    "example_Sentence": "Stress can exacerbate health problems.",
+    "synonyms": "worsen, aggravate"
+  },
+  {
+    "level": "Advanced",
+    "word": "exemplary",
+    "part_of_speech": "adjective",
+    "definition": "serving as desirable model",
+    "example_Sentence": "Exemplary behavior earned recognition.",
+    "synonyms": "outstanding, admirable"
+  },
+  {
+    "level": "Advanced",
+    "word": "exonerate",
+    "part_of_speech": "verb",
+    "definition": "absolve from blame",
+    "example_Sentence": "Evidence exonerated the defendant.",
+    "synonyms": "clear, vindicate"
+  },
+  {
+    "level": "Advanced",
+    "word": "expedient",
+    "part_of_speech": "adjective",
+    "definition": "convenient though possibly improper",
+    "example_Sentence": "An expedient solution was found.",
+    "synonyms": "practical, advantageous"
+  },
+  {
+    "level": "Advanced",
+    "word": "explicit",
+    "part_of_speech": "adjective",
+    "definition": "stated clearly",
+    "example_Sentence": "Explicit instructions were given.",
+    "synonyms": "clear, definite"
+  },
+  {
+    "level": "Advanced",
+    "word": "extol",
+    "part_of_speech": "verb",
+    "definition": "praise enthusiastically",
+    "example_Sentence": "Critics extolled the performance.",
+    "synonyms": "praise, acclaim"
+  },
+  {
+    "level": "Advanced",
+    "word": "extraneous",
+    "part_of_speech": "adjective",
+    "definition": "irrelevant or unrelated",
+    "example_Sentence": "Remove extraneous information.",
+    "synonyms": "irrelevant, unnecessary"
+  },
+  {
+    "level": "Advanced",
+    "word": "facetious",
+    "part_of_speech": "adjective",
+    "definition": "treating serious issues lightly",
+    "example_Sentence": "His facetious remarks annoyed colleagues.",
+    "synonyms": "flippant, joking"
+  },
+  {
+    "level": "Advanced",
+    "word": "fallacious",
+    "part_of_speech": "adjective",
+    "definition": "based on mistaken belief",
+    "example_Sentence": "The fallacious argument was rejected.",
+    "synonyms": "false, erroneous"
+  },
+  {
+    "level": "Advanced",
+    "word": "fastidious",
+    "part_of_speech": "adjective",
+    "definition": "very attentive to detail",
+    "example_Sentence": "Her fastidious nature ensured quality.",
+    "synonyms": "meticulous, particular"
+  },
+  {
+    "level": "Advanced",
+    "word": "fatuous",
+    "part_of_speech": "adjective",
+    "definition": "silly and pointless",
+    "example_Sentence": "Fatuous comments wasted time.",
+    "synonyms": "foolish, inane"
+  },
+  {
+    "level": "Advanced",
+    "word": "fecund",
+    "part_of_speech": "adjective",
+    "definition": "producing much intellectual output",
+    "example_Sentence": "A fecund mind generated ideas.",
+    "synonyms": "fertile, productive"
+  },
+  {
+    "level": "Advanced",
+    "word": "felicitous",
+    "part_of_speech": "adjective",
+    "definition": "well-chosen or apt",
+    "example_Sentence": "A felicitous phrase captured meaning.",
+    "synonyms": "apt, appropriate"
+  },
+  {
+    "level": "Advanced",
+    "word": "fervent",
+    "part_of_speech": "adjective",
+    "definition": "having passionate intensity",
+    "example_Sentence": "Fervent supporters rallied for cause.",
+    "synonyms": "passionate, zealous"
+  },
+  {
+    "level": "Advanced",
+    "word": "florid",
+    "part_of_speech": "adjective",
+    "definition": "having flowery style",
+    "example_Sentence": "His florid prose was criticized.",
+    "synonyms": "ornate, elaborate"
+  },
+  {
+    "level": "Advanced",
+    "word": "fortuitous",
+    "part_of_speech": "adjective",
+    "definition": "happening by lucky chance",
+    "example_Sentence": "A fortuitous meeting changed everything.",
+    "synonyms": "fortunate, lucky"
+  },
+  {
+    "level": "Advanced",
+    "word": "fractious",
+    "part_of_speech": "adjective",
+    "definition": "irritable and quarrelsome",
+    "example_Sentence": "Fractious committee members argued constantly.",
+    "synonyms": "quarrelsome, unruly"
+  },
+  {
+    "level": "Advanced",
+    "word": "furtive",
+    "part_of_speech": "adjective",
+    "definition": "attempting to avoid notice",
+    "example_Sentence": "Furtive glances were exchanged.",
+    "synonyms": "secretive, stealthy"
+  }
+]
