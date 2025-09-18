@@ -31,3 +31,13 @@ model OnBoardingQuestions {
   createdAt   DateTime @default(now())
   updatedAt   DateTime @updatedAt
 }
+
+model VocabuloryWords {
+  id               Int      @id @default(autoincrement())
+  level            String
+  word             String
+  part_of_speech   String
+  example_Sentence String
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+}
