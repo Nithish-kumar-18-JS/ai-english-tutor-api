@@ -88,8 +88,11 @@ export class WordsService {
                    where.status = { has: "LEARNED" }; // ✅ array contains
                 }
                 
-                let wordsCount = await this.prisma.userWords.count({
-                    where
+                let wordsCount = await this.prisma.userWords.findMany({
+                    where,
+                    include:{
+                        word:true
+                    }
                 })
 
                 return {
