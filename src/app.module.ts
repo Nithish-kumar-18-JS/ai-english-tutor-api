@@ -6,10 +6,12 @@ import { FirebaseAdminService } from './firebase/firebase-admin.service';
 import { AuthService } from './auth/auth.service';
 import { UserController } from './user/user.controller';
 import { WordsModule } from './words/words.module';
+import { AppController } from './app.controller';
+import { AppService } from './app.service';
 
 @Module({
-  providers: [PrismaService, UsersService, FirebaseAdminService, AuthService],
-  controllers: [AuthController, UserController],
+  providers: [PrismaService, UsersService, FirebaseAdminService, AuthService,AppService],
+  controllers: [AuthController, UserController,AppController],
   imports: [WordsModule],
 })
 export class AppModule {}

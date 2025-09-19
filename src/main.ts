@@ -6,7 +6,11 @@ async function bootstrap() {
   const app = await NestFactory.create(AppModule);
   // cors
   app.enableCors({
-    origin: process.env.FRONTEND_URL || 'http://localhost:8081',
+    origin: [
+      process.env.FRONTEND_URL || 'http://localhost:8081',
+      'http://localhost:8081',
+      'https://api.cron-job.org'
+    ],
     credentials: true,
   });
  
