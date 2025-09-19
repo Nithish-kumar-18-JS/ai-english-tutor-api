@@ -6,10 +6,11 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
-    "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
-    "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
-    "start:prod": "node --max-old-space-size=4096 dist/main"
+  "build": "nest build && npx prisma generate",
+  "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
+  "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
+  "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
+  "start:prod": "node --max-old-space-size=4096 dist/main"
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
