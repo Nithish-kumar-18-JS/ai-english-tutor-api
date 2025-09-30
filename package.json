@@ -6,11 +6,11 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-  "build": "nest build && npx prisma generate",
-  "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
-  "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
-  "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
-  "start:prod": "node --max-old-space-size=4096 dist/main"
+    "build": "nest build && npx prisma generate",
+    "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
+    "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
+    "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
+    "start:prod": "node --max-old-space-size=4096 dist/main"
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
@@ -19,6 +19,7 @@
     "@nestjs/typeorm": "^11.0.0",
     "@prisma/client": "^6.15.0",
     "axios": "^1.12.2",
+    "date-fns": "^4.1.0",
     "firebase-admin": "^13.5.0",
     "pg": "^8.16.3",
     "reflect-metadata": "^0.2.2",

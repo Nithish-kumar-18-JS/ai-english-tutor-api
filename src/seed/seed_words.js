@@ -1,5 +1,5 @@
 import { PrismaClient } from "@prisma/client";
-import wordJson from "./words.json" assert { type: "json" };
+import wordJson from "../../vocabulary.json" assert { type: "json" };
 
 const prisma = new PrismaClient();
 
@@ -9,12 +9,15 @@ async function main() {
 
   for (const word of wordJson) {
     try {
+      if(word.phonetics_audio && word.phonetics_text)
       await prisma.VocabuloryWords.create({
         data: {
           word: word.word,
           level:word.level,
-          part_of_speech:word.part_of_speech,
+          part_of_speech:word.partsOfSpeech,
           example_Sentence:word.example_Sentence,
+          phonetics_text:word.phonetics_text,
+          phonetics_audio:word.phonetics_audio
         },
       });
       count++;

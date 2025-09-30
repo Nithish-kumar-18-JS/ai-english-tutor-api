@@ -3,148 +3,96 @@ import { Prisma, PrismaClient } from '@prisma/client';
 import { PrismaService } from 'src/prisma.service';
 import axios from 'axios'
 import { UsersService } from 'src/user/user.service';
+import { startOfDay, endOfDay } from 'date-fns'
 @Injectable()
 export class WordsService {
     constructor(private prisma: PrismaService, private userService: UsersService) { }
 
-    async fetchWordsInfo(data: any) {
-        let vocabulary: any = [];
-        for (let i = 0; i < data.length; i++) {
-            let wordData = data[i]
-            const { word, part_of_speech, level, example_Sentence, id } = wordData
-            const response = await axios.get(
-                `https://api.dictionaryapi.dev/api/v2/entries/en/${word}`
-            );
-            let responseData: any = response.data[0];
+    async getRandomVocabuloryWords(uid: string, query?: string) {
+    try {
+        const levels = ['Beginner', 'Intermediate', 'Advanced'];
+        const formattedData: any = {};
 
-            let phonetics_text = "";
-            let phonetics_audio = "";
-            let definitions = "";
+        const user = await this.userService.findByFirebaseUid(uid);
+        const userId = user?.id;
+        if (!userId) throw new Error('User not found');
 
-            // Find UK phonetics
-            for (let j = 0; j < responseData.phonetics.length; j++) {
-                if (
-                    responseData.phonetics[j].audio &&
-                    responseData.phonetics[j].audio != ""
-                ) {
-                    phonetics_text = responseData.phonetics[j].text;
-                    phonetics_audio = responseData.phonetics[j].audio;
-                    break;
-                }
-            }
+        // Fetch today's session words
+        const todaySessionWords = await this.prisma.todaySessionVocabWords.findMany({
+            where: {
+                userId,
+                createdAt: {
+                    gte: startOfDay(new Date()),
+                    lte: endOfDay(new Date()),
+                },
+            },
+            include: { word: true },
+        });
 
-            // Find matching definition
-            for (let j = 0; j < responseData.meanings.length; j++) {
-                if (responseData.meanings[j].partOfSpeech === part_of_speech?.toLowerCase()) {
-                    definitions = responseData.meanings[j].definitions[0].definition;
-                    break;
-                }
-            }
-
-            vocabulary.push({
-                id,
-                word: responseData.word,
-                level,
-                partsOfSpeech: part_of_speech,
-                phonetics_text,
-                phonetics_audio,
-                definitions,
-                example_Sentence,
-            });
-        }
-        return vocabulary
-    }
-
-    async getRandomVocabuloryWords(uid: string , query?:string) {
-        try {
-            const levels = ['Beginner', 'Intermediate', 'Advanced'];
-            const formattedData: any = {};
-
-            // find user
-            const user = await this.userService.findByFirebaseUid(uid);
-            const userId = user?.id;
-
-            // fetch saved words
-            if(query) {
-                let where:any = {
-                    userId:user?.id
-                }
-
-                if(query === "words_count") {
-                    let words_count = await this.prisma.userWords.count({
-                        where
-                    })
-                    return {
-                        message : "Words counts fetched Successfully",
-                        data : words_count
-                    }
-                }
-
-                if(query === "saved") {
-                    where.status = { has: "SAVED" }; // ✅ array contains
-                }
-
-                if(query === "learned"){
-                   where.status = { has: "LEARNED" }; // ✅ array contains
-                }
-                
-                let wordsCount = await this.prisma.userWords.findMany({
-                    where,
-                    include:{
-                        word:true
-                    }
-                })
-
-                return {
-                    message : `Words counts fetched Successfully for query ${query}`,
-                    data : wordsCount
-                }
-
-                
-            }
-
-
-            // get saved words for this user
-            const savedWords = await this.prisma.userWords.findMany({
-                where: { userId },
-                select: { wordId: true },
-            });
-
-            // flatten ids into an array
-            const savedWordIds = savedWords.map(w => w.wordId);
-
+        // Return today's session if exists
+        if (todaySessionWords.length > 0) {
             for (const level of levels) {
-                let data: any;
+                formattedData[level] = todaySessionWords
+                    .filter(item => item.word.level === level)
+                    .map(item => item.word);
+            }
+            return formattedData;
+        }
 
-                if (savedWordIds.length > 0) {
-                    data = await this.prisma.$queryRaw`
-                    SELECT * FROM "VocabuloryWords"
-                    WHERE level = ${level}
-                    AND id NOT IN (${Prisma.join(savedWordIds)})
-                    ORDER BY RANDOM()
-                    LIMIT 2;
-                `;
-                } else {
-                    data = await this.prisma.$queryRaw`
-                    SELECT * FROM "VocabuloryWords"
-                    WHERE level = ${level}
-                    ORDER BY RANDOM()
-                    LIMIT 2;
-                `;
-                }
+        // Generate new words
+        const savedWords = await this.prisma.userWords.findMany({
+            where: { userId },
+            select: { wordId: true },
+        });
+        const savedWordIds = savedWords.map(w => w.wordId);
 
-                formattedData[level] = await this.fetchWordsInfo(data);
+        for (const level of levels) {
+            let data: any;
+
+            if (savedWordIds.length > 0) {
+                data = await this.prisma.$queryRaw`
+                  SELECT * FROM "VocabuloryWords"
+                  WHERE level = ${level}
+                  AND id NOT IN (${Prisma.join(savedWordIds)})
+                  ORDER BY RANDOM()
+                  LIMIT 2;
+                `;
+            } else {
+                data = await this.prisma.$queryRaw`
+                  SELECT * FROM "VocabuloryWords"
+                  WHERE level = ${level}
+                  ORDER BY RANDOM()
+                  LIMIT 2;
+                `;
             }
 
-            return formattedData;
-        } catch (error) {
-            console.log(
-                "Service : WordsService / Method : getRandomVocabuloryWords / Error : ",
-                error,
-            );
-            throw error;
+            formattedData[level] = data;
+
+            // Save to today's session
+            const createData = data.map(item => ({
+                userId: user.id,
+                wordId: item.id,
+                createdAt: new Date(),
+                updatedAt: new Date(),
+            }));
+
+            await this.prisma.todaySessionVocabWords.createMany({
+                data: createData,
+                skipDuplicates: true,
+            });
         }
+
+        return formattedData;
+    } catch (error) {
+        console.log(
+            "Service : WordsService / Method : getRandomVocabuloryWords / Error : ",
+            error
+        );
+        throw error;
     }
+}
+
+
 
 
     async saveUserWords(uid: any, body: any) {
@@ -178,8 +126,8 @@ export class WordsService {
                 let updatedStatus = [...checkWord.status];
 
                 if (!updatedStatus.includes(status)) {
-                        updatedStatus.push(status);
-                    } 
+                    updatedStatus.push(status);
+                }
                 else {
                     // if empty string → remove last sent status
                     updatedStatus = updatedStatus.filter(s => s !== status);
@@ -200,5 +148,7 @@ export class WordsService {
             throw error;
         }
     }
+
+
 
 }

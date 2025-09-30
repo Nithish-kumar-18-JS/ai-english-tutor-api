@@ -8,15 +8,16 @@ generator client {
 }
 
 model User {
-  id          Int                   @id @default(autoincrement())
-  firebaseUid String                @unique
-  email       String                @unique
-  name        String?
-  picture     String?
-  createdAt   DateTime              @default(now())
-  updatedAt   DateTime              @updatedAt
-  questions   OnBoardingQuestions[]
-  savedWords  UserWords[]
+  id                Int                      @id @default(autoincrement())
+  firebaseUid       String                   @unique
+  email             String                   @unique
+  name              String?
+  picture           String?
+  createdAt         DateTime                 @default(now())
+  updatedAt         DateTime                 @updatedAt
+  questions         OnBoardingQuestions[]
+  savedWords        UserWords[]
+  todaySessionWords TodaySessionVocabWords[]
 }
 
 model OnBoardingQuestions {
@@ -33,15 +34,28 @@ model OnBoardingQuestions {
   updatedAt                DateTime @updatedAt
 }
 
+model TodaySessionVocabWords {
+  id        Int      @id @default(autoincrement())
+  user      User     @relation(fields: [userId], references: [id])
+  userId    Int
+  word      VocabuloryWords  @relation(fields: [wordId], references: [id])
+  wordId    Int    
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+}
+
 model VocabuloryWords {
   id               Int         @id @default(autoincrement())
   level            String
   word             String
   part_of_speech   String
   example_Sentence String
+  phonetics_text   String
+  phonetics_audio  String
   createdAt        DateTime    @default(now())
   updatedAt        DateTime    @updatedAt
   UserWords        UserWords[]
+  TodaySessionVocabWords TodaySessionVocabWords[]
 }
 
 enum UserWordStatus {

@@ -2,11 +2,14 @@ import wordJson from "./words.json" assert { type: "json" };
 import axios from "axios";
 import { writeFileSync } from "fs";
 
+// Sleep utility
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
+
 const buildVocabulary = async () => {
   let vocabulary = [];
 
   const chunkSize = 5;
-  for (let start = 0; start < 10; start += chunkSize) {
+  for (let start = 0; start < wordJson.length; start += chunkSize) {
     const chunk = wordJson.slice(start, start + chunkSize);
 
     console.log(`📦 Processing words ${start + 1} to ${start + chunk.length}...`);
@@ -62,6 +65,10 @@ const buildVocabulary = async () => {
     // Save progress after each chunk
     writeFileSync("vocabulary.json", JSON.stringify(vocabulary, null, 2), "utf-8");
     console.log(`✅ Saved progress up to word ${start + chunk.length}`);
+
+    // Sleep 5 seconds after each chunk
+    console.log("⏱ Sleeping for 5 seconds...");
+    await sleep(5000);
   }
 
   return vocabulary;
