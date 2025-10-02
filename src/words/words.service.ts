@@ -1,5 +1,5 @@
 import { Injectable } from '@nestjs/common';
-import { Prisma, PrismaClient } from '@prisma/client';
+import { Prisma, PrismaClient, WordStreakType } from '@prisma/client';
 import { PrismaService } from 'src/prisma.service';
 import axios from 'axios'
 import { UsersService } from 'src/user/user.service';
@@ -92,9 +92,6 @@ export class WordsService {
     }
 }
 
-
-
-
     async saveUserWords(uid: any, body: any) {
         try {
             const user = await this.userService.findByFirebaseUid(uid);
@@ -141,6 +138,56 @@ export class WordsService {
         }
     }
 
+    async getWordStreaks(uid: string) {
+        try {
+            const user = await this.userService.findByFirebaseUid(uid);
+            const userId = user?.id;
+            const wordStreaks = await this.prisma.userWordStreaks.findMany({
+                where: { userId },
+            });
+            const upcomingDailyStreaks = await this.prisma.wordStreaks.findMany({
+                where: {
+                    type: WordStreakType.DAILY,
+                    goal : {
+                        gte: wordStreaks.length
+                    }
+                },
+                orderBy: {
+                    goal: 'asc'
+                },
+                take: 1,
+            });
+
+
+            let formattedData: any = [
+                {
+                    label: "Words Learned 📚",
+                    value: wordStreaks.length
+                },
+                {
+                    label: "Daily Streak 🔥",
+                    value: upcomingDailyStreaks[0].name
+                },
+                {
+                    label: "Weekly Goal 🏆",
+                    value: `${Math.ceil(upcomingDailyStreaks[0].goal / 7)}/12`
+                },
+                {
+                    label: "Current Streak ⭐",
+                    value: `7 days`
+                }
+            ];
+            
+
+            return formattedData;
+        } catch (error) {
+            console.log(
+                "Service : WordsService / Method : getWordStreaks / Error : ",
+                error,
+            );
+            throw error;
+        }
+    }
 
 
 }

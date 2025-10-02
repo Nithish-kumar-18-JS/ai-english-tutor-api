@@ -23,4 +23,12 @@ export class WordsController {
       const result = await this.wordSerivce.saveUserWords(uid,requestBody)
       return result
      }
+     
+     @Get('get_user_words_streaks')
+     @UseGuards(FirebaseAuthGuard)
+     async getWordStreaks (@Req() req){
+      const { uid } = req.user;
+      const result = await this.wordSerivce.getWordStreaks(uid)
+      return result
+     }
 }
