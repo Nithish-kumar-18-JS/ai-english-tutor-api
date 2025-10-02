@@ -20,7 +20,7 @@ async function bootstrap() {
   app.use(express.json());
 
   const port = process.env.PORT ?? 3000;
-  const backendUrl = process.env.BACKEND_URL ?? 'http://localhost:3000';
+  const backendUrl = process.env.BACKEND_URL ?? `http://localhost:${port}`;
   await app.listen(port);
   console.log('✅ Application running in :', backendUrl);
 }

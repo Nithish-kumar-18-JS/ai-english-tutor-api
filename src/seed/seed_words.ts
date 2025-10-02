@@ -1,19 +1,30 @@
-const { PrismaClient } = require('@prisma/client');
-const wordJson = require('../../vocabulary.json');
+import { PrismaClient } from '@prisma/client';
+const wordJson = require('./words.json');
 
 const prisma = new PrismaClient({
   log: ['info', 'warn', 'error'],
 });
 
-async function seedWords() {
-  console.log(`🌱 Starting vocabulary seeding...`);
-  console.log(`📚 Total words to process: ${wordJson.length}`);
+interface WordData {
+  word: string;
+  level: string;
+  partsOfSpeech: string;
+  phonetics_text: string;
+  phonetics_audio: string;
+  definitions: string;
+  synonyms: string;
+  example_Sentence: string;
+}
+
+async function seedWords(): Promise<void> {
+  console.log('📚 Starting vocabulary seeding...');
+  console.log(`📖 Total words to process: ${wordJson.length}`);
   
   let count = 0;
   let skipped = 0;
   let errors = 0;
 
-  for (const word of wordJson) {
+  for (const word of wordJson as WordData[]) {
     try {
       if(word.phonetics_audio && word.phonetics_text) {
         // Check if word already exists
@@ -46,7 +57,7 @@ async function seedWords() {
         console.log(`⚠️  Skipping '${word.word}' - missing phonetics data`);
         skipped++;
       }
-    } catch (err) {
+    } catch (err: any) {
       console.error(`❌ Failed to insert ${word.word}: ${err.message}`);
       errors++;
     }
@@ -59,7 +70,7 @@ async function seedWords() {
   console.log(`🎉 Vocabulary seeding completed!`);
 }
 
-async function main() {
+async function main(): Promise<void> {
   try {
     await seedWords();
   } catch (error) {
@@ -76,13 +87,7 @@ if (require.main === module) {
     .catch((e) => {
       console.error(e);
       process.exit(1);
-    })
-    .finally(async () => {
-      await prisma.$disconnect();
     });
 }
 
-module.exports = { main, seedWords };
-
-
-
+export { main as default, main, seedWords };

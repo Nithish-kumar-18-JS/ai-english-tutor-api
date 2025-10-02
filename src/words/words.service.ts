@@ -51,7 +51,7 @@ export class WordsService {
 
             if (savedWordIds.length > 0) {
                 data = await this.prisma.$queryRaw`
-                  SELECT * FROM "VocabuloryWords"
+                  SELECT * FROM "VocabularyWords"
                   WHERE level = ${level}
                   AND id NOT IN (${Prisma.join(savedWordIds)})
                   ORDER BY RANDOM()
@@ -59,7 +59,7 @@ export class WordsService {
                 `;
             } else {
                 data = await this.prisma.$queryRaw`
-                  SELECT * FROM "VocabuloryWords"
+                  SELECT * FROM "VocabularyWords"
                   WHERE level = ${level}
                   ORDER BY RANDOM()
                   LIMIT 2;
@@ -98,7 +98,7 @@ export class WordsService {
     async saveUserWords(uid: any, body: any) {
         try {
             const user = await this.userService.findByFirebaseUid(uid);
-            const { wordId, status } = body
+            const { id, status } = body
             let data: any = {
                 user: {
                     connect: {
@@ -107,15 +107,15 @@ export class WordsService {
                 },
                 word: {
                     connect: {
-                        id: wordId
+                        id: id
                     }
                 },
-                status: Array.isArray(status) ? status : [status], // ensure array,
+                status: status,
             }
 
             let checkWord = await this.prisma.userWords.findFirst({
                 where: {
-                    wordId: wordId,
+                    wordId: id,
                     userId: user?.id
                 }
             })
@@ -123,19 +123,11 @@ export class WordsService {
                 return this.prisma.userWords.create({ data })
             }
             else {
-                let updatedStatus = [...checkWord.status];
-
-                if (!updatedStatus.includes(status)) {
-                    updatedStatus.push(status);
-                }
-                else {
-                    // if empty string → remove last sent status
-                    updatedStatus = updatedStatus.filter(s => s !== status);
-                }
+                // Since status is now a single value, just update it directly
                 return this.prisma.userWords.update({
                     where: { id: checkWord.id },
                     data: {
-                        status: updatedStatus,
+                        status: status,
                         updatedAt: new Date(),
                     },
                 })

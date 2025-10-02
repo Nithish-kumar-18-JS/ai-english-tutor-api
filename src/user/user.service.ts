@@ -40,12 +40,12 @@ export class UsersService {
               id: user.id,
             },
           },
-          english_proficiency_goal: body.english_proficiency_goal,
-          why_are_learning_english: body.why_are_learning_english,
-          english_level: body.english_level,
-          time_spent_english: body.time_spent_english,
-          streak_alerts: body.streak_alerts,
-          quick_challenge: body.quick_challenge,
+          englishProficiencyGoal: body.english_proficiency_goal,
+          whyLearningEnglish: body.why_are_learning_english,
+          englishLevel: body.english_level,
+          timeSpentEnglish: body.time_spent_english,
+          streakAlerts: body.streak_alerts,
+          quickChallenge: body.quick_challenge,
         },
       });
       return onboarding;

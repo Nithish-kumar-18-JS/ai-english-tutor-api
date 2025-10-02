@@ -18,43 +18,117 @@ model User {
   questions         OnBoardingQuestions[]
   savedWords        UserWords[]
   todaySessionWords TodaySessionVocabWords[]
+  trackWeeklyGoals  TrackWeeklyWordsGoals[]
+  userWordStreaks   UserWordStreaks[]
+  userAchievements  UserAchievements[]
 }
 
 model OnBoardingQuestions {
-  id                       Int      @id @default(autoincrement())
-  user                     User     @relation(fields: [userId], references: [id])
-  userId                   Int
-  english_proficiency_goal String
-  why_are_learning_english String
-  english_level            String
-  time_spent_english       String
-  streak_alerts            Boolean
-  quick_challenge          String
-  createdAt                DateTime @default(now())
-  updatedAt                DateTime @updatedAt
+  id                    Int      @id @default(autoincrement())
+  user                  User     @relation(fields: [userId], references: [id])
+  userId                Int
+  englishProficiencyGoal String
+  whyLearningEnglish    String
+  englishLevel          String
+  timeSpentEnglish      String
+  streakAlerts          Boolean
+  quickChallenge        String
+  createdAt             DateTime @default(now())
+  updatedAt             DateTime @updatedAt
 }
 
 model TodaySessionVocabWords {
-  id        Int      @id @default(autoincrement())
-  user      User     @relation(fields: [userId], references: [id])
+  id        Int             @id @default(autoincrement())
+  user      User            @relation(fields: [userId], references: [id])
   userId    Int
-  word      VocabuloryWords  @relation(fields: [wordId], references: [id])
+  word     VocabularyWords @relation(fields: [wordId], references: [id])
   wordId    Int    
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  createdAt DateTime        @default(now())
+  updatedAt DateTime        @updatedAt
 }
 
-model VocabuloryWords {
-  id               Int         @id @default(autoincrement())
-  level            String
-  word             String
-  part_of_speech   String
-  example_Sentence String
-  phonetics_text   String
-  phonetics_audio  String
-  createdAt        DateTime    @default(now())
-  updatedAt        DateTime    @updatedAt
-  UserWords        UserWords[]
+model TrackWeeklyWordsGoals {
+  id             Int      @id @default(autoincrement())
+  user           User     @relation(fields: [userId], references: [id])
+  userId         Int
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+  dailyGoal      Int
+  weeklyGoal     Int
+  dailyProgress  Int
+  weeklyProgress Int
+  totalGoal      Int
+  totalProgress  Int
+}
+
+enum WordStreakType {
+  DAILY
+  WEEKLY
+  TOTAL
+  ACHIEVEMENT
+}
+
+model UserWordStreaks {
+  id           Int         @id @default(autoincrement())
+  user         User        @relation(fields: [userId], references: [id])
+  userId       Int
+  wordStreak   WordStreaks @relation(fields: [wordStreakId], references: [id])
+  wordStreakId Int
+  currentStreak Int
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  @@unique([userId, wordStreakId])
+}
+
+model WordStreaks {
+  id        Int             @id @default(autoincrement())
+  createdAt DateTime        @default(now())
+  updatedAt DateTime        @updatedAt
+  name      String          @unique
+  type      WordStreakType
+  goal      Int
+  UserWordStreaks UserWordStreaks[]
+}
+
+enum AchievementType {
+  PROGRESS
+  CONSISTENCY
+  SPECIAL
+}
+
+model Achievement {
+  id        Int      @id @default(autoincrement())
+  name      String   @unique
+  type      AchievementType
+  condition Json     // e.g. { "words": 500 } or { "days": 30 }
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+  userAchievements UserAchievements[]
+}
+
+model UserAchievements {
+  id             Int          @id @default(autoincrement())
+  user           User         @relation(fields: [userId], references: [id])
+  userId         Int
+  achievement    Achievement  @relation(fields: [achievementId], references: [id])
+  achievementId  Int
+  unlockedAt     DateTime     @default(now())
+
+  @@unique([userId, achievementId])
+}
+
+modelVocabularyWords {
+  id              Int      @id @default(autoincrement())
+  level           String
+  word            String
+  partOfSpeech    String
+  exampleSentence String
+  phoneticsText   String
+  phoneticsAudio  String
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+  UserWords       UserWords[]
   TodaySessionVocabWords TodaySessionVocabWords[]
 }
 
@@ -64,12 +138,12 @@ enum UserWordStatus {
 }
 
 model UserWords {
-  id        Int              @id @default(autoincrement())
-  user      User             @relation(fields: [userId], references: [id])
+  id        Int             @id @default(autoincrement())
+  user      User            @relation(fields: [userId], references: [id])
   userId    Int
-  word      VocabuloryWords  @relation(fields: [wordId], references: [id])
+  word     VocabularyWords @relation(fields: [wordId], references: [id])
   wordId    Int
-  status    UserWordStatus[]
-  createdAt DateTime         @default(now())
-  updatedAt DateTime         @updatedAt
+  status    UserWordStatus
+  createdAt DateTime        @default(now())
+  updatedAt DateTime        @updatedAt
 }

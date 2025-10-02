@@ -10,7 +10,15 @@
     "start": "NODE_OPTIONS=--max-old-space-size=4096 nest start",
     "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
     "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
-    "start:prod": "node --max-old-space-size=4096 dist/main"
+    "start:prod": "node --max-old-space-size=4096 dist/main",
+    "seed": "npx ts-node src/seed/seed_all.ts",
+    "seed:gamification": "npx ts-node src/seed/seed_gamification.ts",
+    "seed:words": "node src/seed/seed_words.js",
+    "seed:words:ts": "npx ts-node src/seed/seed_words.ts",
+    "prisma:migrate": "npx prisma migrate dev",
+    "prisma:generate": "npx prisma generate",
+    "prisma:reset": "npx prisma migrate reset",
+    "prisma:deploy": "npx prisma migrate deploy"
   },
   "dependencies": {
     "@nestjs/common": "^11.0.1",
