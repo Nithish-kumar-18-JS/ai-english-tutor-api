@@ -1,9 +1,13 @@
 const { PrismaClient } = require('@prisma/client');
+const fs = require('fs');
+const path = require('path');
 const wordJson = require('../../vocabulary.json');
 
 const prisma = new PrismaClient({
   log: ['info', 'warn', 'error'],
 });
+
+const missedWordsFile = path.join(__dirname, 'missed_phonetics.json');
 
 async function seedWords() {
   console.log(`🌱 Starting vocabulary seeding...`);
@@ -12,17 +16,17 @@ async function seedWords() {
   let count = 0;
   let skipped = 0;
   let errors = 0;
+  const missedPhonetics = [];
 
   for (const word of wordJson) {
     try {
-      if(word.phonetics_audio && word.phonetics_text) {
         // Check if word already exists
         const existing = await prisma.vocabularyWords.findFirst({
           where: { word: word.word }
         });
         
         if (existing) {
-          console.log(`⚠️  Word '${word.word}' already exists, skipping...`);
+          // console.log(`⚠️  Word '${word.word}' already exists, skipping...`);
           skipped++;
           continue;
         }
@@ -31,10 +35,11 @@ async function seedWords() {
           data: {
             word: word.word,
             level: word.level,
-            partOfSpeech: word.partsOfSpeech,
-            exampleSentence: word.example_Sentence,
-            phoneticsText: word.phonetics_text,
-            phoneticsAudio: word.phonetics_audio
+            partOfSpeech: word.partsOfSpeech ? word.partsOfSpeech : "",
+            exampleSentence: word.example_Sentence ? word.example_Sentence : "",
+            phoneticsText: word.phonetics_text ? word.phonetics_text : "",
+            definitions: word.definitions ? word.definitions : "",
+            phoneticsAudio: word.phonetics_audio ? word.phonetics_audio : ""
           }
         });
         
@@ -42,19 +47,22 @@ async function seedWords() {
         if (count % 100 === 0) {
           console.log(`✅ Processed ${count} words...`);
         }
-      } else {
-        console.log(`⚠️  Skipping '${word.word}' - missing phonetics data`);
-        skipped++;
-      }
+ 
     } catch (err) {
       console.error(`❌ Failed to insert ${word.word}: ${err.message}`);
       errors++;
     }
   }
 
+  // Save missed phonetics words to JSON
+  if (missedPhonetics.length > 0) {
+    fs.writeFileSync(missedWordsFile, JSON.stringify(missedPhonetics, null, 2), 'utf-8');
+    console.log(`📂 Exported ${missedPhonetics.length} words with missing phonetics to: ${missedWordsFile}`);
+  }
+
   console.log(`\n📊 Seeding Summary:`);
   console.log(`   ✅ Successfully inserted: ${count} words`);
-  console.log(`   ⚠️  Skipped: ${skipped} words`);
+  console.log(`   ⚠️  Skipped (including missing phonetics): ${skipped} words`);
   console.log(`   ❌ Errors: ${errors} words`);
   console.log(`🎉 Vocabulary seeding completed!`);
 }
@@ -76,13 +84,7 @@ if (require.main === module) {
     .catch((e) => {
       console.error(e);
       process.exit(1);
-    })
-    .finally(async () => {
-      await prisma.$disconnect();
     });
 }
 
 module.exports = { main, seedWords };
-
-
-

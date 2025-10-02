@@ -43,6 +43,7 @@ async function seedWords(): Promise<void> {
             word: word.word,
             level: word.level,
             partOfSpeech: word.partsOfSpeech,
+            definitions: word.definitions,
             exampleSentence: word.example_Sentence,
             phoneticsText: word.phonetics_text,
             phoneticsAudio: word.phonetics_audio

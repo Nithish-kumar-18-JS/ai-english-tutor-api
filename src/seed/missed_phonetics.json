@@ -1,0 +1,5698 @@
+[
+  {
+    "word": "time",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The inevitable progression into the future with the passing of present and past events.",
+    "synonyms": "hour, moment",
+    "example_Sentence": "What time is it?"
+  },
+  {
+    "word": "day",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Any period of 24 hours.",
+    "synonyms": "date, period",
+    "example_Sentence": "Today is a beautiful day."
+  },
+  {
+    "word": "evening",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The time of the day between dusk and night, when it gets dark.",
+    "synonyms": "night, dusk",
+    "example_Sentence": "We have dinner in the evening."
+  },
+  {
+    "word": "home",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A dwelling.",
+    "synonyms": "house, residence",
+    "example_Sentence": "I go home after work."
+  },
+  {
+    "word": "world",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(with \"the\") Human collective existence; existence in general.",
+    "synonyms": "earth, globe",
+    "example_Sentence": "The world is round."
+  },
+  {
+    "word": "eye",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An organ through which animals see (perceive surroundings via light).",
+    "synonyms": "vision, sight",
+    "example_Sentence": "She has blue eyes."
+  },
+  {
+    "word": "face",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The front part of the head of a human or other animal, featuring the eyes, nose and mouth, and the surrounding area.",
+    "synonyms": "features, expression",
+    "example_Sentence": "He has a kind face."
+  },
+  {
+    "word": "room",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Opportunity or scope (to do something).",
+    "synonyms": "chamber, space",
+    "example_Sentence": "This is my room."
+  },
+  {
+    "word": "radio",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The technology that allows for the transmission of sound or other signals by modulation of electromagnetic waves.",
+    "synonyms": "receiver, player",
+    "example_Sentence": "Listen to the radio."
+  },
+  {
+    "word": "movie",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A recorded sequence of images displayed on a screen at a rate sufficiently fast to create the appearance of motion.",
+    "synonyms": "film, picture",
+    "example_Sentence": "We watched a good movie."
+  },
+  {
+    "word": "game",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A playful or competitive activity.",
+    "synonyms": "sport, activity",
+    "example_Sentence": "Let's play a game."
+  },
+  {
+    "word": "sport",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Any activity that uses physical exertion or skills competitively under a set of rules that is not based on aesthetics.",
+    "synonyms": "game, exercise",
+    "example_Sentence": "Football is my favorite sport."
+  },
+  {
+    "word": "holiday",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A day on which a festival, religious event, or national celebration is traditionally observed.",
+    "synonyms": "vacation, break",
+    "example_Sentence": "We're going on holiday."
+  },
+  {
+    "word": "travel",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of traveling; passage from place to place.",
+    "synonyms": "trip, journey",
+    "example_Sentence": "I love to travel."
+  },
+  {
+    "word": "hotel",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A large town house or mansion; a grand private residence, especially in France.",
+    "synonyms": "inn, lodge",
+    "example_Sentence": "We stayed at a hotel."
+  },
+  {
+    "word": "shop",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An establishment that sells goods or services to the public; originally only a physical location, but now a virtual establishment as well.",
+    "synonyms": "store, market",
+    "example_Sentence": "The shop is open."
+  },
+  {
+    "word": "bank",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An institution where one can place and borrow money and take care of financial affairs.",
+    "synonyms": "financial, institution",
+    "example_Sentence": "I go to the bank."
+  },
+  {
+    "word": "nurse",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A wet nurse.",
+    "synonyms": "carer, medic",
+    "example_Sentence": "The nurse is kind."
+  },
+  {
+    "word": "fire",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A (usually self-sustaining) chemical reaction involving the bonding of oxygen with carbon or other fuel, with the production of heat and the presence of flame or smouldering.",
+    "synonyms": "flames, blaze",
+    "example_Sentence": "The fire is hot."
+  },
+  {
+    "word": "animal",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In scientific usage, a multicellular organism that is usually mobile, whose cells are not encased in a rigid cell wall (distinguishing it from plants and fungi) and which derives energy solely from the consumption of other organisms (distinguishing it from plants).",
+    "synonyms": "creature, beast",
+    "example_Sentence": "Dogs are friendly animals."
+  },
+  {
+    "word": "bird",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A member of the class of animals Aves in the phylum Chordata, characterized by being warm-blooded, having feathers and wings usually capable of flight, and laying eggs.",
+    "synonyms": "fowl, creature",
+    "example_Sentence": "Birds can fly."
+  },
+  {
+    "word": "weather",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The short term state of the atmosphere at a specific time and place, including the temperature, relative humidity, cloud cover, precipitation, wind, etc.",
+    "synonyms": "climate, conditions",
+    "example_Sentence": "The weather is nice."
+  },
+  {
+    "word": "color",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The spectral composition of visible light",
+    "synonyms": "hue, shade",
+    "example_Sentence": "Red is my favorite color."
+  },
+  {
+    "word": "number",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An abstract entity used to describe quantity.",
+    "synonyms": "digit, figure",
+    "example_Sentence": "Seven is a lucky number."
+  },
+  {
+    "word": "word",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The smallest unit of language that has a particular meaning and can be expressed by itself; the smallest discrete, meaningful unit of language. (contrast morpheme.)",
+    "synonyms": "term, expression",
+    "example_Sentence": "This is a difficult word."
+  },
+  {
+    "word": "language",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.",
+    "synonyms": "tongue, speech",
+    "example_Sentence": "English is a global language."
+  },
+  {
+    "word": "question",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A sentence, phrase or word which asks for information, reply or response; an interrogative.",
+    "synonyms": "inquiry, query",
+    "example_Sentence": "I have a question."
+  },
+  {
+    "word": "news",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "New information of interest.",
+    "synonyms": "information, report",
+    "example_Sentence": "Did you hear the news?"
+  },
+  {
+    "word": "picture",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A representation of anything (as a person, a landscape, a building) upon canvas, paper, or other surface, by drawing, painting, printing, photography, etc.",
+    "synonyms": "image, photo",
+    "example_Sentence": "Look at this picture."
+  },
+  {
+    "word": "gift",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Something given to another voluntarily, without charge.",
+    "synonyms": "present, offering",
+    "example_Sentence": "I bought you a gift."
+  },
+  {
+    "word": "smile",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A facial expression comprised by flexing the muscles of both ends of one's mouth, often showing the front teeth, without vocalisation, and in humans is a common involuntary or voluntary expression of happiness, pleasure, amusement or anxiety.",
+    "synonyms": "grin, beam",
+    "example_Sentence": "She has a beautiful smile."
+  },
+  {
+    "word": "laugh",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An expression of mirth particular to the human species; the sound heard in laughing; laughter.",
+    "synonyms": "giggle, chuckle",
+    "example_Sentence": "His laugh is contagious."
+  },
+  {
+    "word": "happiness",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The emotion of being happy; joy.",
+    "synonyms": "joy, delight",
+    "example_Sentence": "Happiness is everything."
+  },
+  {
+    "word": "problem",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A difficulty that has to be resolved or dealt with.",
+    "synonyms": "issue, difficulty",
+    "example_Sentence": "We have a problem."
+  },
+  {
+    "word": "help",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Action given to provide assistance; aid.",
+    "synonyms": "aid, support",
+    "example_Sentence": "I need your help."
+  },
+  {
+    "word": "thing",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "That which is considered to exist as a separate entity, object, quality or concept.",
+    "synonyms": "object, item",
+    "example_Sentence": "What's that thing?"
+  },
+  {
+    "word": "age",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The whole duration of a being, whether animal, plant, or other kind, being alive.",
+    "synonyms": "years, maturity",
+    "example_Sentence": "What's your age?"
+  },
+  {
+    "word": "size",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(obsolete outside dialectal) An assize.",
+    "synonyms": "dimension, scale",
+    "example_Sentence": "What size do you need?"
+  },
+  {
+    "word": "name",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Any nounal word or phrase which indicates a particular person, place, class, or thing.",
+    "synonyms": "title, label",
+    "example_Sentence": "What's your name?"
+  },
+  {
+    "word": "language",
+    "level": "Beginner",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A body of words, and set of methods of combining them (called a grammar), understood by a community and used as a form of communication.",
+    "synonyms": "tongue, dialect",
+    "example_Sentence": "English is my first language."
+  },
+  {
+    "word": "have",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/have-uk.mp3",
+    "definitions": "To possess, own.",
+    "synonyms": "own, possess",
+    "example_Sentence": "I have a car."
+  },
+  {
+    "word": "do",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(auxiliary) A syntactic marker.",
+    "synonyms": "perform, execute",
+    "example_Sentence": "What do you do?"
+  },
+  {
+    "word": "say",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To pronounce.",
+    "synonyms": "speak, tell",
+    "example_Sentence": "What did you say?"
+  },
+  {
+    "word": "get",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(ditransitive) To obtain; to acquire.",
+    "synonyms": "obtain, receive",
+    "example_Sentence": "I need to get milk."
+  },
+  {
+    "word": "go",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To move:",
+    "synonyms": "move, travel",
+    "example_Sentence": "Let's go home."
+  },
+  {
+    "word": "see",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(stative) To perceive or detect with the eyes, or as if by sight.",
+    "synonyms": "view, look",
+    "example_Sentence": "I can see you."
+  },
+  {
+    "word": "think",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To ponder, to go over in one's head.",
+    "synonyms": "believe, consider",
+    "example_Sentence": "I think you're right."
+  },
+  {
+    "word": "use",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To utilize or employ.",
+    "synonyms": "employ, utilize",
+    "example_Sentence": "Use this computer."
+  },
+  {
+    "word": "tell",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(archaic outside of idioms) To count, reckon, or enumerate.",
+    "synonyms": "inform, explain",
+    "example_Sentence": "Tell me the truth."
+  },
+  {
+    "word": "seem",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To appear; to look outwardly; to be perceived as.",
+    "synonyms": "appear, look",
+    "example_Sentence": "You seem tired."
+  },
+  {
+    "word": "feel",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) To use or experience the sense of touch.",
+    "synonyms": "experience, sense",
+    "example_Sentence": "I feel happy."
+  },
+  {
+    "word": "leave",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To have a consequence or remnant.",
+    "synonyms": "depart, exit",
+    "example_Sentence": "I must leave now."
+  },
+  {
+    "word": "need",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "require, want",
+    "example_Sentence": "I need help."
+  },
+  {
+    "word": "put",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To place something somewhere.",
+    "synonyms": "place, set",
+    "example_Sentence": "Put it here."
+  },
+  {
+    "word": "mean",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To lament.",
+    "synonyms": "intend, signify",
+    "example_Sentence": "What do you mean?"
+  },
+  {
+    "word": "keep",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To continue in (a course or mode of action); not to intermit or fall from; to uphold or maintain.",
+    "synonyms": "retain, hold",
+    "example_Sentence": "Keep this safe."
+  },
+  {
+    "word": "let",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To allow to, not to prevent (+ infinitive, but usually without to).",
+    "synonyms": "allow, permit",
+    "example_Sentence": "Let me help."
+  },
+  {
+    "word": "help",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "assist, aid",
+    "example_Sentence": "Help me please."
+  },
+  {
+    "word": "talk",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To communicate, usually by means of speech.",
+    "synonyms": "speak, chat",
+    "example_Sentence": "Let's talk later."
+  },
+  {
+    "word": "turn",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) to make a non-linear physical movement.",
+    "synonyms": "rotate, change",
+    "example_Sentence": "Turn left here."
+  },
+  {
+    "word": "play",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To act in a manner such that one has fun; to engage in activities expressly for the purpose of recreation or entertainment.",
+    "synonyms": "enjoy, perform",
+    "example_Sentence": "Children love to play."
+  },
+  {
+    "word": "run",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To run.",
+    "synonyms": "jog, sprint",
+    "example_Sentence": "I run every morning."
+  },
+  {
+    "word": "move",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To change place or posture; to go, in any manner, from one place or position to another.",
+    "synonyms": "shift, relocate",
+    "example_Sentence": "Move your chair."
+  },
+  {
+    "word": "live",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To be alive; to have life.",
+    "synonyms": "exist, reside",
+    "example_Sentence": "I live in London."
+  },
+  {
+    "word": "believe",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To accept as true, particularly without absolute certainty (i.e., as opposed to knowing)",
+    "synonyms": "trust, accept",
+    "example_Sentence": "I believe you."
+  },
+  {
+    "word": "hold",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To grasp or grip.",
+    "synonyms": "grasp, grip",
+    "example_Sentence": "Hold my hand."
+  },
+  {
+    "word": "happen",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To occur or take place.",
+    "synonyms": "occur, take",
+    "example_Sentence": "What will happen?"
+  },
+  {
+    "word": "sit",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of a person) To be in a position in which the upper body is upright and supported by the buttocks.",
+    "synonyms": "rest, settle",
+    "example_Sentence": "Sit down please."
+  },
+  {
+    "word": "stand",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) To position or be positioned physically.",
+    "synonyms": "rise, remain",
+    "example_Sentence": "Please stand up."
+  },
+  {
+    "word": "pay",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To give money or other compensation to in exchange for goods or services.",
+    "synonyms": "spend, give",
+    "example_Sentence": "Pay the bill."
+  },
+  {
+    "word": "include",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring into a group, class, set, or total as a (new) part or member.",
+    "synonyms": "contain, involve",
+    "example_Sentence": "The price includes tax."
+  },
+  {
+    "word": "continue",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To proceed with (doing an activity); to prolong (an activity).",
+    "synonyms": "proceed, maintain",
+    "example_Sentence": "Continue reading."
+  },
+  {
+    "word": "set",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To put (something) down, to rest.",
+    "synonyms": "place, arrange",
+    "example_Sentence": "Set the table."
+  },
+  {
+    "word": "learn",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+    "synonyms": "study, master",
+    "example_Sentence": "Learn English."
+  },
+  {
+    "word": "lead",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To cover, fill, or affect with lead",
+    "synonyms": "guide, direct",
+    "example_Sentence": "Lead the way."
+  },
+  {
+    "word": "follow",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To go after; to pursue; to move behind in the same path or direction.",
+    "synonyms": "pursue, chase",
+    "example_Sentence": "Follow me."
+  },
+  {
+    "word": "create",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring into existence; (sometimes in particular:)",
+    "synonyms": "make, produce",
+    "example_Sentence": "Create something new."
+  },
+  {
+    "word": "spend",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To pay out (money).",
+    "synonyms": "use, pay",
+    "example_Sentence": "Spend wisely."
+  },
+  {
+    "word": "grow",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To become larger, to increase in magnitude.",
+    "synonyms": "develop, increase",
+    "example_Sentence": "Plants grow fast."
+  },
+  {
+    "word": "offer",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "provide, give",
+    "example_Sentence": "I offer my help."
+  },
+  {
+    "word": "consider",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To think about seriously.",
+    "synonyms": "think, ponder",
+    "example_Sentence": "Consider this option."
+  },
+  {
+    "word": "appear",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To come or be in sight; to be in view; to become visible.",
+    "synonyms": "show, emerge",
+    "example_Sentence": "Stars appear at night."
+  },
+  {
+    "word": "serve",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(personal) To provide a service (or, by extension, a product, especially food or drink).",
+    "synonyms": "help, assist",
+    "example_Sentence": "I serve customers."
+  },
+  {
+    "word": "die",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To stop living; to become dead; to undergo death.",
+    "synonyms": "perish, expire",
+    "example_Sentence": "Plants die without water."
+  },
+  {
+    "word": "expect",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To predict or believe that something will happen",
+    "synonyms": "anticipate, await",
+    "example_Sentence": "I expect good results."
+  },
+  {
+    "word": "stay",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To prop; support; sustain; hold up; steady.",
+    "synonyms": "remain, wait",
+    "example_Sentence": "Stay here."
+  },
+  {
+    "word": "fall",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) To be moved downwards.",
+    "synonyms": "drop, tumble",
+    "example_Sentence": "Leaves fall in autumn."
+  },
+  {
+    "word": "cut",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) To incise, to cut into the surface of something.",
+    "synonyms": "slice, divide",
+    "example_Sentence": "Cut the paper."
+  },
+  {
+    "word": "reach",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To extend, stretch, or thrust out (for example a limb or object held in the hand).",
+    "synonyms": "arrive, attain",
+    "example_Sentence": "Reach for the stars."
+  },
+  {
+    "word": "kill",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To put to death; to extinguish the life of.",
+    "synonyms": "destroy, eliminate",
+    "example_Sentence": "Don't kill insects."
+  },
+  {
+    "word": "remain",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To stay behind while others withdraw; to be left after others have been removed or destroyed; to be left after a number or quantity has been subtracted or cut off; to be left as not included or comprised.",
+    "synonyms": "stay, continue",
+    "example_Sentence": "Please remain seated."
+  },
+  {
+    "word": "suggest",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To imply but stop short of saying explicitly.",
+    "synonyms": "propose, recommend",
+    "example_Sentence": "I suggest we go."
+  },
+  {
+    "word": "raise",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(physical) To cause to rise; to lift or elevate.",
+    "synonyms": "lift, increase",
+    "example_Sentence": "Raise your hand."
+  },
+  {
+    "word": "pass",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To change place.",
+    "synonyms": "give, cross",
+    "example_Sentence": "Pass the salt."
+  },
+  {
+    "word": "sell",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(ditransitive) To transfer goods or provide services in exchange for money.",
+    "synonyms": "trade, offer",
+    "example_Sentence": "Sell your car."
+  },
+  {
+    "word": "require",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To ask (someone) for something; to request.",
+    "synonyms": "need, demand",
+    "example_Sentence": "This requires attention."
+  },
+  {
+    "word": "report",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To relate details of (an event or incident); to recount, describe (something).",
+    "synonyms": "inform, announce",
+    "example_Sentence": "Report the problem."
+  },
+  {
+    "word": "decide",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To resolve (a contest, problem, dispute, etc.); to choose, determine, or settle",
+    "synonyms": "choose, determine",
+    "example_Sentence": "Decide quickly."
+  },
+  {
+    "word": "pull",
+    "level": "Beginner",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To apply a force to (an object) so that it comes toward the person or thing applying the force.",
+    "synonyms": "drag, draw",
+    "example_Sentence": "Pull the door."
+  },
+  {
+    "word": "long",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having much distance from one terminating point on an object or an area to another terminating point (usually applies to horizontal dimensions; see Usage Notes below).",
+    "synonyms": "lengthy, extended",
+    "example_Sentence": "A long road."
+  },
+  {
+    "word": "low",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Situated close to, or even below, the ground or another normal reference plane; not high or lofty.",
+    "synonyms": "short, down",
+    "example_Sentence": "A low table."
+  },
+  {
+    "word": "warm",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a temperature slightly higher than usual, but still pleasant; mildly hot.",
+    "synonyms": "mild, cozy",
+    "example_Sentence": "Warm weather."
+  },
+  {
+    "word": "hard",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of material or fluid) Having a severe property; presenting difficulty.",
+    "synonyms": "difficult, tough",
+    "example_Sentence": "Hard work."
+  },
+  {
+    "word": "heavy",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of a physical object) Having great weight.",
+    "synonyms": "weighty, massive",
+    "example_Sentence": "Heavy box."
+  },
+  {
+    "word": "sad",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) Emotionally negative.",
+    "synonyms": "unhappy, sorrowful",
+    "example_Sentence": "Sad movie."
+  },
+  {
+    "word": "angry",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Displaying or feeling anger.",
+    "synonyms": "mad, furious",
+    "example_Sentence": "Angry customer."
+  },
+  {
+    "word": "hungry",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Affected by hunger; desiring of food; having a physical need for food.",
+    "synonyms": "starving, famished",
+    "example_Sentence": "Hungry children."
+  },
+  {
+    "word": "thirsty",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Needing to drink.",
+    "synonyms": "parched, dry",
+    "example_Sentence": "Thirsty after exercise."
+  },
+  {
+    "word": "healthy",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Enjoying health and vigor of body, mind, or spirit: well.",
+    "synonyms": "fit, well",
+    "example_Sentence": "Healthy lifestyle."
+  },
+  {
+    "word": "rich",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Wealthy: having a lot of money and possessions.",
+    "synonyms": "wealthy, affluent",
+    "example_Sentence": "Rich businessman."
+  },
+  {
+    "word": "nice",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pleasant, satisfactory.",
+    "synonyms": "pleasant, agreeable",
+    "example_Sentence": "Nice weather."
+  },
+  {
+    "word": "terrible",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Dreadful; causing terror, alarm and fear; awesome",
+    "synonyms": "awful, horrible",
+    "example_Sentence": "Terrible food."
+  },
+  {
+    "word": "wonderful",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Tending to excite wonder; surprising, extraordinary.",
+    "synonyms": "marvelous, fantastic",
+    "example_Sentence": "Wonderful vacation."
+  },
+  {
+    "word": "important",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having relevant and crucial value.",
+    "synonyms": "significant, crucial",
+    "example_Sentence": "Important meeting."
+  },
+  {
+    "word": "interesting",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of concern; affecting, important.",
+    "synonyms": "fascinating, engaging",
+    "example_Sentence": "Interesting book."
+  },
+  {
+    "word": "boring",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Causing boredom; unable to engage or hold the interest.",
+    "synonyms": "dull, tedious",
+    "example_Sentence": "Boring movie."
+  },
+  {
+    "word": "quiet",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "With little or no sound; free of disturbing noise.",
+    "synonyms": "silent, peaceful",
+    "example_Sentence": "Quiet room."
+  },
+  {
+    "word": "loud",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of a sound) Of great intensity.",
+    "synonyms": "noisy, booming",
+    "example_Sentence": "Loud music."
+  },
+  {
+    "word": "safe",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not in danger; out of harm's reach.",
+    "synonyms": "secure, protected",
+    "example_Sentence": "Safe neighborhood."
+  },
+  {
+    "word": "wrong",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Incorrect or untrue.",
+    "synonyms": "incorrect, mistaken",
+    "example_Sentence": "Wrong direction."
+  },
+  {
+    "word": "closed",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Sealed, made inaccessible or impassable; not open.",
+    "synonyms": "shut, locked",
+    "example_Sentence": "Closed shop."
+  },
+  {
+    "word": "full",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Containing the maximum possible amount that can fit in the space available.",
+    "synonyms": "filled, complete",
+    "example_Sentence": "Full tank."
+  },
+  {
+    "word": "careful",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Taking care; attentive to potential danger, error or harm; cautious.",
+    "synonyms": "cautious, attentive",
+    "example_Sentence": "Careful driver."
+  },
+  {
+    "word": "careless",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not concerned or worried (about).",
+    "synonyms": "reckless, negligent",
+    "example_Sentence": "Careless mistake."
+  },
+  {
+    "word": "helpful",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Furnishing help; giving aid; useful.",
+    "synonyms": "supportive, useful",
+    "example_Sentence": "Helpful assistant."
+  },
+  {
+    "word": "kind",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "caring, gentle",
+    "example_Sentence": "Kind person."
+  },
+  {
+    "word": "rude",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Bad-mannered.",
+    "synonyms": "impolite, disrespectful",
+    "example_Sentence": "Rude behavior."
+  },
+  {
+    "word": "polite",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Well-mannered, civilized.",
+    "synonyms": "courteous, respectful",
+    "example_Sentence": "Polite child."
+  },
+  {
+    "word": "smart",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "clever, bright",
+    "example_Sentence": "Smart student."
+  },
+  {
+    "word": "stupid",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lacking in intelligence or exhibiting the quality of having been done by someone lacking in intelligence.",
+    "synonyms": "foolish, dumb",
+    "example_Sentence": "Stupid mistake."
+  },
+  {
+    "word": "weak",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lacking in force (usually strength) or ability.",
+    "synonyms": "feeble, fragile",
+    "example_Sentence": "Weak signal."
+  },
+  {
+    "word": "fat",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Carrying more fat than usual on one's body; plump; not lean or thin.",
+    "synonyms": "obese, chubby",
+    "example_Sentence": "Fat cat."
+  },
+  {
+    "word": "thin",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having little thickness or extent from one surface to its opposite.",
+    "synonyms": "slim, skinny",
+    "example_Sentence": "Thin person."
+  },
+  {
+    "word": "narrow",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a small width; not wide; having opposite edges or sides that are close, especially by comparison to length or depth.",
+    "synonyms": "tight, confined",
+    "example_Sentence": "Narrow street."
+  },
+  {
+    "word": "thick",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Relatively great in extent from one surface to the opposite in its smallest solid dimension.",
+    "synonyms": "dense, heavy",
+    "example_Sentence": "Thick book."
+  },
+  {
+    "word": "thin",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having little thickness or extent from one surface to its opposite.",
+    "synonyms": "fine, delicate",
+    "example_Sentence": "Thin paper."
+  },
+  {
+    "word": "sharp",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Terminating in a point or edge, especially one that can cut easily; not obtuse or rounded.",
+    "synonyms": "keen, pointed",
+    "example_Sentence": "Sharp knife."
+  },
+  {
+    "word": "dull",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lacking the ability to cut easily; not sharp.",
+    "synonyms": "blunt, boring",
+    "example_Sentence": "Dull blade."
+  },
+  {
+    "word": "smooth",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a texture that lacks friction. Not rough.",
+    "synonyms": "even, sleek",
+    "example_Sentence": "Smooth skin."
+  },
+  {
+    "word": "rough",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not smooth; uneven.",
+    "synonyms": "bumpy, coarse",
+    "example_Sentence": "Rough road."
+  },
+  {
+    "word": "soft",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Easily giving way under pressure.",
+    "synonyms": "gentle, tender",
+    "example_Sentence": "Soft pillow."
+  },
+  {
+    "word": "hard",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of material or fluid) Having a severe property; presenting difficulty.",
+    "synonyms": "solid, firm",
+    "example_Sentence": "Hard rock."
+  },
+  {
+    "word": "wet",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Made up of liquid or moisture, usually (but not always) water.",
+    "synonyms": "damp, soaked",
+    "example_Sentence": "Wet clothes."
+  },
+  {
+    "word": "dry",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Free from or lacking moisture.",
+    "synonyms": "arid, parched",
+    "example_Sentence": "Dry towel."
+  },
+  {
+    "word": "bright",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Visually dazzling; luminous, lucent, clear, radiant; not dark.",
+    "synonyms": "brilliant, shining",
+    "example_Sentence": "Bright sun."
+  },
+  {
+    "word": "dark",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having an absolute or (more often) relative lack of light.",
+    "synonyms": "dim, shadowy",
+    "example_Sentence": "Dark room."
+  },
+  {
+    "word": "sweet",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a pleasant taste, especially one relating to the basic taste sensation induced by sugar.",
+    "synonyms": "sugary, pleasant",
+    "example_Sentence": "Sweet cake."
+  },
+  {
+    "word": "sour",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having an acidic, sharp or tangy taste.",
+    "synonyms": "tart, acidic",
+    "example_Sentence": "Sour lemon."
+  },
+  {
+    "word": "bitter",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having an acrid taste (usually from a basic substance).",
+    "synonyms": "harsh, acrid",
+    "example_Sentence": "Bitter medicine."
+  },
+  {
+    "word": "fresh",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Newly produced or obtained; recent.",
+    "synonyms": "new, crisp",
+    "example_Sentence": "Fresh bread."
+  },
+  {
+    "word": "public",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Able to be seen or known by everyone; open to general view, happening without concealment.",
+    "synonyms": "common, open",
+    "example_Sentence": "Public park."
+  },
+  {
+    "word": "private",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Belonging to, concerning, or accessible only to an individual person or a specific group.",
+    "synonyms": "personal, exclusive",
+    "example_Sentence": "Private room."
+  },
+  {
+    "word": "local",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "From or in a nearby location.",
+    "synonyms": "nearby, regional",
+    "example_Sentence": "Local shop."
+  },
+  {
+    "word": "fake",
+    "level": "Beginner",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not real; false, fraudulent.",
+    "synonyms": "false, artificial",
+    "example_Sentence": "Fake jewelry."
+  },
+  {
+    "word": "badly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In a bad manner.",
+    "synonyms": "poorly, terribly",
+    "example_Sentence": "He played badly."
+  },
+  {
+    "word": "quickly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Rapidly; with speed; fast.",
+    "synonyms": "rapidly, speedily",
+    "example_Sentence": "Run quickly!"
+  },
+  {
+    "word": "carefully",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Sorrowfully.",
+    "synonyms": "cautiously, attentively",
+    "example_Sentence": "Drive carefully."
+  },
+  {
+    "word": "easily",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Comfortably, without discomfort or anxiety.",
+    "synonyms": "simply, effortlessly",
+    "example_Sentence": "Done easily."
+  },
+  {
+    "word": "hard",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(manner) With much force or effort.",
+    "synonyms": "diligently, intensely",
+    "example_Sentence": "Work hard."
+  },
+  {
+    "word": "often",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Frequently, many times.",
+    "synonyms": "frequently, regularly",
+    "example_Sentence": "I often read."
+  },
+  {
+    "word": "sometimes",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "On certain occasions, or in certain circumstances, but not always.",
+    "synonyms": "occasionally, periodically",
+    "example_Sentence": "Sometimes I cook."
+  },
+  {
+    "word": "usually",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Most of the time; less than always, but more than occasionally.",
+    "synonyms": "generally, typically",
+    "example_Sentence": "Usually I walk."
+  },
+  {
+    "word": "really",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In a way or manner that is real, not unreal.",
+    "synonyms": "truly, genuinely",
+    "example_Sentence": "Really good food."
+  },
+  {
+    "word": "quite",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(heading) To the greatest extent or degree; completely, entirely.",
+    "synonyms": "rather, fairly",
+    "example_Sentence": "Quite interesting."
+  },
+  {
+    "word": "too",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(focus) Likewise.",
+    "synonyms": "excessively, overly",
+    "example_Sentence": "Too expensive."
+  },
+  {
+    "word": "also",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(focus) In addition; besides; as well; further; too.",
+    "synonyms": "additionally, furthermore",
+    "example_Sentence": "I also agree."
+  },
+  {
+    "word": "only",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Without others or anything further; exclusively.",
+    "synonyms": "just, merely",
+    "example_Sentence": "Only five minutes."
+  },
+  {
+    "word": "just",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Only, simply, merely.",
+    "synonyms": "recently, exactly",
+    "example_Sentence": "Just arrived."
+  },
+  {
+    "word": "where",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Interrogative adverb, used in either a direct or indirect question: at what place; to what place; what place.",
+    "synonyms": "location, place",
+    "example_Sentence": "Where are you?"
+  },
+  {
+    "word": "then",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(temporal location) At that time.",
+    "synonyms": "afterwards, next",
+    "example_Sentence": "See you then."
+  },
+  {
+    "word": "soon",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Immediately, instantly.",
+    "synonyms": "shortly, presently",
+    "example_Sentence": "Coming soon."
+  },
+  {
+    "word": "already",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Prior to some specified time, either past, present, or future; by this time; previously.",
+    "synonyms": "previously, before",
+    "example_Sentence": "Already finished."
+  },
+  {
+    "word": "almost",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Very close to, not quite.",
+    "synonyms": "nearly, practically",
+    "example_Sentence": "Almost ready."
+  },
+  {
+    "word": "probably",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In all likelihood.",
+    "synonyms": "likely, possibly",
+    "example_Sentence": "Probably rain."
+  },
+  {
+    "word": "certainly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In a way which is certain; with certainty.",
+    "synonyms": "definitely, surely",
+    "example_Sentence": "Certainly possible."
+  },
+  {
+    "word": "exactly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(manner) without approximation; precisely.",
+    "synonyms": "precisely, accurately",
+    "example_Sentence": "Exactly right."
+  },
+  {
+    "word": "especially",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(manner) In a special manner; specially.",
+    "synonyms": "particularly, notably",
+    "example_Sentence": "Especially good."
+  },
+  {
+    "word": "mostly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Mainly or chiefly; for the most part; usually, generally, on the whole.",
+    "synonyms": "mainly, primarily",
+    "example_Sentence": "Mostly sunny."
+  },
+  {
+    "word": "actually",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(modal) In act or in fact; really; in truth; positively.",
+    "synonyms": "really, truly",
+    "example_Sentence": "Actually correct."
+  },
+  {
+    "word": "suddenly",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Happening quickly and with little or no warning; in a sudden manner.",
+    "synonyms": "abruptly, instantly",
+    "example_Sentence": "Suddenly appeared."
+  },
+  {
+    "word": "immediately",
+    "level": "Beginner",
+    "partsOfSpeech": "adverb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In an immediate manner; instantly or without delay.",
+    "synonyms": "instantly, promptly",
+    "example_Sentence": "Come immediately."
+  },
+  {
+    "word": "in",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Used to indicate location, inclusion, or position within spatial, temporal or other limits.",
+    "synonyms": "inside, within",
+    "example_Sentence": "In the house."
+  },
+  {
+    "word": "at",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In, near, or in the general vicinity of a particular place.",
+    "synonyms": "located, positioned",
+    "example_Sentence": "At school."
+  },
+  {
+    "word": "by",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Near or next to.",
+    "synonyms": "beside, near",
+    "example_Sentence": "By the river."
+  },
+  {
+    "word": "with",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Against.",
+    "synonyms": "alongside, together",
+    "example_Sentence": "Come with me."
+  },
+  {
+    "word": "from",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Used to indicate source or provenance.",
+    "synonyms": "starting, originating",
+    "example_Sentence": "From London."
+  },
+  {
+    "word": "to",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Indicating destination: In the direction of, and arriving at.",
+    "synonyms": "toward, until",
+    "example_Sentence": "Go to work."
+  },
+  {
+    "word": "of",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Expressing distance or motion.",
+    "synonyms": "belonging, concerning",
+    "example_Sentence": "Book of poems."
+  },
+  {
+    "word": "about",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In a circle around; all round; on every side of; on the outside of.",
+    "synonyms": "concerning, regarding",
+    "example_Sentence": "Talk about movies."
+  },
+  {
+    "word": "up",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Toward the top of.",
+    "synonyms": "above, higher",
+    "example_Sentence": "Go up stairs."
+  },
+  {
+    "word": "down",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "From the higher end to the lower of.",
+    "synonyms": "below, lower",
+    "example_Sentence": "Come down here."
+  },
+  {
+    "word": "over",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Physical positioning.",
+    "synonyms": "above, across",
+    "example_Sentence": "Fly over city."
+  },
+  {
+    "word": "under",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In or at a lower level than.",
+    "synonyms": "beneath, below",
+    "example_Sentence": "Under the bridge."
+  },
+  {
+    "word": "through",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "From one side of an opening to the other.",
+    "synonyms": "via, across",
+    "example_Sentence": "Walk through park."
+  },
+  {
+    "word": "between",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In the position or interval that separates (two things), or intermediate in quantity or degree. (See Usage notes below.)",
+    "synonyms": "among, amid",
+    "example_Sentence": "Between two cars."
+  },
+  {
+    "word": "before",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Earlier than (in time).",
+    "synonyms": "prior, ahead",
+    "example_Sentence": "Before dinner."
+  },
+  {
+    "word": "after",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Subsequently to; following in time; later than.",
+    "synonyms": "following, later",
+    "example_Sentence": "After work."
+  },
+  {
+    "word": "without",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Outside of, beyond.",
+    "synonyms": "lacking, minus",
+    "example_Sentence": "Coffee without sugar."
+  },
+  {
+    "word": "within",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In the inner part, spatially; physically inside.",
+    "synonyms": "inside, among",
+    "example_Sentence": "Within the city."
+  },
+  {
+    "word": "above",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Physically over; on top of; worn on top of, said of clothing.",
+    "synonyms": "over, beyond",
+    "example_Sentence": "Above the clouds."
+  },
+  {
+    "word": "below",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lower in spatial position than.",
+    "synonyms": "under, beneath",
+    "example_Sentence": "Below sea level."
+  },
+  {
+    "word": "inside",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Within the interior of something, closest to the center or to a specific point of reference.",
+    "synonyms": "within, interior",
+    "example_Sentence": "Inside the box."
+  },
+  {
+    "word": "outside",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "On the outside of, not inside (something, such as a building).",
+    "synonyms": "beyond, exterior",
+    "example_Sentence": "Outside the building."
+  },
+  {
+    "word": "across",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To, toward or from the far side of (something that lies between two points of interest).",
+    "synonyms": "over, through",
+    "example_Sentence": "Across the street."
+  },
+  {
+    "word": "around",
+    "level": "Beginner",
+    "partsOfSpeech": "preposition",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Defining a circle or closed curve containing a thing.",
+    "synonyms": "surrounding, about",
+    "example_Sentence": "Around the corner."
+  },
+  {
+    "word": "and",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "As a coordinating conjunction; expressing two elements to be taken together or in addition to each other.",
+    "synonyms": "plus, also",
+    "example_Sentence": "Coffee and tea."
+  },
+  {
+    "word": "but",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "On the contrary, rather (as a regular adversative conjunction, introducing a word or clause in contrast or contradiction with the preceding negative clause or sentence).",
+    "synonyms": "however, yet",
+    "example_Sentence": "Nice but expensive."
+  },
+  {
+    "word": "so",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In order that.",
+    "synonyms": "therefore, thus",
+    "example_Sentence": "Tired, so resting."
+  },
+  {
+    "word": "because",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "By or for the cause that; on this account that; for the reason that.",
+    "synonyms": "since, as",
+    "example_Sentence": "Happy because sunny."
+  },
+  {
+    "word": "if",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Supposing that, assuming that, in the circumstances that; used to introduce a condition or choice.",
+    "synonyms": "provided, when",
+    "example_Sentence": "Come if possible."
+  },
+  {
+    "word": "while",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "During the same time that.",
+    "synonyms": "during, when",
+    "example_Sentence": "Read while waiting."
+  },
+  {
+    "word": "although",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Though, even though, in spite of or despite the fact that: introducing a clause that expresses a concession.",
+    "synonyms": "though, despite",
+    "example_Sentence": "Fun although difficult."
+  },
+  {
+    "word": "since",
+    "level": "Beginner",
+    "partsOfSpeech": "conjunction",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "From the time that.",
+    "synonyms": "from, because",
+    "example_Sentence": "Friends since school."
+  },
+  {
+    "word": "opportunity",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A chance for advancement, progress or profit.",
+    "synonyms": "chance, possibility",
+    "example_Sentence": "This is a great opportunity."
+  },
+  {
+    "word": "relationship",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Connection or association; the condition of being related.",
+    "synonyms": "connection, bond",
+    "example_Sentence": "They have a good relationship."
+  },
+  {
+    "word": "responsibility",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The state of being responsible, accountable, or answerable.",
+    "synonyms": "duty, obligation",
+    "example_Sentence": "It's my responsibility."
+  },
+  {
+    "word": "information",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "That which resolves uncertainty; anything that answers the question of \"what a given entity is\".",
+    "synonyms": "data, details",
+    "example_Sentence": "I need more information."
+  },
+  {
+    "word": "communication",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act or fact of communicating anything; transmission.",
+    "synonyms": "interaction, contact",
+    "example_Sentence": "Good communication is key."
+  },
+  {
+    "word": "organization",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The quality of being organized.",
+    "synonyms": "institution, company",
+    "example_Sentence": "She works for an organization."
+  },
+  {
+    "word": "competition",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The action of competing.",
+    "synonyms": "contest, rivalry",
+    "example_Sentence": "There's strong competition."
+  },
+  {
+    "word": "development",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The process of developing; growth, directed change.",
+    "synonyms": "growth, progress",
+    "example_Sentence": "Child development is crucial."
+  },
+  {
+    "word": "technology",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The organization of knowledge for practical purposes.",
+    "synonyms": "innovation, science",
+    "example_Sentence": "Modern technology helps us."
+  },
+  {
+    "word": "economy",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Effective management of a community or system, or especially its resources.",
+    "synonyms": "financial, commerce",
+    "example_Sentence": "The economy is growing."
+  },
+  {
+    "word": "science",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A particular discipline or branch of learning, especially one dealing with measurable or systematic principles rather than intuition or natural ability.",
+    "synonyms": "research, study",
+    "example_Sentence": "Science advances rapidly."
+  },
+  {
+    "word": "research",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Diligent inquiry or examination to seek or revise facts, principles, theories, applications, etc.; laborious or continued search after truth.",
+    "synonyms": "investigation, study",
+    "example_Sentence": "Medical research saves lives."
+  },
+  {
+    "word": "project",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A planned endeavor, usually with a specific goal and accomplished in several steps or stages.",
+    "synonyms": "task, assignment",
+    "example_Sentence": "We're working on a project."
+  },
+  {
+    "word": "system",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A collection of organized things; a whole composed of relationships among its members.",
+    "synonyms": "method, structure",
+    "example_Sentence": "The system works well."
+  },
+  {
+    "word": "quality",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Level of excellence.",
+    "synonyms": "standard, excellence",
+    "example_Sentence": "High quality products."
+  },
+  {
+    "word": "variety",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The quality of being varied; diversity.",
+    "synonyms": "diversity, range",
+    "example_Sentence": "Great variety of foods."
+  },
+  {
+    "word": "category",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A group, often named or numbered, to which items are assigned based on similarity or defined criteria.",
+    "synonyms": "class, type",
+    "example_Sentence": "Different categories available."
+  },
+  {
+    "word": "structure",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A cohesive whole built up of distinct parts.",
+    "synonyms": "framework, organization",
+    "example_Sentence": "The building's structure."
+  },
+  {
+    "word": "function",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "What something does or is used for.",
+    "synonyms": "purpose, role",
+    "example_Sentence": "Each part has a function."
+  },
+  {
+    "word": "material",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Matter which may be shaped or manipulated, particularly in making something.",
+    "synonyms": "substance, fabric",
+    "example_Sentence": "Quality materials used."
+  },
+  {
+    "word": "equipment",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of equipping, or the state of being equipped, as for a voyage or expedition.",
+    "synonyms": "tools, apparatus",
+    "example_Sentence": "Modern equipment needed."
+  },
+  {
+    "word": "facility",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The fact of being easy, or easily done; absence of difficulty, simplicity.",
+    "synonyms": "building, service",
+    "example_Sentence": "Sports facility opened."
+  },
+  {
+    "word": "method",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A process by which a task is completed; a way of doing something (followed by the adposition of, to or for before the purpose of the process):",
+    "synonyms": "approach, technique",
+    "example_Sentence": "Effective teaching method."
+  },
+  {
+    "word": "technique",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The practical aspects of a given art, occupation etc.; formal requirements.",
+    "synonyms": "method, skill",
+    "example_Sentence": "New surgical technique."
+  },
+  {
+    "word": "strategy",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The science and art of military command as applied to the overall planning and conduct of warfare.",
+    "synonyms": "plan, approach",
+    "example_Sentence": "Marketing strategy works."
+  },
+  {
+    "word": "policy",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A principle of behaviour, conduct etc. thought to be desirable or necessary, especially as formally expressed by a government or other authoritative body.",
+    "synonyms": "rule, guideline",
+    "example_Sentence": "New company policy."
+  },
+  {
+    "word": "procedure",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A particular method for performing a task.",
+    "synonyms": "process, protocol",
+    "example_Sentence": "Follow safety procedures."
+  },
+  {
+    "word": "standard",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A principle or example or measure used for comparison.",
+    "synonyms": "quality, benchmark",
+    "example_Sentence": "High standards maintained."
+  },
+  {
+    "word": "requirement",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A necessity or prerequisite; something required or obligatory. Its adpositions are generally of in relation to who or what has given it, on in relation to whom or what it is given to, and for in relation to what is required.",
+    "synonyms": "condition, necessity",
+    "example_Sentence": "Meet all requirements."
+  },
+  {
+    "word": "advantage",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Any condition, circumstance, opportunity or means, particularly favorable to success, or to any desired end.",
+    "synonyms": "benefit, plus",
+    "example_Sentence": "Major advantage for us."
+  },
+  {
+    "word": "disadvantage",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A weakness or undesirable characteristic; a con.",
+    "synonyms": "drawback, minus",
+    "example_Sentence": "One clear disadvantage."
+  },
+  {
+    "word": "benefit",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An advantage; help or aid from something.",
+    "synonyms": "advantage, gain",
+    "example_Sentence": "Health benefits proven."
+  },
+  {
+    "word": "consequence",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "That which follows something on which it depends; that which is produced by a cause.",
+    "synonyms": "result, effect",
+    "example_Sentence": "Actions have consequences."
+  },
+  {
+    "word": "influence",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The power to affect, control or manipulate something or someone; the ability to change the development of fluctuating things such as conduct, thoughts or decisions.",
+    "synonyms": "impact, effect",
+    "example_Sentence": "Strong parental influence."
+  },
+  {
+    "word": "impact",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/impact-uk.mp3",
+    "definitions": "The striking of one body against another; collision.",
+    "synonyms": "effect, influence",
+    "example_Sentence": "Positive impact on society."
+  },
+  {
+    "word": "achievement",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of achieving or performing; a successful performance; accomplishment",
+    "synonyms": "accomplishment, success",
+    "example_Sentence": "Great achievement for team."
+  },
+  {
+    "word": "performance",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of performing; carrying into execution or action; execution; achievement; accomplishment; representation by action.",
+    "synonyms": "execution, showing",
+    "example_Sentence": "Excellent performance today."
+  },
+  {
+    "word": "improvement",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of improving; advancement or growth; a bettering",
+    "synonyms": "enhancement, betterment",
+    "example_Sentence": "Room for improvement exists."
+  },
+  {
+    "word": "solution",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A homogeneous mixture, which may be liquid, gas or solid, formed by dissolving one or more substances.",
+    "synonyms": "answer, resolution",
+    "example_Sentence": "Found the perfect solution."
+  },
+  {
+    "word": "challenge",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A confrontation; a dare.",
+    "synonyms": "difficulty, obstacle",
+    "example_Sentence": "Face the challenge ahead."
+  },
+  {
+    "word": "difficulty",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The state of being difficult, or hard to do.",
+    "synonyms": "problem, challenge",
+    "example_Sentence": "Overcome every difficulty."
+  },
+  {
+    "word": "success",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The achievement of one's aim or goal.",
+    "synonyms": "achievement, victory",
+    "example_Sentence": "Success requires hard work."
+  },
+  {
+    "word": "failure",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "State or condition of not meeting a desirable or intended objective, opposite of success.",
+    "synonyms": "defeat, setback",
+    "example_Sentence": "Learn from failure."
+  },
+  {
+    "word": "mistake",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An error; a blunder.",
+    "synonyms": "error, blunder",
+    "example_Sentence": "Everyone makes mistakes."
+  },
+  {
+    "word": "accident",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences.",
+    "synonyms": "mishap, incident",
+    "example_Sentence": "Car accident yesterday."
+  },
+  {
+    "word": "incident",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An event or occurrence.",
+    "synonyms": "event, occurrence",
+    "example_Sentence": "Strange incident happened."
+  },
+  {
+    "word": "event",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An occurrence; something that happens.",
+    "synonyms": "occasion, function",
+    "example_Sentence": "Social event tonight."
+  },
+  {
+    "word": "occasion",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A favorable opportunity; a convenient or timely chance.",
+    "synonyms": "event, time",
+    "example_Sentence": "Special occasion celebrated."
+  },
+  {
+    "word": "ceremony",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A ritual, with religious or cultural significance.",
+    "synonyms": "ritual, service",
+    "example_Sentence": "Wedding ceremony beautiful."
+  },
+  {
+    "word": "tradition",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A part of culture that is passed from person to person or generation to generation, possibly differing in detail from family to family, such as the way to celebrate holidays.",
+    "synonyms": "custom, heritage",
+    "example_Sentence": "Family tradition continues."
+  },
+  {
+    "word": "custom",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Frequent repetition of the same behavior; way of behavior common to many; ordinary manner; habitual practice; method of doing, living or behaving.",
+    "synonyms": "tradition, practice",
+    "example_Sentence": "Local custom observed."
+  },
+  {
+    "word": "habit",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An action performed on a regular basis.",
+    "synonyms": "routine, pattern",
+    "example_Sentence": "Good eating habits."
+  },
+  {
+    "word": "behavior",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Human conduct relative to social norms.",
+    "synonyms": "conduct, manner",
+    "example_Sentence": "Polite behavior expected."
+  },
+  {
+    "word": "attitude",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The position of the body or way of carrying oneself.",
+    "synonyms": "mindset, outlook",
+    "example_Sentence": "Positive attitude helps."
+  },
+  {
+    "word": "opinion",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A subjective belief, judgment or perspective that a person has formed about a topic, issue, person or thing.",
+    "synonyms": "view, belief",
+    "example_Sentence": "In my opinion..."
+  },
+  {
+    "word": "belief",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Mental acceptance of a claim as true.",
+    "synonyms": "faith, conviction",
+    "example_Sentence": "Religious beliefs vary."
+  },
+  {
+    "word": "knowledge",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The fact of knowing about something; general understanding or familiarity with a subject, place, situation etc.",
+    "synonyms": "understanding, learning",
+    "example_Sentence": "Extensive knowledge required."
+  },
+  {
+    "word": "skill",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Capacity to do something well; technique, ability. Skills are usually acquired or learned, as opposed to abilities, which are often thought of as innate.",
+    "synonyms": "ability, talent",
+    "example_Sentence": "Technical skills needed."
+  },
+  {
+    "word": "ability",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Suitableness.",
+    "synonyms": "skill, capability",
+    "example_Sentence": "Natural ability shown."
+  },
+  {
+    "word": "talent",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A marked natural ability or skill.",
+    "synonyms": "gift, ability",
+    "example_Sentence": "Artistic talent evident."
+  },
+  {
+    "word": "interest",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The price paid for obtaining, or price received for providing, money or goods in a credit transaction, calculated as a fraction of the amount or value of what was borrowed.",
+    "synonyms": "curiosity, concern",
+    "example_Sentence": "Growing interest in art."
+  },
+  {
+    "word": "attention",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Mental focus.",
+    "synonyms": "focus, concentration",
+    "example_Sentence": "Pay attention please."
+  },
+  {
+    "word": "concentration",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act, process or ability of concentrating; the process of becoming concentrated, or the state of being concentrated.",
+    "synonyms": "focus, attention",
+    "example_Sentence": "Requires full concentration."
+  },
+  {
+    "word": "memory",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The ability of the brain to record information or impressions with the facility of recalling them later at will.",
+    "synonyms": "recollection, recall",
+    "example_Sentence": "Good memory helpful."
+  },
+  {
+    "word": "imagination",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The image-making power of the mind; the act of mentally creating or reproducing an object not previously perceived; the ability to create such images.",
+    "synonyms": "creativity, fantasy",
+    "example_Sentence": "Wild imagination displayed."
+  },
+  {
+    "word": "creativity",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The ability to use imagination to produce a novel idea or product that is useful to society.",
+    "synonyms": "imagination, innovation",
+    "example_Sentence": "Artistic creativity flourishes."
+  },
+  {
+    "word": "intelligence",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Capacity of mind, especially to understand principles, truths, facts or meanings, acquire knowledge, and apply it to practice; the ability to comprehend and learn.",
+    "synonyms": "smartness, brilliance",
+    "example_Sentence": "High intelligence evident."
+  },
+  {
+    "word": "understanding",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(gerund) The act of one that understands or comprehends; comprehension; knowledge; discernment.",
+    "synonyms": "comprehension, grasp",
+    "example_Sentence": "Clear understanding needed."
+  },
+  {
+    "word": "confusion",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A lack of clarity or order.",
+    "synonyms": "bewilderment, uncertainty",
+    "example_Sentence": "Confusion about rules."
+  },
+  {
+    "word": "curiosity",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(uncountable) Inquisitiveness; the tendency to ask and learn about things by asking questions, investigating, or exploring.",
+    "synonyms": "interest, wonder",
+    "example_Sentence": "Natural curiosity encouraged."
+  },
+  {
+    "word": "surprise",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Something unexpected.",
+    "synonyms": "shock, amazement",
+    "example_Sentence": "Complete surprise party."
+  },
+  {
+    "word": "emotion",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A person's internal state of being and involuntary physiological response to an object or a situation, based on or tied to physical state and sensory data.",
+    "synonyms": "feeling, sentiment",
+    "example_Sentence": "Mixed emotions felt."
+  },
+  {
+    "word": "mood",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A mental or emotional state, composure.",
+    "synonyms": "spirit, disposition",
+    "example_Sentence": "Good mood today."
+  },
+  {
+    "word": "character",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A being involved in the action of a story.",
+    "synonyms": "personality, nature",
+    "example_Sentence": "Strong moral character."
+  },
+  {
+    "word": "reputation",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "What somebody is known for.",
+    "synonyms": "standing, image",
+    "example_Sentence": "Excellent reputation maintained."
+  },
+  {
+    "word": "trust",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Confidence in or reliance on some person or quality.",
+    "synonyms": "confidence, faith",
+    "example_Sentence": "Complete trust established."
+  },
+  {
+    "word": "confidence",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Self-assurance.",
+    "synonyms": "assurance, trust",
+    "example_Sentence": "Growing confidence shown."
+  },
+  {
+    "word": "courage",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The quality of being confident, not afraid or easily intimidated, but without being incautious or inconsiderate.",
+    "synonyms": "bravery, valor",
+    "example_Sentence": "Moral courage displayed."
+  },
+  {
+    "word": "fear",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A strong, uncontrollable, unpleasant emotion or feeling caused by actual or perceived danger or threat.",
+    "synonyms": "anxiety, dread",
+    "example_Sentence": "Natural fear reaction."
+  },
+  {
+    "word": "worry",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A strong feeling of anxiety.",
+    "synonyms": "concern, anxiety",
+    "example_Sentence": "Constant worry unnecessary."
+  },
+  {
+    "word": "stress",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(Cause of) discomfort.",
+    "synonyms": "pressure, tension",
+    "example_Sentence": "Work stress manageable."
+  },
+  {
+    "word": "pressure",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A pressing; a force applied to a surface.",
+    "synonyms": "stress, force",
+    "example_Sentence": "Social pressure felt."
+  },
+  {
+    "word": "comfort",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Contentment, ease.",
+    "synonyms": "ease, relief",
+    "example_Sentence": "Physical comfort important."
+  },
+  {
+    "word": "relief",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The removal of stress or discomfort.",
+    "synonyms": "comfort, ease",
+    "example_Sentence": "Great relief felt."
+  },
+  {
+    "word": "pleasure",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A state of being pleased or contented; gratification.",
+    "synonyms": "enjoyment, delight",
+    "example_Sentence": "Simple pleasures enjoyed."
+  },
+  {
+    "word": "satisfaction",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A fulfilment of a need or desire.",
+    "synonyms": "contentment, fulfillment",
+    "example_Sentence": "Job satisfaction high."
+  },
+  {
+    "word": "disappointment",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A feeling of sadness or frustration when a strongly held expectation is not met.",
+    "synonyms": "letdown, dismay",
+    "example_Sentence": "Deep disappointment felt."
+  },
+  {
+    "word": "passion",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Any great, strong, powerful emotion, especially romantic love or extreme hate.",
+    "synonyms": "enthusiasm, love",
+    "example_Sentence": "Passion for music."
+  },
+  {
+    "word": "desire",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Someone or something wished for.",
+    "synonyms": "wish, craving",
+    "example_Sentence": "Desire for success."
+  },
+  {
+    "word": "dream",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Imaginary events seen in the mind while sleeping.",
+    "synonyms": "aspiration, goal",
+    "example_Sentence": "Follow your dreams."
+  },
+  {
+    "word": "goal",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A result that one is attempting to achieve.",
+    "synonyms": "objective, target",
+    "example_Sentence": "Clear goals set."
+  },
+  {
+    "word": "purpose",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An objective to be reached; a target; an aim; a goal.",
+    "synonyms": "aim, objective",
+    "example_Sentence": "Clear purpose defined."
+  },
+  {
+    "word": "intention",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The goal or purpose behind a specific action or set of actions.",
+    "synonyms": "purpose, aim",
+    "example_Sentence": "Good intentions shown."
+  },
+  {
+    "word": "decision",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of deciding.",
+    "synonyms": "choice, determination",
+    "example_Sentence": "Important decision needed."
+  },
+  {
+    "word": "choice",
+    "level": "Intermediate",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An option; a decision; an opportunity to choose or select something.",
+    "synonyms": "option, selection",
+    "example_Sentence": "Difficult choice ahead."
+  },
+  {
+    "word": "achieve",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To succeed in something, now especially in academic performance.",
+    "synonyms": "accomplish, attain",
+    "example_Sentence": "We can achieve our goals."
+  },
+  {
+    "word": "accomplish",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To finish successfully.",
+    "synonyms": "achieve, complete",
+    "example_Sentence": "She accomplished the task."
+  },
+  {
+    "word": "acquire",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To get.",
+    "synonyms": "obtain, gain",
+    "example_Sentence": "Acquire new skills."
+  },
+  {
+    "word": "adapt",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make suitable; to make to correspond; to fit or suit",
+    "synonyms": "adjust, modify",
+    "example_Sentence": "Adapt to new environment."
+  },
+  {
+    "word": "analyze",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To subject to analysis.",
+    "synonyms": "examine, study",
+    "example_Sentence": "Analyze the data carefully."
+  },
+  {
+    "word": "approach",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To come or go near, in place or time; to draw nigh; to advance nearer.",
+    "synonyms": "near, tackle",
+    "example_Sentence": "Approach the problem systematically."
+  },
+  {
+    "word": "arrange",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To set up; to organize; to put into an orderly sequence or arrangement.",
+    "synonyms": "organize, plan",
+    "example_Sentence": "Arrange the meeting for Monday."
+  },
+  {
+    "word": "assess",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To determine, estimate or judge the value of; to evaluate",
+    "synonyms": "evaluate, judge",
+    "example_Sentence": "Assess the situation first."
+  },
+  {
+    "word": "attempt",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To try.",
+    "synonyms": "try, endeavor",
+    "example_Sentence": "Attempt the difficult question."
+  },
+  {
+    "word": "avoid",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To try not to meet or communicate with (a person); to shun",
+    "synonyms": "prevent, dodge",
+    "example_Sentence": "Avoid making mistakes."
+  },
+  {
+    "word": "benefit",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To be or to provide a benefit to.",
+    "synonyms": "help, advantage",
+    "example_Sentence": "This will benefit everyone."
+  },
+  {
+    "word": "communicate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To impart",
+    "synonyms": "convey, express",
+    "example_Sentence": "Communicate clearly with team."
+  },
+  {
+    "word": "compare",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To assess the similarities and differences between two or more things [\"to compare X with Y\"]. Having made the comparison of X with Y, one might have found it similar to Y or different from Y.",
+    "synonyms": "contrast, evaluate",
+    "example_Sentence": "Compare the two options."
+  },
+  {
+    "word": "compete",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To be in battle or in a rivalry with another for the same thing, position, or reward; to contend",
+    "synonyms": "contest, rival",
+    "example_Sentence": "Companies compete for market."
+  },
+  {
+    "word": "complete",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To finish; to make done; to reach the end.",
+    "synonyms": "finish, conclude",
+    "example_Sentence": "Complete the assignment today."
+  },
+  {
+    "word": "concentrate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring to, or direct toward, a common center; to unite more closely; to gather into one body, mass, or force.",
+    "synonyms": "focus, center",
+    "example_Sentence": "Concentrate on your studies."
+  },
+  {
+    "word": "conclude",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To end; to come to an end.",
+    "synonyms": "end, determine",
+    "example_Sentence": "Conclude the presentation."
+  },
+  {
+    "word": "confirm",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To strengthen; to make firm or resolute.",
+    "synonyms": "verify, validate",
+    "example_Sentence": "Confirm your attendance."
+  },
+  {
+    "word": "connect",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of an object) To join (to another object): to attach, or to be intended to attach or capable of attaching, to another object.",
+    "synonyms": "link, join",
+    "example_Sentence": "Connect the cables properly."
+  },
+  {
+    "word": "consider",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To think about seriously.",
+    "synonyms": "think, ponder",
+    "example_Sentence": "Consider all options."
+  },
+  {
+    "word": "construct",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To build or form (something) by assembling parts.",
+    "synonyms": "build, create",
+    "example_Sentence": "Construct a new building."
+  },
+  {
+    "word": "contribute",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To give something that is or becomes part of a larger whole.",
+    "synonyms": "give, add",
+    "example_Sentence": "Contribute to the discussion."
+  },
+  {
+    "word": "control",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To exercise influence over; to suggest or dictate the behavior of.",
+    "synonyms": "manage, regulate",
+    "example_Sentence": "Control your emotions."
+  },
+  {
+    "word": "convert",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To transform or change (something) into another form, substance, state, or product.",
+    "synonyms": "change, transform",
+    "example_Sentence": "Convert the file format."
+  },
+  {
+    "word": "convince",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make someone believe, or feel sure about something, especially by using logic, argument or evidence.",
+    "synonyms": "persuade, influence",
+    "example_Sentence": "Convince them to join."
+  },
+  {
+    "word": "create",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring into existence; (sometimes in particular:)",
+    "synonyms": "make, produce",
+    "example_Sentence": "Create innovative solutions."
+  },
+  {
+    "word": "criticize",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To find fault (with something).",
+    "synonyms": "judge, condemn",
+    "example_Sentence": "Don't criticize without understanding."
+  },
+  {
+    "word": "debate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To participate in a debate; to dispute, argue, especially in a public arena.",
+    "synonyms": "argue, discuss",
+    "example_Sentence": "Debate the important issues."
+  },
+  {
+    "word": "define",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To determine with precision; to mark out with distinctness; to ascertain or exhibit clearly.",
+    "synonyms": "explain, describe",
+    "example_Sentence": "Define the key terms."
+  },
+  {
+    "word": "demonstrate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To show how to use (something).",
+    "synonyms": "show, display",
+    "example_Sentence": "Demonstrate the technique."
+  },
+  {
+    "word": "depend",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(followed by on or upon, formerly also by of) To be contingent or conditioned; to have something as a necessary condition; to hinge on.",
+    "synonyms": "rely, count",
+    "example_Sentence": "Success depends on effort."
+  },
+  {
+    "word": "describe",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To represent in words.",
+    "synonyms": "explain, detail",
+    "example_Sentence": "Describe your experience."
+  },
+  {
+    "word": "design",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To plan and carry out (a picture, work of art, construction etc.).",
+    "synonyms": "plan, create",
+    "example_Sentence": "Design a better system."
+  },
+  {
+    "word": "develop",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To change with a specific direction, progress.",
+    "synonyms": "grow, advance",
+    "example_Sentence": "Develop new skills."
+  },
+  {
+    "word": "discover",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To find or learn something for the first time.",
+    "synonyms": "find, uncover",
+    "example_Sentence": "Discover new opportunities."
+  },
+  {
+    "word": "discuss",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To converse or debate concerning a particular topic.",
+    "synonyms": "talk, debate",
+    "example_Sentence": "Discuss the proposal."
+  },
+  {
+    "word": "distinguish",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To recognize someone or something as different from others based on its characteristics.",
+    "synonyms": "differentiate, separate",
+    "example_Sentence": "Distinguish fact from opinion."
+  },
+  {
+    "word": "distribute",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To divide into portions and dispense.",
+    "synonyms": "give, spread",
+    "example_Sentence": "Distribute the materials."
+  },
+  {
+    "word": "encourage",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To mentally support; to motivate, give courage, hope or spirit.",
+    "synonyms": "support, motivate",
+    "example_Sentence": "Encourage students to participate."
+  },
+  {
+    "word": "establish",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make stable or firm; to confirm.",
+    "synonyms": "create, found",
+    "example_Sentence": "Establish clear guidelines."
+  },
+  {
+    "word": "estimate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To calculate roughly, often from imperfect data.",
+    "synonyms": "calculate, assess",
+    "example_Sentence": "Estimate the total cost."
+  },
+  {
+    "word": "evaluate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To draw conclusions from examining; to assess.",
+    "synonyms": "assess, judge",
+    "example_Sentence": "Evaluate the results."
+  },
+  {
+    "word": "examine",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To observe or inspect carefully or critically",
+    "synonyms": "inspect, study",
+    "example_Sentence": "Examine all evidence."
+  },
+  {
+    "word": "exchange",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "trade, swap",
+    "example_Sentence": "Exchange ideas freely."
+  },
+  {
+    "word": "explain",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make plain, manifest, or intelligible; to clear of obscurity; to illustrate the meaning of.",
+    "synonyms": "clarify, describe",
+    "example_Sentence": "Explain the process."
+  },
+  {
+    "word": "explore",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To seek for something or after someone.",
+    "synonyms": "investigate, discover",
+    "example_Sentence": "Explore new possibilities."
+  },
+  {
+    "word": "express",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "communicate, convey",
+    "example_Sentence": "Express your opinions."
+  },
+  {
+    "word": "generate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring into being; give rise to.",
+    "synonyms": "create, produce",
+    "example_Sentence": "Generate new ideas."
+  },
+  {
+    "word": "identify",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To establish the identity of someone or something.",
+    "synonyms": "recognize, determine",
+    "example_Sentence": "Identify the main problem."
+  },
+  {
+    "word": "implement",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "execute, apply",
+    "example_Sentence": "Implement the new policy."
+  },
+  {
+    "word": "improve",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make (something) better; to increase the value or productivity (of something).",
+    "synonyms": "enhance, better",
+    "example_Sentence": "Improve your performance."
+  },
+  {
+    "word": "increase",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of a quantity, etc.) To become larger or greater.",
+    "synonyms": "raise, boost",
+    "example_Sentence": "Increase productivity."
+  },
+  {
+    "word": "indicate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To point out; to discover; to direct to a knowledge of; to show; to make known.",
+    "synonyms": "show, suggest",
+    "example_Sentence": "Results indicate success."
+  },
+  {
+    "word": "influence",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To have an effect on by using gentle or subtle action; to exert an influence upon; to modify, bias, or sway; to persuade or induce.",
+    "synonyms": "affect, impact",
+    "example_Sentence": "Influence positive change."
+  },
+  {
+    "word": "inform",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To instruct, train (usually in matters of knowledge).",
+    "synonyms": "tell, notify",
+    "example_Sentence": "Inform everyone about changes."
+  },
+  {
+    "word": "interpret",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To explain or tell the meaning of; to translate orally into intelligible or familiar language or terms. applied especially to language, but also to dreams, signs, conduct, mysteries, etc.",
+    "synonyms": "explain, understand",
+    "example_Sentence": "Interpret the data."
+  },
+  {
+    "word": "investigate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To inquire into or study in order to ascertain facts or information.",
+    "synonyms": "examine, research",
+    "example_Sentence": "Investigate the problem."
+  },
+  {
+    "word": "maintain",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To support (someone), to back up or assist (someone) in an action.",
+    "synonyms": "keep, preserve",
+    "example_Sentence": "Maintain high standards."
+  },
+  {
+    "word": "manage",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To direct or be in charge of.",
+    "synonyms": "control, handle",
+    "example_Sentence": "Manage time effectively."
+  },
+  {
+    "word": "modify",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To change part of.",
+    "synonyms": "change, alter",
+    "example_Sentence": "Modify the original plan."
+  },
+  {
+    "word": "motivate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To provide someone with an incentive to do something; to encourage.",
+    "synonyms": "inspire, encourage",
+    "example_Sentence": "Motivate team members."
+  },
+  {
+    "word": "negotiate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To confer with others in order to come to terms or reach an agreement.",
+    "synonyms": "bargain, discuss",
+    "example_Sentence": "Negotiate the contract."
+  },
+  {
+    "word": "observe",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To notice or view, especially carefully or with attention to detail.",
+    "synonyms": "watch, notice",
+    "example_Sentence": "Observe the changes."
+  },
+  {
+    "word": "obtain",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To get hold of; to gain possession of, to procure; to acquire, in any way.",
+    "synonyms": "get, acquire",
+    "example_Sentence": "Obtain necessary permits."
+  },
+  {
+    "word": "occur",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To happen or take place.",
+    "synonyms": "happen, arise",
+    "example_Sentence": "Problems may occur."
+  },
+  {
+    "word": "operate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To perform a work or labour; to exert power or strength, physical or mechanical; to act.",
+    "synonyms": "run, function",
+    "example_Sentence": "Operate the machinery."
+  },
+  {
+    "word": "organize",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To arrange in working order.",
+    "synonyms": "arrange, plan",
+    "example_Sentence": "Organize the event."
+  },
+  {
+    "word": "participate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To join in, to take part, to involve oneself (in something).",
+    "synonyms": "join, engage",
+    "example_Sentence": "Participate actively."
+  },
+  {
+    "word": "perform",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To do something; to execute.",
+    "synonyms": "execute, do",
+    "example_Sentence": "Perform the task well."
+  },
+  {
+    "word": "plan",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To design (a building, machine, etc.).",
+    "synonyms": "prepare, organize",
+    "example_Sentence": "Plan the project carefully."
+  },
+  {
+    "word": "predict",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make a prediction: to forecast, foretell, or estimate a future event on the basis of knowledge and reasoning; to prophesy a future event on the basis of mystical knowledge or power.",
+    "synonyms": "forecast, anticipate",
+    "example_Sentence": "Predict future trends."
+  },
+  {
+    "word": "prepare",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make ready for a specific future purpose; to set up; to assemble or equip.",
+    "synonyms": "ready, arrange",
+    "example_Sentence": "Prepare for the meeting."
+  },
+  {
+    "word": "present",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "show, display",
+    "example_Sentence": "Present the findings."
+  },
+  {
+    "word": "prevent",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To stop (an outcome); to keep from (doing something).",
+    "synonyms": "stop, avoid",
+    "example_Sentence": "Prevent future problems."
+  },
+  {
+    "word": "produce",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To yield, make or manufacture; to generate.",
+    "synonyms": "make, create",
+    "example_Sentence": "Produce quality results."
+  },
+  {
+    "word": "promote",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To raise (someone) to a more important, responsible, or remunerative job or rank.",
+    "synonyms": "advance, encourage",
+    "example_Sentence": "Promote teamwork."
+  },
+  {
+    "word": "propose",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To suggest a plan, course of action, etc.",
+    "synonyms": "suggest, recommend",
+    "example_Sentence": "Propose a solution."
+  },
+  {
+    "word": "protect",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To keep safe; to defend; to guard; to prevent harm coming to.",
+    "synonyms": "guard, shield",
+    "example_Sentence": "Protect the environment."
+  },
+  {
+    "word": "provide",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make a living; earn money for necessities.",
+    "synonyms": "supply, give",
+    "example_Sentence": "Provide necessary resources."
+  },
+  {
+    "word": "publish",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To issue (something, such as printed work) for distribution and/or sale.",
+    "synonyms": "release, issue",
+    "example_Sentence": "Publish the report."
+  },
+  {
+    "word": "purchase",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To buy, obtain by payment of a price in money or its equivalent.",
+    "synonyms": "buy, acquire",
+    "example_Sentence": "Purchase new equipment."
+  },
+  {
+    "word": "react",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To act or perform a second time; to do over again; to reenact.",
+    "synonyms": "respond, reply",
+    "example_Sentence": "React quickly to changes."
+  },
+  {
+    "word": "recommend",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bestow commendation on; to represent favourably; to suggest, endorse or encourage as an appropriate choice.",
+    "synonyms": "suggest, advise",
+    "example_Sentence": "Recommend the best option."
+  },
+  {
+    "word": "reduce",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bring down the size, quantity, quality, value or intensity of something; to diminish, to lower.",
+    "synonyms": "decrease, lower",
+    "example_Sentence": "Reduce unnecessary costs."
+  },
+  {
+    "word": "refer",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To direct the attention of.",
+    "synonyms": "mention, direct",
+    "example_Sentence": "Refer to page ten."
+  },
+  {
+    "word": "reflect",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To bend back (light, etc.) from a surface.",
+    "synonyms": "consider, ponder",
+    "example_Sentence": "Reflect on your experience."
+  },
+  {
+    "word": "relate",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To tell in a descriptive way.",
+    "synonyms": "connect, associate",
+    "example_Sentence": "Relate theory to practice."
+  },
+  {
+    "word": "replace",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To restore to a former place, position, condition, etc.; to put back",
+    "synonyms": "substitute, change",
+    "example_Sentence": "Replace old equipment."
+  },
+  {
+    "word": "represent",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To present again or anew; to present by means of something standing in the place of; to exhibit the counterpart or image of; to typify.",
+    "synonyms": "symbolize, stand",
+    "example_Sentence": "Represent the company."
+  },
+  {
+    "word": "require",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To ask (someone) for something; to request.",
+    "synonyms": "need, demand",
+    "example_Sentence": "This job requires skill."
+  },
+  {
+    "word": "research",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To search or examine with continued care; to seek diligently.",
+    "synonyms": "investigate, study",
+    "example_Sentence": "Research the topic thoroughly."
+  },
+  {
+    "word": "resolve",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To find a solution to (a problem).",
+    "synonyms": "solve, settle",
+    "example_Sentence": "Resolve the conflict."
+  },
+  {
+    "word": "respond",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To say something in return; to answer; to reply.",
+    "synonyms": "reply, answer",
+    "example_Sentence": "Respond to the question."
+  },
+  {
+    "word": "result",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To proceed, spring up or rise, as a consequence, from facts, arguments, premises, combination of circumstances, consultation, thought or endeavor.",
+    "synonyms": "cause, lead",
+    "example_Sentence": "Hard work results in success."
+  },
+  {
+    "word": "reveal",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To uncover; to show and display that which was hidden.",
+    "synonyms": "show, expose",
+    "example_Sentence": "Reveal the truth."
+  },
+  {
+    "word": "review",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To survey; to look broadly over.",
+    "synonyms": "examine, check",
+    "example_Sentence": "Review your work."
+  },
+  {
+    "word": "structure",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To give structure to; to arrange.",
+    "synonyms": "organize, arrange",
+    "example_Sentence": "Structure the presentation."
+  },
+  {
+    "word": "suggest",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To imply but stop short of saying explicitly.",
+    "synonyms": "propose, recommend",
+    "example_Sentence": "Suggest improvements."
+  },
+  {
+    "word": "support",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To keep from falling.",
+    "synonyms": "help, back",
+    "example_Sentence": "Support the initiative."
+  },
+  {
+    "word": "update",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/update-uk.mp3",
+    "definitions": "To bring (a thing) up to date.",
+    "synonyms": "refresh, revise",
+    "example_Sentence": "Update the information."
+  },
+  {
+    "word": "utilize",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make use of; to use.",
+    "synonyms": "use, employ",
+    "example_Sentence": "Utilize available resources."
+  },
+  {
+    "word": "vary",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To change with time or a similar parameter.",
+    "synonyms": "change, differ",
+    "example_Sentence": "Prices vary by location."
+  },
+  {
+    "word": "verify",
+    "level": "Intermediate",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To substantiate or prove the truth of something",
+    "synonyms": "confirm, check",
+    "example_Sentence": "Verify the accuracy."
+  },
+  {
+    "word": "accurate",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Telling the truth or giving a true result; exact; not defective or faulty",
+    "synonyms": "precise, correct",
+    "example_Sentence": "Accurate measurements needed."
+  },
+  {
+    "word": "adequate",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Equal to or fulfilling some requirement.",
+    "synonyms": "sufficient, enough",
+    "example_Sentence": "Adequate funding provided."
+  },
+  {
+    "word": "alternative",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Relating to a choice between two or more possibilities.",
+    "synonyms": "different, other",
+    "example_Sentence": "Consider alternative solutions."
+  },
+  {
+    "word": "appropriate",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Suitable or fit; proper.",
+    "synonyms": "suitable, proper",
+    "example_Sentence": "Appropriate behavior expected."
+  },
+  {
+    "word": "available",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Such as one may avail oneself of; capable of being used for the accomplishment of a purpose.",
+    "synonyms": "accessible, ready",
+    "example_Sentence": "Resources are available."
+  },
+  {
+    "word": "complex",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Made up of multiple parts; composite; not simple.",
+    "synonyms": "complicated, intricate",
+    "example_Sentence": "Complex problem to solve."
+  },
+  {
+    "word": "comprehensive",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Broadly or completely covering; including a large proportion of something.",
+    "synonyms": "complete, thorough",
+    "example_Sentence": "Comprehensive study conducted."
+  },
+  {
+    "word": "consistent",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of a regularly occurring, dependable nature.",
+    "synonyms": "steady, uniform",
+    "example_Sentence": "Consistent quality maintained."
+  },
+  {
+    "word": "creative",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Tending to create things, or having the ability to create; often, excellently, in a novel fashion, or any or all of these.",
+    "synonyms": "original, innovative",
+    "example_Sentence": "Creative solutions needed."
+  },
+  {
+    "word": "critical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Inclined to find fault or criticize",
+    "synonyms": "crucial, vital",
+    "example_Sentence": "Critical decision ahead."
+  },
+  {
+    "word": "current",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Existing or occurring at the moment",
+    "synonyms": "present, existing",
+    "example_Sentence": "Current situation analyzed."
+  },
+  {
+    "word": "diverse",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Consisting of many different elements; various.",
+    "synonyms": "varied, different",
+    "example_Sentence": "Diverse backgrounds represented."
+  },
+  {
+    "word": "domestic",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or relating to the home.",
+    "synonyms": "home, internal",
+    "example_Sentence": "Domestic products preferred."
+  },
+  {
+    "word": "economic",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to an economy.",
+    "synonyms": "financial, monetary",
+    "example_Sentence": "Economic growth expected."
+  },
+  {
+    "word": "effective",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having the power to produce a required effect or effects.",
+    "synonyms": "successful, efficient",
+    "example_Sentence": "Effective teaching methods."
+  },
+  {
+    "word": "efficient",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Making good, thorough, or careful use of resources; not consuming extra. Especially, making good use of time or energy",
+    "synonyms": "productive, effective",
+    "example_Sentence": "Efficient use of time."
+  },
+  {
+    "word": "environmental",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to the environment.",
+    "synonyms": "ecological, natural",
+    "example_Sentence": "Environmental concerns addressed."
+  },
+  {
+    "word": "essential",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Necessary.",
+    "synonyms": "vital, crucial",
+    "example_Sentence": "Essential skills required."
+  },
+  {
+    "word": "ethical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or relating to the study of ethics.",
+    "synonyms": "moral, principled",
+    "example_Sentence": "Ethical business practices."
+  },
+  {
+    "word": "external",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Outside of something; on the exterior.",
+    "synonyms": "outside, foreign",
+    "example_Sentence": "External factors considered."
+  },
+  {
+    "word": "flexible",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Capable of being flexed or bent without breaking; able to be turned or twisted without breaking.",
+    "synonyms": "adaptable, adjustable",
+    "example_Sentence": "Flexible working hours."
+  },
+  {
+    "word": "formal",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Being in accord with established forms.",
+    "synonyms": "official, proper",
+    "example_Sentence": "Formal dress required."
+  },
+  {
+    "word": "frequent",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Done or occurring often; common.",
+    "synonyms": "regular, common",
+    "example_Sentence": "Frequent communication needed."
+  },
+  {
+    "word": "fundamental",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to the foundation or basis; serving for the foundation.",
+    "synonyms": "basic, essential",
+    "example_Sentence": "Fundamental principles taught."
+  },
+  {
+    "word": "global",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Concerning all parts of the world.",
+    "synonyms": "worldwide, international",
+    "example_Sentence": "Global market expansion."
+  },
+  {
+    "word": "individual",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Relating to a single person or thing as opposed to more than one.",
+    "synonyms": "personal, separate",
+    "example_Sentence": "Individual attention given."
+  },
+  {
+    "word": "innovative",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Characterized by the creation of new ideas or inventions.",
+    "synonyms": "creative, original",
+    "example_Sentence": "Innovative approach adopted."
+  },
+  {
+    "word": "internal",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Inside of something",
+    "synonyms": "inside, domestic",
+    "example_Sentence": "Internal communication improved."
+  },
+  {
+    "word": "liberal",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(now rare outside set phrases) Pertaining to those arts and sciences the study of which is considered to provide general knowledge, as opposed to vocational/occupational, technical or mechanical training.",
+    "synonyms": "progressive, broad",
+    "example_Sentence": "Liberal education philosophy."
+  },
+  {
+    "word": "logical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "In agreement with the principles of logic.",
+    "synonyms": "reasonable, rational",
+    "example_Sentence": "Logical argument presented."
+  },
+  {
+    "word": "major",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "",
+    "synonyms": "important, significant",
+    "example_Sentence": "Major breakthrough achieved."
+  },
+  {
+    "word": "minimum",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To the lowest degree.",
+    "synonyms": "lowest, least",
+    "example_Sentence": "Minimum standards met."
+  },
+  {
+    "word": "modern",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to a current or recent time and style; not ancient.",
+    "synonyms": "contemporary, current",
+    "example_Sentence": "Modern technology used."
+  },
+  {
+    "word": "natural",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "That exists and evolved within the confines of an ecosystem.",
+    "synonyms": "organic, normal",
+    "example_Sentence": "Natural resources protected."
+  },
+  {
+    "word": "negative",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not positive nor neutral.",
+    "synonyms": "bad, harmful",
+    "example_Sentence": "Negative impact avoided."
+  },
+  {
+    "word": "normal",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "According to norms or rules or to a regular pattern.",
+    "synonyms": "usual, standard",
+    "example_Sentence": "Normal procedures followed."
+  },
+  {
+    "word": "obvious",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Easily discovered, seen, or understood; self-explanatory.",
+    "synonyms": "clear, evident",
+    "example_Sentence": "Obvious solution found."
+  },
+  {
+    "word": "original",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Relating to the origin or beginning; preceding all others",
+    "synonyms": "new, creative",
+    "example_Sentence": "Original idea developed."
+  },
+  {
+    "word": "particular",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining only to a part of something; partial.",
+    "synonyms": "specific, special",
+    "example_Sentence": "Particular attention needed."
+  },
+  {
+    "word": "personal",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to human beings as distinct from things.",
+    "synonyms": "individual, private",
+    "example_Sentence": "Personal development important."
+  },
+  {
+    "word": "physical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of medicine.",
+    "synonyms": "bodily, material",
+    "example_Sentence": "Physical exercise needed."
+  },
+  {
+    "word": "positive",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not negative or neutral.",
+    "synonyms": "good, beneficial",
+    "example_Sentence": "Positive results achieved."
+  },
+  {
+    "word": "potential",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Existing in possibility, not in actuality.",
+    "synonyms": "possible, likely",
+    "example_Sentence": "Potential problems identified."
+  },
+  {
+    "word": "practical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Based on practice or action rather than theory or hypothesis",
+    "synonyms": "useful, realistic",
+    "example_Sentence": "Practical solutions preferred."
+  },
+  {
+    "word": "previous",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Prior; occurring before something else, either in time or order.",
+    "synonyms": "former, earlier",
+    "example_Sentence": "Previous experience helpful."
+  },
+  {
+    "word": "primary",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "First or earliest in a group or series.",
+    "synonyms": "main, principal",
+    "example_Sentence": "Primary objective achieved."
+  },
+  {
+    "word": "professional",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of, pertaining to, or in accordance with the (usually high) standards of a profession.",
+    "synonyms": "expert, skilled",
+    "example_Sentence": "Professional development needed."
+  },
+  {
+    "word": "progressive",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Favouring or promoting progress; advanced.",
+    "synonyms": "forward, advanced",
+    "example_Sentence": "Progressive policies adopted."
+  },
+  {
+    "word": "psychological",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or pertaining to psychology.",
+    "synonyms": "mental, emotional",
+    "example_Sentence": "Psychological support provided."
+  },
+  {
+    "word": "reasonable",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having the faculty of reason; rational, reasoning.",
+    "synonyms": "fair, sensible",
+    "example_Sentence": "Reasonable price offered."
+  },
+  {
+    "word": "recent",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having happened a short while ago.",
+    "synonyms": "latest, new",
+    "example_Sentence": "Recent developments noted."
+  },
+  {
+    "word": "regular",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Bound by religious rule; belonging to a monastic or religious order (often as opposed to secular).",
+    "synonyms": "frequent, normal",
+    "example_Sentence": "Regular meetings scheduled."
+  },
+  {
+    "word": "relevant",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Directly related, connected, or pertinent to a topic.",
+    "synonyms": "applicable, pertinent",
+    "example_Sentence": "Relevant information provided."
+  },
+  {
+    "word": "reliable",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Suitable or fit to be relied on; worthy of dependence, reliance or trust; dependable, trustworthy",
+    "synonyms": "dependable, trustworthy",
+    "example_Sentence": "Reliable service guaranteed."
+  },
+  {
+    "word": "responsible",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(followed by \"for\") Having the duty of taking care of something; answerable for an act performed or for its consequences; accountable; amenable, especially legally or politically.",
+    "synonyms": "accountable, reliable",
+    "example_Sentence": "Responsible behavior expected."
+  },
+  {
+    "word": "scientific",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of, or having to do with science.",
+    "synonyms": "systematic, empirical",
+    "example_Sentence": "Scientific method applied."
+  },
+  {
+    "word": "significant",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Signifying something; carrying meaning.",
+    "synonyms": "important, meaningful",
+    "example_Sentence": "Significant progress made."
+  },
+  {
+    "word": "similar",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having traits or characteristics in common; alike, comparable.",
+    "synonyms": "alike, comparable",
+    "example_Sentence": "Similar results obtained."
+  },
+  {
+    "word": "social",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Being extroverted or outgoing.",
+    "synonyms": "community, public",
+    "example_Sentence": "Social responsibility important."
+  },
+  {
+    "word": "specific",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Explicit or definite",
+    "synonyms": "particular, exact",
+    "example_Sentence": "Specific requirements listed."
+  },
+  {
+    "word": "standard",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Falling within an accepted range of size, amount, power, quality, etc.",
+    "synonyms": "normal, regular",
+    "example_Sentence": "Standard procedures followed."
+  },
+  {
+    "word": "successful",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Resulting in success; assuring, or promoting, success; accomplishing what was proposed; having the desired effect",
+    "synonyms": "effective, triumphant",
+    "example_Sentence": "Successful project completed."
+  },
+  {
+    "word": "sufficient",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Equal to the end proposed; adequate to what is needed; enough",
+    "synonyms": "adequate, enough",
+    "example_Sentence": "Sufficient resources available."
+  },
+  {
+    "word": "technical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or pertaining to the useful or mechanic arts, or to any academic, legal, science, engineering, business, or the like terminology with specific and precise meaning or (frequently, as a degree of distinction) shades of meaning; specially appropriate to any art, science or engineering field, or business",
+    "synonyms": "specialized, expert",
+    "example_Sentence": "Technical skills required."
+  },
+  {
+    "word": "temporary",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not permanent; existing only for a period or periods of time.",
+    "synonyms": "short-term, brief",
+    "example_Sentence": "Temporary solution implemented."
+  },
+  {
+    "word": "theoretical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or relating to theory; abstract; not empirical.",
+    "synonyms": "abstract, conceptual",
+    "example_Sentence": "Theoretical knowledge important."
+  },
+  {
+    "word": "traditional",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of, relating to, or derived from tradition.",
+    "synonyms": "conventional, established",
+    "example_Sentence": "Traditional methods used."
+  },
+  {
+    "word": "typical",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Capturing the overall sense of a thing.",
+    "synonyms": "normal, characteristic",
+    "example_Sentence": "Typical example given."
+  },
+  {
+    "word": "unique",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Being the only one of its kind; unequaled, unparalleled or unmatched.",
+    "synonyms": "special, distinctive",
+    "example_Sentence": "Unique opportunity presented."
+  },
+  {
+    "word": "useful",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a practical or beneficial use.",
+    "synonyms": "helpful, beneficial",
+    "example_Sentence": "Useful information shared."
+  },
+  {
+    "word": "valuable",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a great value.",
+    "synonyms": "precious, worthwhile",
+    "example_Sentence": "Valuable experience gained."
+  },
+  {
+    "word": "various",
+    "level": "Intermediate",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a broad range (of different elements).",
+    "synonyms": "different, diverse",
+    "example_Sentence": "Various options considered."
+  },
+  {
+    "word": "aberration",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The act of wandering; deviation from truth, moral rectitude; abnormal; divergence from the straight, correct, proper, normal, or from the natural state.",
+    "synonyms": "deviation, anomaly",
+    "example_Sentence": "The sudden policy change was an aberration."
+  },
+  {
+    "word": "abhorrent",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Inconsistent with, or far removed from, something; strongly opposed",
+    "synonyms": "detestable, repugnant",
+    "example_Sentence": "His behavior was absolutely abhorrent."
+  },
+  {
+    "word": "abscond",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.",
+    "synonyms": "flee, escape",
+    "example_Sentence": "The treasurer absconded with company funds."
+  },
+  {
+    "word": "accolade",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An expression of approval; praise.",
+    "synonyms": "honor, recognition",
+    "example_Sentence": "She received accolades for her research."
+  },
+  {
+    "word": "acrimonious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Harsh and sharp, or bitter and not pleasant to the taste; acrid, pungent.",
+    "synonyms": "bitter, hostile",
+    "example_Sentence": "The acrimonious debate lasted hours."
+  },
+  {
+    "word": "aesthetic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Concerned with beauty, artistic impact, or appearance.",
+    "synonyms": "artistic, beautiful",
+    "example_Sentence": "The aesthetic appeal was undeniable."
+  },
+  {
+    "word": "affable",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Receiving others kindly and conversing with them in a free and friendly manner; friendly, courteous, sociable.",
+    "synonyms": "friendly, genial",
+    "example_Sentence": "His affable manner won hearts."
+  },
+  {
+    "word": "alacrity",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Eagerness; liveliness; enthusiasm.",
+    "synonyms": "eagerness, enthusiasm",
+    "example_Sentence": "She accepted the offer with alacrity."
+  },
+  {
+    "word": "ameliorate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make better, or improve, something perceived to be in a negative condition.",
+    "synonyms": "improve, enhance",
+    "example_Sentence": "Policies to ameliorate poverty."
+  },
+  {
+    "word": "analogous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having analogy; corresponding to something else; bearing some resemblance or proportion (often followed by \"to\".)",
+    "synonyms": "similar, comparable",
+    "example_Sentence": "The situation is analogous to previous cases."
+  },
+  {
+    "word": "anathema",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A ban or curse pronounced with religious solemnity by ecclesiastical authority, often accompanied by excommunication; something denounced as accursed.",
+    "synonyms": "curse, abomination",
+    "example_Sentence": "Violence is anathema to his beliefs."
+  },
+  {
+    "word": "antipathy",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste.",
+    "synonyms": "aversion, hostility",
+    "example_Sentence": "He felt antipathy toward the proposal."
+  },
+  {
+    "word": "apathy",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lack of emotion or motivation; lack of interest or enthusiasm towards something; disinterest (in something).",
+    "synonyms": "indifference, lethargy",
+    "example_Sentence": "Political apathy concerns leaders."
+  },
+  {
+    "word": "arbitrary",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(usually of a decision) Based on individual discretion or judgment; not based on any objective distinction, perhaps even made at random.",
+    "synonyms": "random, capricious",
+    "example_Sentence": "The decision seemed arbitrary."
+  },
+  {
+    "word": "archaic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or characterized by antiquity; old-fashioned, quaint, antiquated.",
+    "synonyms": "ancient, obsolete",
+    "example_Sentence": "Archaic laws need updating."
+  },
+  {
+    "word": "arduous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Needing or using up much energy; testing powers of endurance.",
+    "synonyms": "difficult, strenuous",
+    "example_Sentence": "The arduous journey tested them."
+  },
+  {
+    "word": "ascetic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or relating to ascetics",
+    "synonyms": "austere, frugal",
+    "example_Sentence": "His ascetic lifestyle was admired."
+  },
+  {
+    "word": "assiduous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Hard-working, diligent or regular (in attendance or work); industrious.",
+    "synonyms": "diligent, meticulous",
+    "example_Sentence": "Her assiduous research paid off."
+  },
+  {
+    "word": "astute",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Quickly and critically discerning.",
+    "synonyms": "shrewd, perceptive",
+    "example_Sentence": "An astute business decision."
+  },
+  {
+    "word": "audacious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Showing willingness to take bold risks; recklessly daring.",
+    "synonyms": "bold, daring",
+    "example_Sentence": "An audacious plan was proposed."
+  },
+  {
+    "word": "austere",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Grim or severe in manner or appearance",
+    "synonyms": "stern, strict",
+    "example_Sentence": "The austere building impressed visitors."
+  },
+  {
+    "word": "autonomous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Self-governing. Intelligent, sentient, self-aware, thinking, feeling, governing independently.",
+    "synonyms": "independent, self-governing",
+    "example_Sentence": "The autonomous region prospered."
+  },
+  {
+    "word": "avarice",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Excessive or inordinate desire of gain; greed for wealth",
+    "synonyms": "greed, cupidity",
+    "example_Sentence": "His avarice destroyed relationships."
+  },
+  {
+    "word": "benevolent",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a disposition to do good.",
+    "synonyms": "kind, charitable",
+    "example_Sentence": "A benevolent ruler loved by all."
+  },
+  {
+    "word": "bombastic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of a person, their language or writing) showy in speech and given to using flowery or elaborate terms; grandiloquent; pompous",
+    "synonyms": "pompous, pretentious",
+    "example_Sentence": "His bombastic rhetoric was empty."
+  },
+  {
+    "word": "bucolic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Rustic, pastoral, country-styled.",
+    "synonyms": "pastoral, rustic",
+    "example_Sentence": "The bucolic setting was peaceful."
+  },
+  {
+    "word": "byzantine",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Of or pertaining to Byzantium.",
+    "synonyms": "complex, convoluted",
+    "example_Sentence": "The byzantine regulations confused everyone."
+  },
+  {
+    "word": "camaraderie",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Close friendship in a group of friends or teammates.",
+    "synonyms": "fellowship, solidarity",
+    "example_Sentence": "Team camaraderie improved performance."
+  },
+  {
+    "word": "candid",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Impartial and free from prejudice.",
+    "synonyms": "honest, frank",
+    "example_Sentence": "Her candid assessment was helpful."
+  },
+  {
+    "word": "capitulate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To surrender; to end all resistance, to give up; to go along with or comply.",
+    "synonyms": "surrender, yield",
+    "example_Sentence": "They refused to capitulate."
+  },
+  {
+    "word": "capricious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Impulsive and unpredictable; determined by chance, impulse, or whim",
+    "synonyms": "whimsical, fickle",
+    "example_Sentence": "Her capricious nature was unpredictable."
+  },
+  {
+    "word": "catalyst",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A substance that increases the rate of a chemical reaction without being consumed in the process.",
+    "synonyms": "stimulus, trigger",
+    "example_Sentence": "Education is a catalyst for progress."
+  },
+  {
+    "word": "caustic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Capable of burning, corroding or destroying organic tissue.",
+    "synonyms": "sarcastic, cutting",
+    "example_Sentence": "His caustic comments hurt feelings."
+  },
+  {
+    "word": "circumspect",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Carefully aware of all circumstances; considerate of all that is pertinent.",
+    "synonyms": "cautious, prudent",
+    "example_Sentence": "A circumspect approach was needed."
+  },
+  {
+    "word": "cogent",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Reasonable and convincing; based on evidence.",
+    "synonyms": "convincing, compelling",
+    "example_Sentence": "She made a cogent argument."
+  },
+  {
+    "word": "complacent",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Uncritically satisfied with oneself or one's achievements; smug.",
+    "synonyms": "self-satisfied, smug",
+    "example_Sentence": "Don't become complacent about success."
+  },
+  {
+    "word": "connoisseur",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A specialist in a given field whose opinion is highly valued, especially in one of the fine arts or in matters of taste",
+    "synonyms": "expert, authority",
+    "example_Sentence": "A wine connoisseur appreciated quality."
+  },
+  {
+    "word": "conundrum",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A difficult question or riddle, especially one using a play on words in the answer.",
+    "synonyms": "puzzle, dilemma",
+    "example_Sentence": "The ethical conundrum puzzled scholars."
+  },
+  {
+    "word": "copious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Vast in quantity or number, profuse, abundant; taking place on a large scale.",
+    "synonyms": "abundant, plentiful",
+    "example_Sentence": "Copious notes were taken."
+  },
+  {
+    "word": "corroborate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To confirm or support something with additional evidence; to attest or vouch for.",
+    "synonyms": "confirm, substantiate",
+    "example_Sentence": "Evidence corroborated his story."
+  },
+  {
+    "word": "credulous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Excessively ready to believe things; gullible.",
+    "synonyms": "gullible, naive",
+    "example_Sentence": "Don't be credulous about claims."
+  },
+  {
+    "word": "cryptic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having hidden meaning.",
+    "synonyms": "mysterious, enigmatic",
+    "example_Sentence": "The cryptic message puzzled everyone."
+  },
+  {
+    "word": "cursory",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Hasty; superficial; careless",
+    "synonyms": "superficial, brief",
+    "example_Sentence": "A cursory glance revealed nothing."
+  },
+  {
+    "word": "dearth",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A period or condition when food is rare and hence expensive; famine.",
+    "synonyms": "shortage, scarcity",
+    "example_Sentence": "A dearth of qualified candidates."
+  },
+  {
+    "word": "debacle",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "An event or enterprise that ends suddenly and disastrously, often with humiliating consequences.",
+    "synonyms": "disaster, fiasco",
+    "example_Sentence": "The project became a debacle."
+  },
+  {
+    "word": "decorous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Marked by proper behavior.",
+    "synonyms": "proper, dignified",
+    "example_Sentence": "Decorous behavior was expected."
+  },
+  {
+    "word": "deferential",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Respectful and considerate; showing deference.",
+    "synonyms": "respectful, submissive",
+    "example_Sentence": "His deferential manner impressed superiors."
+  },
+  {
+    "word": "deleterious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Harmful often in a subtle or unexpected way.",
+    "synonyms": "harmful, damaging",
+    "example_Sentence": "Deleterious effects on health."
+  },
+  {
+    "word": "delineate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To sketch out, draw or trace an outline.",
+    "synonyms": "outline, define",
+    "example_Sentence": "Delineate the project boundaries."
+  },
+  {
+    "word": "denigrate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To criticise so as to besmirch; traduce, disparage or defame.",
+    "synonyms": "disparage, belittle",
+    "example_Sentence": "Don't denigrate their efforts."
+  },
+  {
+    "word": "desultory",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Jumping, or passing, from one thing or subject to another, without order, planning, or rational connection; lacking logical sequence.",
+    "synonyms": "aimless, random",
+    "example_Sentence": "Desultory conversation filled time."
+  },
+  {
+    "word": "diaphanous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Transparent or translucent; allowing light to pass through; capable of being seen through.",
+    "synonyms": "transparent, sheer",
+    "example_Sentence": "Diaphanous curtains filtered sunlight."
+  },
+  {
+    "word": "dichotomy",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "A separation or division into two; a distinction that results in such a division.",
+    "synonyms": "division, contrast",
+    "example_Sentence": "The dichotomy between theory and practice."
+  },
+  {
+    "word": "diffident",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lacking confidence in others; distrustful.",
+    "synonyms": "shy, timid",
+    "example_Sentence": "His diffident manner was endearing."
+  },
+  {
+    "word": "discordant",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not in harmony or accord",
+    "synonyms": "conflicting, jarring",
+    "example_Sentence": "Discordant voices disrupted harmony."
+  },
+  {
+    "word": "discursive",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "(of speech or writing) Tending to digress from the main point; rambling.",
+    "synonyms": "rambling, meandering",
+    "example_Sentence": "His discursive lecture wandered."
+  },
+  {
+    "word": "disparate",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Composed of inherently different or distinct elements; incongruous.",
+    "synonyms": "different, distinct",
+    "example_Sentence": "Disparate elements combined creatively."
+  },
+  {
+    "word": "dissemble",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To disguise or conceal something.",
+    "synonyms": "deceive, disguise",
+    "example_Sentence": "Politicians often dissemble their intentions."
+  },
+  {
+    "word": "ebullient",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Enthusiastic; high-spirited.",
+    "synonyms": "exuberant, enthusiastic",
+    "example_Sentence": "Her ebullient personality lifted spirits."
+  },
+  {
+    "word": "eclectic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Selecting a mixture of what appears to be best of various doctrines, methods or styles.",
+    "synonyms": "diverse, varied",
+    "example_Sentence": "An eclectic collection impressed visitors."
+  },
+  {
+    "word": "efficacious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Effective; possessing efficacy.",
+    "synonyms": "effective, successful",
+    "example_Sentence": "The efficacious treatment worked quickly."
+  },
+  {
+    "word": "effrontery",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Insolent and shameless audacity.",
+    "synonyms": "audacity, nerve",
+    "example_Sentence": "His effrontery shocked everyone."
+  },
+  {
+    "word": "egregious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Usually in a negative sense: conspicuous, exceptional, outstanding.",
+    "synonyms": "flagrant, blatant",
+    "example_Sentence": "An egregious error cost money."
+  },
+  {
+    "word": "elicit",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To evoke, educe (emotions, feelings, responses, etc.); to generate, obtain, or provoke as a response or answer.",
+    "synonyms": "draw, extract",
+    "example_Sentence": "Questions elicited honest responses."
+  },
+  {
+    "word": "empirical",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to or based on experience.",
+    "synonyms": "observational, practical",
+    "example_Sentence": "Empirical evidence supported theory."
+  },
+  {
+    "word": "endemic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Native to a particular area or culture; originating where it occurs.",
+    "synonyms": "native, inherent",
+    "example_Sentence": "Corruption was endemic in system."
+  },
+  {
+    "word": "enigmatic",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Pertaining to an enigma.",
+    "synonyms": "mysterious, puzzling",
+    "example_Sentence": "Her enigmatic smile puzzled observers."
+  },
+  {
+    "word": "ephemeral",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Lasting for a short period of time.",
+    "synonyms": "temporary, fleeting",
+    "example_Sentence": "Fame can be ephemeral."
+  },
+  {
+    "word": "epitome",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The embodiment or encapsulation of a class of items.",
+    "synonyms": "embodiment, quintessence",
+    "example_Sentence": "She's the epitome of grace."
+  },
+  {
+    "word": "equanimity",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The state of being calm, stable and composed, especially under stress.",
+    "synonyms": "composure, serenity",
+    "example_Sentence": "He faced crisis with equanimity."
+  },
+  {
+    "word": "erudite",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Learned, scholarly, with emphasis on knowledge gained from books.",
+    "synonyms": "learned, scholarly",
+    "example_Sentence": "The erudite professor impressed students."
+  },
+  {
+    "word": "esoteric",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Intended for or likely to be understood by only a small number of people with a specialized knowledge or interest, or an enlightened inner circle.",
+    "synonyms": "obscure, specialized",
+    "example_Sentence": "Esoteric knowledge wasn't widely shared."
+  },
+  {
+    "word": "euphemism",
+    "level": "Advanced",
+    "partsOfSpeech": "noun",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "The use of a word or phrase to replace another with one that is considered less offensive, blunt or vulgar than the word or phrase which it replaces.",
+    "synonyms": "substitute, circumlocution",
+    "example_Sentence": "Euphemisms soften difficult truths."
+  },
+  {
+    "word": "exacerbate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To make worse (a problem, bad situation, negative feeling, etc.); aggravate; exasperate.",
+    "synonyms": "worsen, aggravate",
+    "example_Sentence": "Stress can exacerbate health problems."
+  },
+  {
+    "word": "exemplary",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Deserving honour, respect and admiration.",
+    "synonyms": "outstanding, admirable",
+    "example_Sentence": "Exemplary behavior earned recognition."
+  },
+  {
+    "word": "exonerate",
+    "level": "Advanced",
+    "partsOfSpeech": "verb",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "To relieve (someone or something) of a load; to unburden (a load).",
+    "synonyms": "clear, vindicate",
+    "example_Sentence": "Evidence exonerated the defendant."
+  },
+  {
+    "word": "expedient",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Suitable to effect some desired end or the purpose intended.",
+    "synonyms": "practical, advantageous",
+    "example_Sentence": "An expedient solution was found."
+  },
+  {
+    "word": "explicit",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Very specific, clear, or detailed.",
+    "synonyms": "clear, definite",
+    "example_Sentence": "Explicit instructions were given."
+  },
+  {
+    "word": "extraneous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Not belonging to, or dependent upon, a thing; without or beyond a thing; foreign",
+    "synonyms": "irrelevant, unnecessary",
+    "example_Sentence": "Remove extraneous information."
+  },
+  {
+    "word": "facetious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Treating serious issues with (often deliberately) inappropriate humour; flippant.",
+    "synonyms": "flippant, joking",
+    "example_Sentence": "His facetious remarks annoyed colleagues."
+  },
+  {
+    "word": "fallacious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Characterized by fallacy; false or mistaken.",
+    "synonyms": "false, erroneous",
+    "example_Sentence": "The fallacious argument was rejected."
+  },
+  {
+    "word": "fastidious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Excessively particular, demanding, or fussy about details, especially about tidiness and cleanliness.",
+    "synonyms": "meticulous, particular",
+    "example_Sentence": "Her fastidious nature ensured quality."
+  },
+  {
+    "word": "fatuous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Obnoxiously stupid, vacantly silly, content in one's foolishness.",
+    "synonyms": "foolish, inane",
+    "example_Sentence": "Fatuous comments wasted time."
+  },
+  {
+    "word": "fervent",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Exhibiting particular enthusiasm, zeal, conviction, persistence, or belief.",
+    "synonyms": "passionate, zealous",
+    "example_Sentence": "Fervent supporters rallied for cause."
+  },
+  {
+    "word": "florid",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Having a rosy or pale red colour; ruddy.",
+    "synonyms": "ornate, elaborate",
+    "example_Sentence": "His florid prose was criticized."
+  },
+  {
+    "word": "fortuitous",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_text": "",
+    "phonetics_audio": "",
+    "definitions": "Happening by chance; coincidental, accidental.",
+    "synonyms": "fortunate, lucky",
+    "example_Sentence": "A fortuitous meeting changed everything."
+  },
+  {
+    "word": "fractious",
+    "level": "Advanced",
+    "partsOfSpeech": "adjective",
+    "phonetics_audio": "https://api.dictionaryapi.dev/media/pronunciations/en/fractious-uk.mp3",
+    "definitions": "Given to troublemaking.",
+    "synonyms": "quarrelsome, unruly",
+    "example_Sentence": "Fractious committee members argued constantly."
+  }
+]
