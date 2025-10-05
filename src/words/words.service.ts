@@ -16,7 +16,7 @@ export class WordsService {
         const user = await this.userService.findByFirebaseUid(uid);
         const userId = user?.id;
         if (!userId) throw new Error('User not found');
-
+        
         // Fetch today's session words
         const todaySessionWords = await this.prisma.todaySessionVocabWords.findMany({
             where: {

@@ -8,10 +8,12 @@ import { UserController } from './user/user.controller';
 import { WordsModule } from './words/words.module';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
+import { QuizController } from './quiz/quiz.controller';
+import { QuizService } from './quiz/quiz.service';
 
 @Module({
-  providers: [PrismaService, UsersService, FirebaseAdminService, AuthService,AppService],
-  controllers: [AuthController, UserController,AppController],
+  providers: [PrismaService, UsersService, FirebaseAdminService, AuthService,AppService, QuizService],
+  controllers: [AuthController, UserController,AppController, QuizController],
   imports: [WordsModule],
 })
 export class AppModule {}

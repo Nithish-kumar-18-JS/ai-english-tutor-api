@@ -21,28 +21,29 @@ model User {
   trackWeeklyGoals  TrackWeeklyWordsGoals[]
   userWordStreaks   UserWordStreaks[]
   userAchievements  UserAchievements[]
+  UserGeneratedQuiz UserGeneratedQuiz[]
 }
 
 model OnBoardingQuestions {
-  id                    Int      @id @default(autoincrement())
-  user                  User     @relation(fields: [userId], references: [id])
-  userId                Int
+  id                     Int      @id @default(autoincrement())
+  user                   User     @relation(fields: [userId], references: [id])
+  userId                 Int
   englishProficiencyGoal String
-  whyLearningEnglish    String
-  englishLevel          String
-  timeSpentEnglish      String
-  streakAlerts          Boolean
-  quickChallenge        String
-  createdAt             DateTime @default(now())
-  updatedAt             DateTime @updatedAt
+  whyLearningEnglish     String
+  englishLevel           String
+  timeSpentEnglish       String
+  streakAlerts           Boolean
+  quickChallenge         String
+  createdAt              DateTime @default(now())
+  updatedAt              DateTime @updatedAt
 }
 
 model TodaySessionVocabWords {
   id        Int             @id @default(autoincrement())
   user      User            @relation(fields: [userId], references: [id])
   userId    Int
-  word     VocabularyWords @relation(fields: [wordId], references: [id])
-  wordId    Int    
+  word      VocabularyWords @relation(fields: [wordId], references: [id])
+  wordId    Int
   createdAt DateTime        @default(now())
   updatedAt DateTime        @updatedAt
 }
@@ -69,25 +70,25 @@ enum WordStreakType {
 }
 
 model UserWordStreaks {
-  id           Int         @id @default(autoincrement())
-  user         User        @relation(fields: [userId], references: [id])
-  userId       Int
-  wordStreak   WordStreaks @relation(fields: [wordStreakId], references: [id])
-  wordStreakId Int
+  id            Int         @id @default(autoincrement())
+  user          User        @relation(fields: [userId], references: [id])
+  userId        Int
+  wordStreak    WordStreaks @relation(fields: [wordStreakId], references: [id])
+  wordStreakId  Int
   currentStreak Int
-  createdAt    DateTime @default(now())
-  updatedAt    DateTime @updatedAt
+  createdAt     DateTime    @default(now())
+  updatedAt     DateTime    @updatedAt
 
   @@unique([userId, wordStreakId])
 }
 
 model WordStreaks {
-  id        Int             @id @default(autoincrement())
-  createdAt DateTime        @default(now())
-  updatedAt DateTime        @updatedAt
-  name      String          @unique
-  type      WordStreakType
-  goal      Int
+  id              Int               @id @default(autoincrement())
+  createdAt       DateTime          @default(now())
+  updatedAt       DateTime          @updatedAt
+  name            String            @unique
+  type            WordStreakType
+  goal            Int
   UserWordStreaks UserWordStreaks[]
 }
 
@@ -98,38 +99,38 @@ enum AchievementType {
 }
 
 model Achievement {
-  id        Int      @id @default(autoincrement())
-  name      String   @unique
-  type      AchievementType
-  condition Json     // e.g. { "words": 500 } or { "days": 30 }
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
+  id               Int                @id @default(autoincrement())
+  name             String             @unique
+  type             AchievementType
+  condition        Json // e.g. { "words": 500 } or { "days": 30 }
+  createdAt        DateTime           @default(now())
+  updatedAt        DateTime           @updatedAt
   userAchievements UserAchievements[]
 }
 
 model UserAchievements {
-  id             Int          @id @default(autoincrement())
-  user           User         @relation(fields: [userId], references: [id])
-  userId         Int
-  achievement    Achievement  @relation(fields: [achievementId], references: [id])
-  achievementId  Int
-  unlockedAt     DateTime     @default(now())
+  id            Int         @id @default(autoincrement())
+  user          User        @relation(fields: [userId], references: [id])
+  userId        Int
+  achievement   Achievement @relation(fields: [achievementId], references: [id])
+  achievementId Int
+  unlockedAt    DateTime    @default(now())
 
   @@unique([userId, achievementId])
 }
 
 model VocabularyWords {
-  id              Int      @id @default(autoincrement())
-  level           String
-  word            String
-  partOfSpeech    String
-  exampleSentence String
-  phoneticsText   String
-  phoneticsAudio  String
-  definitions     String
-  createdAt       DateTime @default(now())
-  updatedAt       DateTime @updatedAt
-  UserWords       UserWords[]
+  id                     Int                      @id @default(autoincrement())
+  level                  String
+  word                   String
+  partOfSpeech           String
+  exampleSentence        String
+  phoneticsText          String
+  phoneticsAudio         String
+  definitions            String
+  createdAt              DateTime                 @default(now())
+  updatedAt              DateTime                 @updatedAt
+  UserWords              UserWords[]
   TodaySessionVocabWords TodaySessionVocabWords[]
 }
 
@@ -142,9 +143,18 @@ model UserWords {
   id        Int             @id @default(autoincrement())
   user      User            @relation(fields: [userId], references: [id])
   userId    Int
-  word     VocabularyWords @relation(fields: [wordId], references: [id])
+  word      VocabularyWords @relation(fields: [wordId], references: [id])
   wordId    Int
   status    UserWordStatus
   createdAt DateTime        @default(now())
   updatedAt DateTime        @updatedAt
+}
+
+model UserGeneratedQuiz {
+  id        Int      @id @default(autoincrement())
+  user      User     @relation(fields: [userId], references: [id])
+  userId    Int
+  quiz      Json
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
 }
