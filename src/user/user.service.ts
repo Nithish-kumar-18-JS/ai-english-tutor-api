@@ -40,12 +40,12 @@ export class UsersService {
               id: user.id,
             },
           },
-          englishProficiencyGoal: body.english_proficiency_goal,
-          whyLearningEnglish: body.why_are_learning_english,
-          englishLevel: body.english_level,
-          timeSpentEnglish: body.time_spent_english,
-          streakAlerts: body.streak_alerts,
-          quickChallenge: body.quick_challenge,
+          englishProficiencyGoal: body.english_proficiency_goal || null,
+          whyLearningEnglish: body.why_are_learning_english || null,
+          englishLevel: body.english_level || null,
+          timeSpentEnglish: body.time_spent_english || null,
+          streakAlerts: body.streak_alerts || false,
+          quickChallenge: body.quick_challenge || null,
         },
       });
       return onboarding;
