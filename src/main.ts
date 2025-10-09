@@ -1,3 +1,5 @@
+// Load .env early so environment variables (DATABASE_URL, FIREBASE_*, etc.) are available
+import 'dotenv/config';
 import { NestFactory } from '@nestjs/core';
 import { AppModule } from './app.module';
 import * as express from 'express';
@@ -9,6 +11,7 @@ async function bootstrap() {
     origin: [
       process.env.FRONTEND_URL || 'http://localhost:8081',
       'http://localhost:8081',
+      'http://localhost:8080',
       'https://api.cron-job.org'
     ],
     credentials: true,
