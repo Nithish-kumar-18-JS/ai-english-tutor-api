@@ -100,9 +100,6 @@ RUN apt-get update -y \
 COPY --from=builder /app/dist ./dist
 COPY --from=builder /app/node_modules/.prisma ./node_modules/.prisma
 
-# Copy .env if you want Prisma & Nest to access environment variables
-COPY .env .env
-
 # Environment variables
 ENV NODE_ENV=production
 ENV NODE_OPTIONS=--max-old-space-size=4096
