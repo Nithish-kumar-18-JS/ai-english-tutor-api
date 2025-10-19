@@ -7,22 +7,22 @@
   "license": "UNLICENSED",
   "scripts": {
   "build": "nest build && npx prisma generate",
-  "start": "node -r tsconfig-paths/register --max-old-space-size=4096 dist/main",
+  "start": "node bootstrap.js",
   "start:dev": "NODE_OPTIONS=--max-old-space-size=4096 nest start --watch",
   "start:debug": "NODE_OPTIONS=--max-old-space-size=4096 nest start --debug --watch",
-  "start:prod": "node --max-old-space-size=4096 dist/main",
+  "start:prod": "node --max-old-space-size=4096 bootstrap.js",
   "postinstall": "npm run build || true",
-    "seed": "npx ts-node src/seed/seed_all.ts",
-    "seed:gamification": "npx ts-node src/seed/seed_gamification.ts",
-    "seed:words": "node src/seed/seed_words.js",
-    "seed:words:ts": "npx ts-node src/seed/seed_words.ts",
-    "prisma:migrate": "npx prisma migrate dev",
-    "prisma:generate": "npx prisma generate",
-    "prisma:reset": "npx prisma migrate reset",
-    "prisma:deploy": "npx prisma migrate deploy"
-  },
+  "seed": "npx ts-node src/seed/seed_all.ts",
+  "seed:gamification": "npx ts-node src/seed/seed_gamification.ts",
+  "seed:words": "node src/seed/seed_words.js",
+  "seed:words:ts": "npx ts-node src/seed/seed_words.ts",
+  "prisma:migrate": "npx prisma migrate dev",
+  "prisma:generate": "npx prisma generate",
+  "prisma:reset": "npx prisma migrate reset",
+  "prisma:deploy": "npx prisma migrate deploy"
+}
+  ,
   "dependencies": {
-    "tsconfig-paths": "^4.2.0",
     "@nestjs/common": "^11.0.1",
     "@nestjs/core": "^11.0.1",
     "@nestjs/platform-express": "^11.0.1",
@@ -34,7 +34,8 @@
     "pg": "^8.16.3",
     "reflect-metadata": "^0.2.2",
     "rxjs": "^7.8.1",
-    "typeorm": "^0.3.26"
+    "typeorm": "^0.3.26",
+    "tsconfig-paths": "^4.2.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^11.0.0",
@@ -54,7 +55,6 @@
     "ts-jest": "^29.2.5",
     "ts-loader": "^9.5.2",
     "ts-node": "^10.9.2",
-    "tsconfig-paths": "^4.2.0",
     "typescript": "^5.7.3"
   },
   "jest": {
